@@ -1,0 +1,9 @@
+theme = "hyde"
+languageCode = "en-us"
+baseurl = "https://mathsanddatanyu.github.io/website/"
+title = "Math and Data"
+
+[params]
+	description = "Center for Data Science, NYU"
+	Author = "JB"
+	disqusShortname = "Joan"
