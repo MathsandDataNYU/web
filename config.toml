@@ -6,4 +6,4 @@ title = "Math and Data"
 [params]
 	description = "Center for Data Science, NYU"
 	Author = "JB"
-	disqusShortname = "Joan"
+	##disqusShortname = "Joan"
