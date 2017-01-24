@@ -11,7 +11,7 @@ hugo ;
 
 #push public site
 #cd public && (cd ..; hugo) && git add --all & git commit -m "$messg" && git push -f origin gh-pages ;
-pubdir 
+pubdir && `pwd`
 
 
 
