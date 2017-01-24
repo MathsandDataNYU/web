@@ -8,7 +8,6 @@ Categories = [
   "Development",
   "GoLang",
 ]
-menu = "main"
 date = "2017-01-24T15:40:00-05:00"
 title = "reading"
 
