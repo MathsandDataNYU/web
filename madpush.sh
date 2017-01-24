@@ -9,7 +9,7 @@ git pull && git add --all && git commit -m "$messg" && git push --set-upstream o
 hugo ;
 
 #push public site
-cd public && git add --all & git commit -m "$messg" && git push -f origin gh-pages ;
+cd public && (cd ..; hugo) && git add --all & git commit -m "$messg" && git push -f origin gh-pages ;
 
 
 
