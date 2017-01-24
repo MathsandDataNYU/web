@@ -1,4 +1,4 @@
-theme = "hyde2"
+theme = "hyde"
 languageCode = "en-us"
 baseurl = "https://mathsanddatanyu.github.io/website/"
 title = "Math and Data"
