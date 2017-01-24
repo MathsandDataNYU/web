@@ -3,7 +3,7 @@
 messg=${1:-update}
 
 #first push private changes
-git pull && git add --all && git commit -m '$messg' && git push ;
+git pull && git add --all && git commit -m '$messg' && git push --set-upstream origin master;
 
 #create public site
 hugo ;
