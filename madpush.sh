@@ -10,7 +10,7 @@ git pull && git add --all && git commit -m "$messg" && git push --set-upstream o
 hugo ;
 
 #push public site
-pubdir && (cd ..; hugo) && git add --all & git commit -m "$messg" && git push -f origin gh-pages ;
+pubdir && git add --all & git commit -m "$messg" && git push -f origin gh-pages ;
 
 
 
