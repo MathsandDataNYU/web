@@ -6,7 +6,7 @@ alias pubdir="cd public"
 git pull 
 
 #push public site
-pubdir && git pull 
+pubdir && git branch --set-upstream-to=origin/gh-pages gh-pages && git pull 
 
 
 
