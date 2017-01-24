@@ -1,6 +1,6 @@
 #!/bin/sh
 
-messg=${1:-update}
+messg=${1:-"update"}
 
 #first push private changes
 git pull && git add --all && git commit -m "$messg" && git push --set-upstream origin master;
