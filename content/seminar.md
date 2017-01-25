@@ -26,7 +26,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
 | Jan 26      | [Dave Donoho](https://statweb.stanford.edu/~donoho/) (Stanford)  | [Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model](#donoho) |
-| Feb 2      | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (Columbia) | TBA    |
+| Feb 2      | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (Columbia) | [Taking Bayesian Inference Seriously](#gelman)    |
 | Feb 9 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | TBA |
 | Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | TBA |
 | Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | TBA |
@@ -63,5 +63,10 @@ This talk briefly reviews  advances by researchers in random matrix theory who i
 In this talk, we focus on recent results of the author and Behrooz Ghorbani on optimal shrinkage for  the condition number of the relative error matrix; this presents new subtleties. The exact optimal solutions will be described, and stylized applications to Muti-User Covariance estimation and Multi-Task Discriminant Analysis will be developed.
 
 ---
+
+#### <a name="gelman"></a> Andrew Gelman: Taking Bayesian Inference Seriously
+
+ Over the years I have been moving toward the use of informative priors in more and more of my applications. I will discuss several examples from theory, application, and computing where traditional noninformative priors lead to disaster, but a little bit of prior information can make everything work out. Informative priors also can resolve some of the questions of replication and multiple comparisons that have recently shook the world of science. It’s funny for me to say this, after having practiced Bayesian statistics for nearly thirty years, but I’m only now realizing the true value of the prior distribution.
+
 
 
