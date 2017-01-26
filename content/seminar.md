@@ -21,6 +21,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 **Time:** 2:30pm-3:30pm, Reception will follow. 
 
+**Subscribe to the Seminar Mailing list [here](http://cims.nyu.edu/mailman/listinfo/mad)**
+
 ### Schedule with Confirmed Speakers
 
 | Date        | Speaker       | Title |
