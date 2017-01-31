@@ -29,7 +29,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | ----------- |:-------------:|:-----------:| 
 | Jan 26      | [Dave Donoho](https://statweb.stanford.edu/~donoho/) (Stanford)  | [Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model](#donoho) |
 | Feb 2      | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (Columbia) | [Taking Bayesian Inference Seriously](#gelman)    |
-| Feb 9 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | TBA |
+| Feb 9 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
 | Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | TBA |
 | Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | TBA |
 | Mar 2 |  [Gitta Kutyniok](http://www.tu-berlin.de/?108957) (TU Berlin)  | TBA |
@@ -62,6 +62,12 @@ In this talk, we focus on recent results of the author and Behrooz Ghorbani on o
 #### <a name="gelman"></a> Andrew Gelman: Taking Bayesian Inference Seriously
 
  Over the years I have been moving toward the use of informative priors in more and more of my applications. I will discuss several examples from theory, application, and computing where traditional noninformative priors lead to disaster, but a little bit of prior information can make everything work out. Informative priors also can resolve some of the questions of replication and multiple comparisons that have recently shook the world of science. It’s funny for me to say this, after having practiced Bayesian statistics for nearly thirty years, but I’m only now realizing the true value of the prior distribution.
+
+---
+
+#### <a name="greengard"></a> Leslie Greengard: Inverse problems in acoustic scattering and cryo-electron microscopy
+
+A variety of problems in image reconstruction give rise to large-scale, nonlinear and non-convex optimization problems. We will show how recursive linearization combined with suitable fast solvers are bringing such problems within practical reach, with an emphasis on acoustic scattering and protein structure determination via cryo-electron microscopy.
 
 
 
