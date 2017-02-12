@@ -29,8 +29,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 | ----------- |:-------------:|:-----------:| 
 | Jan 26      | [Dave Donoho](https://statweb.stanford.edu/~donoho/) (Stanford)  | [Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model](#donoho) |
 | Feb 2      | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (Columbia) | [Taking Bayesian Inference Seriously](#gelman)    |
-| Feb 9 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
-| Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | TBA |
+| ~~Feb 9~~ Mar 20 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
+| Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | [Organization and Analysis on data tensors](#coifman) |
 | Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | TBA |
 | Mar 2 |  [Gitta Kutyniok](http://www.tu-berlin.de/?108957) (TU Berlin)  | TBA |
 | Mar 9 |  [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT)      | TBA   |
@@ -68,6 +68,16 @@ In this talk, we focus on recent results of the author and Behrooz Ghorbani on o
 #### <a name="greengard"></a> Leslie Greengard: Inverse problems in acoustic scattering and cryo-electron microscopy
 
 A variety of problems in image reconstruction give rise to large-scale, nonlinear and non-convex optimization problems. We will show how recursive linearization combined with suitable fast solvers are bringing such problems within practical reach, with an emphasis on acoustic scattering and protein structure determination via cryo-electron microscopy.
+
+---
+
+#### <a name="coifman"></a> Ronald Coifman: Organization and Analysis on data tensors 
+
+Our goal is to illustrate and give an overview of various emerging methodologies to geometrize tensor data and build analytics on that foundation.
+
+Starting with conventional data bases given as matrices , where we organize simultaneously rows and columns , viewed as functions of each other . We extend the  process  to higher order tensors,on which we build joint geometries.
+
+We will describe various applications to the study of questionnaires , medical and genetic data , neuronal dynamics in various regimes. In particular we will discuss a useful integration of these analytic tools with deep nets and the features they reveal.
 
 
 
