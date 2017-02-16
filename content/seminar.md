@@ -31,7 +31,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Feb 2      | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (Columbia) | [Taking Bayesian Inference Seriously](#gelman)    |
 | ~~Feb 9~~ Mar 20 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
 | Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | [Organization and Analysis on data tensors](#coifman) |
-| Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | TBA |
+| Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | [Nonconvex Recovery of Low-Complexity Models](#wright) |
 | Mar 2 |  [Gitta Kutyniok](http://www.tu-berlin.de/?108957) (TU Berlin)  | TBA |
 | Mar 9 |  [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT)      | TBA   |
 | Mar 16 | **SPRING BREAK**      | 
@@ -78,6 +78,16 @@ Our goal is to illustrate and give an overview of various emerging methodologies
 Starting with conventional data bases given as matrices , where we organize simultaneously rows and columns , viewed as functions of each other . We extend the  process  to higher order tensors,on which we build joint geometries.
 
 We will describe various applications to the study of questionnaires , medical and genetic data , neuronal dynamics in various regimes. In particular we will discuss a useful integration of these analytic tools with deep nets and the features they reveal.
+
+---
+
+#### <a name="wright"></a> John Wright: Nonconvex Recovery of Low-Complexity Models
+
+Nonconvex optimization plays important role in wide range of areas of science and engineering — from learning feature representations for visual classification, to reconstructing images in biology, medicine and astronomy, to disentangling spikes from multiple neurons. The worst case theory for nonconvex optimization is dismal: in general, even guaranteeing a local minimum is NP hard. However, in these and other applications, very simple iterative methods such as gradient descent often perform surprisingly well. 
+
+In this talk, I will discuss examples of nonconvex optimization problems that can be solved to global optimality using simple iterative methods, which succeed independent of initialization. These include variants of the sparse dictionary learning problem, image recovery from certain types of phaseless measurements, and variants of the sparse blind deconvolution problem. These problems possess a characteristic structure, in which (i) all local minima are global, and (ii) the energy landscape does not have any “flat” saddle points. For each of the aforementioned problems, this geometric structure allows us to obtain new types of performance guarantees. I will motivate these problems from applications in imaging and computer vision, and describe how this viewpoint leads to new approaches to analyzing electron microscopy data.
+
+Joint work with Ju Sun (Stanford), Qing Qu (Columbia), Yuqian Zhang (Columbia), Yenson Lau (Columbia) Sky Cheung, (Columbia), Abhay Pasupathy (Columbia)
 
 
 
