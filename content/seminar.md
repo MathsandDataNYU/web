@@ -32,7 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | ~~Feb 9~~ Mar 20 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
 | Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | [Organization and Analysis on data tensors](#coifman) |
 | Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | [Nonconvex Recovery of Low-Complexity Models](#wright) |
-| Mar 2 |  [Gitta Kutyniok](http://www.tu-berlin.de/?108957) (TU Berlin)  | TBA |
+| Mar 2 |  [Gitta Kutyniok](http://www.tu-berlin.de/?108957) (TU Berlin)  | [Optimal Approximation with Sparse Deep Neural Networks](#gitta) |
 | Mar 9 |  [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT)      | TBA   |
 | Mar 16 | **SPRING BREAK**      | 
 | Mar 23 | [Amit Singer](https://web.math.princeton.edu/~amits/) (Princeton)      | TBA |
@@ -89,5 +89,19 @@ In this talk, I will discuss examples of nonconvex optimization problems that ca
 
 Joint work with Ju Sun (Stanford), Qing Qu (Columbia), Yuqian Zhang (Columbia), Yenson Lau (Columbia) Sky Cheung, (Columbia), Abhay Pasupathy (Columbia)
 
+---
 
+#### <a name="gitta"></a> Gitta Kutyniok 
+
+Deep neural networks show impressive results in a variety of real-world applications. One central task of them
+is to approximate a function, which for instance encodes a classification problem. In this talk, we will be concerned with
+the question, how well a function can be approximated by a deep neural network with sparse connectivity, i.e., with a
+minimal number of edges. Using methods from approximation theory and applied harmonic analysis, we will first prove a fundamental
+lower bound on the sparsity of a neural network if certain approximation properties are required. By explicitly
+constructing neural networks based on certain representation systems, so-called $\alpha$-shearlets, we will then demonstrate that
+this lower bound can in fact be attained. Finally, given a fixed network topology with sparse connectivity, we present numerical
+experiments, which show that already the standard backpropagation algorithm generates a deep neural network obeying
+those optimal approximation rates. Interestingly, our experiments also show that restricting to subnetworks, the learning
+procedure even yields $\alpha$-shearlet-like functions. This is joint work with H. B\"olcskei (ETH Zurich), P. Grohs
+(Uni Vienna), and P. Petersen (TU Berlin).
 
