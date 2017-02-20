@@ -91,7 +91,7 @@ Joint work with Ju Sun (Stanford), Qing Qu (Columbia), Yuqian Zhang (Columbia), 
 
 ---
 
-#### <a name="gitta"></a> Gitta Kutyniok 
+#### <a name="gitta"></a> Gitta Kutyniok: Optimal Approximation with Sparse Deep Neural Networks 
 
 Deep neural networks show impressive results in a variety of real-world applications. One central task of them
 is to approximate a function, which for instance encodes a classification problem. In this talk, we will be concerned with
