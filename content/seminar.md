@@ -33,7 +33,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | [Organization and Analysis on data tensors](#coifman) |
 | Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | [Nonconvex Recovery of Low-Complexity Models](#wright) |
 | Mar 2 |  [Gitta Kutyniok](http://www.tu-berlin.de/?108957) (TU Berlin)  | [Optimal Approximation with Sparse Deep Neural Networks](#gitta) |
-| Mar 9 |  [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT)      | TBA   |
+| Mar 9 |  [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT)      | [Learning determinantal point processes](#rigollet)   |
 | Mar 16 | **SPRING BREAK**      | 
 | Mar 23 | [Amit Singer](https://web.math.princeton.edu/~amits/) (Princeton)      | TBA |
 | Mar 30 | [Stephane Mallat](https://www.di.ens.fr/~mallat/) (ENS Ulm)  | TBA | 
@@ -104,4 +104,18 @@ experiments, which show that already the standard backpropagation algorithm gene
 those optimal approximation rates. Interestingly, our experiments also show that restricting to subnetworks, the learning
 procedure even yields $\alpha$-shearlet-like functions. This is joint work with H. B\"olcskei (ETH Zurich), P. Grohs
 (Uni Vienna), and P. Petersen (TU Berlin).
+
+---
+
+#### <a name="rigollet"></a> Philippe Rigollet: Learning Determinantal Point Processes 
+
+Determinantal Point Processes (DPPs) are a family of probabilistic models that have a repulsive behavior, and lend themselves naturally to many tasks in machine learning where returning a diverse set of objects is important. While there are fast algorithms for sampling, marginalization and conditioning, much less is known about learning the parameters of a DPP. In this talk, I will present recent results related to this problem, specifically
+(i) Rates of convergence for the maximum likelihood estimator: by studying the local and global geometry of the expected log-likelihood function we are able to rates of convergence for the MLE and give a complete characterization of the case where these are parametric. We also give a partial description of the critical points for the expected log-likelihood.
+(ii) Optimal rates of convergence for this problem: these are achievable by the method of moments and are governed by a combinatorial parameter, which we call the cycle sparsity.
+(iii) Fast combinatorial algorithm to implement the method of moments efficiently. 
+No prior knowledge on DPPs is required.
+[Based on joint work with Victor-Emmanuel Brunel, Ankur Moitra and John Urschel (MIT)]
+
+
+
 
