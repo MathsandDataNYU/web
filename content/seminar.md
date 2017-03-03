@@ -110,12 +110,11 @@ procedure even yields $\alpha$-shearlet-like functions. This is joint work with 
 #### <a name="rigollet"></a> Philippe Rigollet: Learning Determinantal Point Processes 
 
 Determinantal Point Processes (DPPs) are a family of probabilistic models that have a repulsive behavior, and lend themselves naturally to many tasks in machine learning where returning a diverse set of objects is important. While there are fast algorithms for sampling, marginalization and conditioning, much less is known about learning the parameters of a DPP. In this talk, I will present recent results related to this problem, specifically
-(i) Rates of convergence for the maximum likelihood estimator: by studying the local and global geometry of the expected log-likelihood function we are able to rates of convergence for the MLE and give a complete characterization of the case where these are parametric. We also give a partial description of the critical points for the expected log-likelihood.
+(i) Rates of convergence for the maximum likelihood estimator: by studying the local and global geometry of the expected log-likelihood function we are able to establish rates of convergence for the MLE and give a complete characterization of the cases where these are parametric. We also give a partial description of the critical points for the expected log-likelihood.
 (ii) Optimal rates of convergence for this problem: these are achievable by the method of moments and are governed by a combinatorial parameter, which we call the cycle sparsity.
 (iii) Fast combinatorial algorithm to implement the method of moments efficiently. 
 No prior knowledge on DPPs is required.
 [Based on joint work with Victor-Emmanuel Brunel, Ankur Moitra and John Urschel (MIT)]
-
 
 
 
