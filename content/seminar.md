@@ -35,7 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 2 |  [Gitta Kutyniok](http://www.tu-berlin.de/?108957) (TU Berlin)  | [Optimal Approximation with Sparse Deep Neural Networks](#gitta) |
 | Mar 9 |  [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT)      | [Learning determinantal point processes](#rigollet)   |
 | Mar 16 | **SPRING BREAK**      | 
-| Mar 23 | [Amit Singer](https://web.math.princeton.edu/~amits/) (Princeton)      | TBA |
+| Mar 23 | [Amit Singer](https://web.math.princeton.edu/~amits/) (Princeton)      | [PCA from noisy linearly transformed measurements](#singer) |
 | Mar 30 | [Stephane Mallat](https://www.di.ens.fr/~mallat/) (ENS Ulm)  | TBA | 
 | Apr 6 | [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)     |  TBA |
 | Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | TBA |
@@ -116,5 +116,16 @@ Determinantal Point Processes (DPPs) are a family of probabilistic models that h
 No prior knowledge on DPPs is required.
 [Based on joint work with Victor-Emmanuel Brunel, Ankur Moitra and John Urschel (MIT)]
 
+---
 
+#### <a name="singer"></a> Amit Singer: PCA from noisy linearly transformed measurements
+
+We consider the problem of estimating the covariance of X from
+measurements of the form 'y_i = A_i x_i + e_i' (for 'i = 1, . . . , n' ) where 'x_i' are
+i.i.d. unobserved samples of X, A_i are given linear operators, and e_i
+represent noise. Our estimator is constructed efficiently via a simple
+linear inversion using conjugate gradient performed after eigenvalue
+shrinkage motivated by the spiked model in high dimensional PCA.
+Applications to low-rank matrix completion, 2D image denoising, 3D ab-initio modelling, and 3D structure classification in
+single particle cryo-electron microscopy will be discussed.
 
