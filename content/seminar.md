@@ -121,7 +121,7 @@ No prior knowledge on DPPs is required.
 #### <a name="singer"></a> Amit Singer: PCA from noisy linearly transformed measurements
 
 We consider the problem of estimating the covariance of X from
-measurements of the form `y_i = A_i x_i + e_i (for 'i = 1, . . . , n' )` where `x_i` are
+measurements of the form `y_i = A_i x_i + e_i` (for `i = 1,...,n` ) where `x_i` are
 i.i.d. unobserved samples of `X`, `A_i` are given linear operators, and `e_i`
 represent noise. Our estimator is constructed efficiently via a simple
 linear inversion using conjugate gradient performed after eigenvalue
