@@ -42,6 +42,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | TBA |
 | Apr 27 | [Joel Tropp](http://users.cms.caltech.edu/~jtropp/)  (Caltech)    | TBA |
 | May 4 | [Thomas Strohmer](https://www.math.ucdavis.edu/~strohmer/?p=home) (UC Davis) | TBA |
+| May 11 **4pm** |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
 
 ---
 
