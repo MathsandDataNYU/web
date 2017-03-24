@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 9 |  [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT)      | [Learning determinantal point processes](#rigollet)   |
 | Mar 16 | **SPRING BREAK**      | 
 | Mar 23 | [Amit Singer](https://web.math.princeton.edu/~amits/) (Princeton)      | [PCA from noisy linearly transformed measurements](#singer) |
-| Mar 30 | [Stephane Mallat](https://www.di.ens.fr/~mallat/) (ENS Ulm)  | TBA | 
+| Mar 30 | [Stephane Mallat](https://www.di.ens.fr/~mallat/) (ENS Ulm)  | [Mathematial Mysteries of Deep Convolutional Networks](#mallat) | 
 | Apr 6 | [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)     |  TBA |
 | Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | TBA |
 | Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | TBA |
@@ -129,4 +129,30 @@ linear inversion using conjugate gradient performed after eigenvalue
 shrinkage motivated by the spiked model in high dimensional PCA.
 Applications to low-rank matrix completion, 2D image denoising, 3D ab-initio modelling, and 3D structure classification in
 single particle cryo-electron microscopy will be discussed.
+
+---
+
+#### <a name="mallat"></a> Stephane Mallat: Mathematial Mysteries of Deep Convolutional Networks 
+
+Deep neural networks obtain spectacular classification and regression
+results over a wide range of data including images, audio signals,
+natural languages, biological or physical measurements. These
+architectures can thus approximate a wide range of "complex"
+high-dimensional functions. This lecture aims at discussing what we
+understand and do not understand about these networks, for unsupervised
+and supervised learning.
+
+Dimension reduction in deep neural networks seem to partly rely on
+separation of scales and computation of invariants over groups of
+symmetries. Scattering transforms are simplified deep network
+architectures which compute such multiscale invariants with wavelet
+filters. For unsupervised learning, it provides  maximum entropy models
+of non-Gaussian processes.
+Applications are shown on image and audio textures and on statistical
+physics processes such as Ising and turublence. For supervised learning,
+we consider progressively more complex image classificaiton problems,
+and regressions of quantum molecular energies from chemical data bases. 
+Open mathematical questions will be discussed.
+
+
 
