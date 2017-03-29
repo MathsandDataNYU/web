@@ -37,7 +37,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 16 | **SPRING BREAK**      | 
 | Mar 23 | [Amit Singer](https://web.math.princeton.edu/~amits/) (Princeton)      | [PCA from noisy linearly transformed measurements](#singer) |
 | Mar 30 | [Stephane Mallat](https://www.di.ens.fr/~mallat/) (ENS Ulm)  | [Mathematial Mysteries of Deep Convolutional Networks](#mallat) | 
-| Apr 6 **11am, 12 Waverly pl, L120**| [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)     |  [Optimization Challenges in Deep Learning](#recht) |
+| Apr 6 <span style="color:red">**11am, 12 Waverly pl, L120**</span> | [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)     |  [Optimization Challenges in Deep Learning](#recht) |
 | Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | TBA |
 | Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | TBA |
 | Apr 27 | [Joel Tropp](http://users.cms.caltech.edu/~jtropp/)  (Caltech)    | TBA |
