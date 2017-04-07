@@ -38,7 +38,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 23 | [Amit Singer](https://web.math.princeton.edu/~amits/) (Princeton)      | [PCA from noisy linearly transformed measurements](#singer) |
 | Mar 30 | [Stephane Mallat](https://www.di.ens.fr/~mallat/) (ENS Ulm)  | [Mathematial Mysteries of Deep Convolutional Networks](#mallat) | 
 | Apr 6 <span style="color:red">**11am, 12 Waverly pl, L120**</span> | [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)     |  [Optimization Challenges in Deep Learning](#recht) |
-| Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | TBA |
+| Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | [Collaborative Dictionary Learning from Big, Distributed Data](#bajwa) |
 | Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | TBA |
 | Apr 27 | [Joel Tropp](http://users.cms.caltech.edu/~jtropp/)  (Caltech)    | TBA |
 | May 4 | [Thomas Strohmer](https://www.math.ucdavis.edu/~strohmer/?p=home) (UC Davis) | TBA |
@@ -163,5 +163,11 @@ Open mathematical questions will be discussed.
 In this talk, I will attempt to distill the key difficulties in optimizing large, deep neural networks for pattern recognition. In particular, I will emphasize that many of the popularized notions of what make these problems “hard” are not true impediments at all. I will show that it is not only easy to globally optimize neural networks, but that such global optimization remains easy when fitting completely random data.
 
 I will argue instead that the source of difficulty in deep learning is a lack of understanding of generalization. I will provide empirical evidence of high-dimensional function classes that are able to achieve state-of-the-art performance on several benchmarks without any obvious forms of regularization or capacity control.  These findings reveal that traditional learning theory fails to explain why large neural networks generalize.  I will close by discussing possible mechanisms to explain generalization in such large models, appealing to insights from linear predictors. 
+
+---
+
+#### <a name="bajwa"></a> Waheed Bajwa: Collaborative Dictionary Learning from Big, Distributed Data 
+
+While distributed information processing has a rich history, relatively less attention has been paid to the problem of collaborative learning of nonlinear geometric structures underlying data distributed across sites that are connected to each other in an arbitrary topology. In this talk, we discuss this problem in the context of collaborative dictionary learning from big, distributed data. It is assumed that a number of geographically-distributed, interconnected sites have massive local data and they are interested in collaboratively learning a low-dimensional geometric structure underlying these data. In contrast to some of the previous works on subspace-based data representations, we focus on the geometric structure of a union of subspaces (UoS). In this regard, we propose a distributed algorithm, termed cloud K-SVD, for collaborative learning of a UoS structure underlying distributed data of interest. The goal of cloud K-SVD is to learn an overcomplete dictionary at each individual site such that every sample in the distributed data can be represented through a small number of atoms of the learned dictionary. Cloud K-SVD accomplishes this goal without requiring communication of individual data samples between different sites. In this talk, we also theoretically characterize deviations of the dictionaries learned at individual sites by cloud K-SVD from a centralized solution. Finally, we numerically illustrate the efficacy of cloud K-SVD in the context of supervised training of nonlinear classsifiers from distributed, labaled training data.
 
 
