@@ -39,6 +39,9 @@ Assistant Professor, IOMS, Stern School.
 ##### [Sinan Gunturk](https://www.cims.nyu.edu/~gunturk/)
 Professor, Department of Mathematics, Courant Institute.
 
+##### [Eyal Lubetzky](http://cims.nyu.edu/~eyal/)
+Associate Professor, Mathematics, Courant Institute.
+
 ##### [Andy Majda](http://www.math.nyu.edu/faculty/majda/)
 Professor, Department of Mathematics and Climate, Atmosphere and Ocean Science, Courant Institute.
 
