@@ -39,7 +39,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 30 | [Stephane Mallat](https://www.di.ens.fr/~mallat/) (ENS Ulm)  | [Mathematial Mysteries of Deep Convolutional Networks](#mallat) | 
 | Apr 6 <span style="color:red">**11am, 12 Waverly pl, L120**</span> | [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)     |  [Optimization Challenges in Deep Learning](#recht) |
 | Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | [Collaborative Dictionary Learning from Big, Distributed Data](#bajwa) |
-| Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | TBA |
+| Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | [The Landscape of some Statistical Learning Problems](#montanari) |
 | Apr 27 | [Joel Tropp](http://users.cms.caltech.edu/~jtropp/)  (Caltech)    | TBA |
 | May 4 | [Thomas Strohmer](https://www.math.ucdavis.edu/~strohmer/?p=home) (UC Davis) | TBA |
 | May 11 **4pm** |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
@@ -169,5 +169,20 @@ I will argue instead that the source of difficulty in deep learning is a lack of
 #### <a name="bajwa"></a> Waheed Bajwa: Collaborative Dictionary Learning from Big, Distributed Data 
 
 While distributed information processing has a rich history, relatively less attention has been paid to the problem of collaborative learning of nonlinear geometric structures underlying data distributed across sites that are connected to each other in an arbitrary topology. In this talk, we discuss this problem in the context of collaborative dictionary learning from big, distributed data. It is assumed that a number of geographically-distributed, interconnected sites have massive local data and they are interested in collaboratively learning a low-dimensional geometric structure underlying these data. In contrast to some of the previous works on subspace-based data representations, we focus on the geometric structure of a union of subspaces (UoS). In this regard, we propose a distributed algorithm, termed cloud K-SVD, for collaborative learning of a UoS structure underlying distributed data of interest. The goal of cloud K-SVD is to learn an overcomplete dictionary at each individual site such that every sample in the distributed data can be represented through a small number of atoms of the learned dictionary. Cloud K-SVD accomplishes this goal without requiring communication of individual data samples between different sites. In this talk, we also theoretically characterize deviations of the dictionaries learned at individual sites by cloud K-SVD from a centralized solution. Finally, we numerically illustrate the efficacy of cloud K-SVD in the context of supervised training of nonlinear classsifiers from distributed, labaled training data.
+
+---
+
+#### <a name="montanari"></a> Andrea Montanari: The Landscape of Some Statistical Learning Problems
+
+Most high-dimensional estimation and prediction methods propose to minimize a cost function
+(empirical risk) that is written as a sum of losses associated to each data point (each example).
+Studying the landscape of the empirical risk is useful to understand the computational complexity
+of these statistical problems. I will discuss some generic features that can be used to prove that the
+global minimizer can be computed efficiently even if the loss in non-convex.
+A different mechanism arises in some rank-constrained semidefinite programming problems. In this case,
+optimization algorithms can only be guaranteed to produce an (approximate) local optimum, but all local
+optima are close in value to the global optimum.
+Finally I will contrast these with problems in which the effects of non-convexity are more dramatic.
+[Based on joint work with Yu Bai, Song Mei, Theodor Misiakiewicz and Roberto Oliveira]
 
 

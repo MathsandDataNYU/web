@@ -30,6 +30,8 @@ Assistant Professor, Department of Mathematics and Center for Data Science.
 ---
 ## Affiliated
 
+##### [Gerard Ben Arous](http://www.cims.nyu.edu/~benarous/)
+Professor, Mathematics, Courant Institute.
 
 ##### [Xi Chen](http://people.stern.nyu.edu/xchen3/)
 Assistant Professor, IOMS, Stern School.
