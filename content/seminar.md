@@ -40,7 +40,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Apr 6 <span style="color:red">**11am, 12 Waverly pl, L120**</span> | [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)     |  [Optimization Challenges in Deep Learning](#recht) |
 | Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | [Collaborative Dictionary Learning from Big, Distributed Data](#bajwa) |
 | Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | [The Landscape of some Statistical Learning Problems](#montanari) |
-| Apr 27 | [Joel Tropp](http://users.cms.caltech.edu/~jtropp/)  (Caltech)    | TBA |
+| Apr 27 | [Joel Tropp](http://users.cms.caltech.edu/~jtropp/)  (Caltech)    | [Sketchy Decisions: Low-rank matrix optimization with optimal storage](#tropp) |
 | May 4 | [Thomas Strohmer](https://www.math.ucdavis.edu/~strohmer/?p=home) (UC Davis) | TBA |
 | May 11 **4pm** |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
 
@@ -184,5 +184,14 @@ optimization algorithms can only be guaranteed to produce an (approximate) local
 optima are close in value to the global optimum.
 Finally I will contrast these with problems in which the effects of non-convexity are more dramatic.
 [Based on joint work with Yu Bai, Song Mei, Theodor Misiakiewicz and Roberto Oliveira]
+
+
+---
+
+#### <a name="tropp"></a> Joel Tropp: Sketchy Decisions: Low-rank matrix optimization with optimal storage
+
+onvex matrix optimization problems with low-rank solutions play a fundamental role in signal processing, statistics, and related disciplines. These problems are difficult to solve because of the cost of maintaining the matrix decision variable, even though the low-rank solution has few degrees of freedom. This talk presents the first algorithm that provably solves these problems using optimal storage. The algorithm produces high-quality solutions to large problem instances that, previously, were intractable.
+
+Joint with Volkan Cevher, Roarke Horstmeyer, Quoc Tran-Dinh, Madeleine Udell, and Alp Yurtsever.
 
 
