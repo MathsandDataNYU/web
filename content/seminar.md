@@ -41,7 +41,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Apr 13 | [Waheed Bajwa](http://www.rci.rutgers.edu/~wub1/) (Rutgers)      | [Collaborative Dictionary Learning from Big, Distributed Data](#bajwa) |
 | Apr 20 | [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)  | [The Landscape of some Statistical Learning Problems](#montanari) |
 | Apr 27 | [Joel Tropp](http://users.cms.caltech.edu/~jtropp/)  (Caltech)    | [Sketchy Decisions: Low-rank matrix optimization with optimal storage](#tropp) |
-| May 4 | [Thomas Strohmer](https://www.math.ucdavis.edu/~strohmer/?p=home) (UC Davis) | TBA |
+| May 4 | [Thomas Strohmer](https://www.math.ucdavis.edu/~strohmer/?p=home) (UC Davis) | [Murder, Matrices, and Minima  - Adventures in Blind Deconvolution](#strohmer) |
 | May 11 **4pm** |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
 
 ---
@@ -190,8 +190,16 @@ Finally I will contrast these with problems in which the effects of non-convexit
 
 #### <a name="tropp"></a> Joel Tropp: Sketchy Decisions: Low-rank matrix optimization with optimal storage
 
-onvex matrix optimization problems with low-rank solutions play a fundamental role in signal processing, statistics, and related disciplines. These problems are difficult to solve because of the cost of maintaining the matrix decision variable, even though the low-rank solution has few degrees of freedom. This talk presents the first algorithm that provably solves these problems using optimal storage. The algorithm produces high-quality solutions to large problem instances that, previously, were intractable.
+Convex matrix optimization problems with low-rank solutions play a fundamental role in signal processing, statistics, and related disciplines. These problems are difficult to solve because of the cost of maintaining the matrix decision variable, even though the low-rank solution has few degrees of freedom. This talk presents the first algorithm that provably solves these problems using optimal storage. The algorithm produces high-quality solutions to large problem instances that, previously, were intractable.
 
 Joint with Volkan Cevher, Roarke Horstmeyer, Quoc Tran-Dinh, Madeleine Udell, and Alp Yurtsever.
 
+---
 
+#### <a name="strohmer"></a> Thomas Strohmer: Murder, Matrices, and Minima  - Adventures in Blind Deconvolution
+
+I will first describe how I once failed to catch a murderer (dubbed the "graveyard murderer" by the media), because I failed in solving a blind deconvolution problem. Here, blind deconvolution refers to the following problem: Assume we are given a function y which arises as the convolution of two unknown functions g and h. When and how is it possible to recover g and h from the knowledge of y? Blind deconvolution is a topic that pervades many areas of science and technology, including geophysics, astronomy, medical imaging, optics, and communications. Blind deconvolution is obviously ill-posed and even under additional assumptions this is a very difficult non-convex optimization problem which is full of undesirable local minima. I will present a host of new algorithms, accompanied with rigorous theory, that can efficiently solve the blind deconvolution problem in a range of different circumstances. The algorithms will include convex and non-convex algorithms, and even a suprisingly simple linear least squares
+approach. The mathematical framework behind our algorithms builds on tools from random matrix theory combined with recent advances in convex and non-convex optimization.
+
+Applications in image processing and the future Internet-of-Things will be described.
+Thus, while the graveyard murderer is still on the loose, recent progress in blind deconvolution may at least have positive impact on the Internet-of-Things.
