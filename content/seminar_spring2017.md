@@ -26,8 +26,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
-| Jan 26      | [Yoram Singer](https://statweb.stanford.edu/~donoho/) (Stanford)  | [Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model](#donoho) |
-| Feb 2      | [Esteban Tabak](http://www.stat.columbia.edu/~gelman/) (Columbia) | [Taking Bayesian Inference Seriously](#gelman)    |
+| Jan 26      | [Dave Donoho](https://statweb.stanford.edu/~donoho/) (Stanford)  | [Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model](#donoho) |
+| Feb 2      | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (Columbia) | [Taking Bayesian Inference Seriously](#gelman)    |
 | ~~Feb 9~~ ~~Mar 20~~ May 11 |  [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) (Courant)    | [Inverse problems in acoustic scattering and cryo-electron microscopy](#greengard) |
 | Feb 16 | [Ronald Coifman](http://cpsc.yale.edu/people/ronald-coifman) (Yale)     | [Organization and Analysis on data tensors](#coifman) |
 | Feb 23 | [John Wright](http://www.columbia.edu/~jw2966/) (Columbia)     | [Nonconvex Recovery of Low-Complexity Models](#wright) |

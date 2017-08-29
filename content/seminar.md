@@ -32,7 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)     |  |
 | Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     |  |
 | Oct 12 |  [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT)  |  |
-| Oct 19 |  [Francis Bach](http://www.di.ens.fr/~fbach/)(INRIA, ENS)      |    |
+| Oct 19 |  [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA, ENS)      |    |
 | Oct 26 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)      | |
 | Nov 2 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)  |  | 
 | Nov 9 | [Mauro Maggioni](http://www.math.jhu.edu/~mauro/) (John Hopkins)      |  |
