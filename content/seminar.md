@@ -39,7 +39,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Nov 16 | [Emmanuel Abbe](http://www.ee.princeton.edu/research/eabbe/?q=node/1) (Princeton)  |  |
 | Nov 23 | **THANKSGIVING**      | 
 | Nov 30 | [Guillermo Sapiro](http://ece.duke.edu/faculty/guillermo-sapiro)  (Duke)    | |
-| Dec 7 | [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) (ENS)) |  |
+| Dec 7 | [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) (ENS) |  |
 
 ---
 
