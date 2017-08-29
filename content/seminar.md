@@ -27,7 +27,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
-| Sep 26      | [Yoram Singer](http://www.cs.princeton.edu/~ysinger/) (Princeton)  |  |
+| Sep 14      | [Yoram Singer](http://www.cs.princeton.edu/~ysinger/) (Princeton)  |  |
 | Sep 21      | [Esteban Tabak](http://www.math.nyu.edu/faculty/tabak/) (NYU) |     |
 | Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)     |  |
 | Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     |  |
