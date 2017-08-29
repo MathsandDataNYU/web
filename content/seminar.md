@@ -43,7 +43,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 ---
 
-** [Schedule Spring 2017](https://mathsanddatanyu.github.io/website/seminar_spring2017/)
+[Schedule Spring 2017](https://mathsanddatanyu.github.io/website/seminar_spring2017/)
 
 ---
 ### Abstracts 
