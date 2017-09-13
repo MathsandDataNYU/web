@@ -27,7 +27,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
-| Sep 14      | [Yoram Singer](http://www.cs.princeton.edu/~ysinger/) (Princeton)  |  |
+| Sep 14      | [Yoram Singer](http://www.cs.princeton.edu/~ysinger/) (Princeton)  | [Adaptive Regularization](#yoram) |
 | Sep 21      | [Esteban Tabak](http://www.math.nyu.edu/faculty/tabak/) (NYU) |     |
 | Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)     |  |
 | Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     |  |
@@ -48,4 +48,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 ---
 ### Abstracts 
 
+#### <a name="yoram"></a> Yoram Singer: Adaptive Regularization
 
+We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning. Such algorithms have been proven useful in stochastic optimization by reshaping the gradients according to the geometry of the data. Our framework captures and unifies much of the existing literature on adaptive online methods, including the AdaGrad and Online Newton Step algorithms as well as their diagonal versions. As a result, we obtain new convergence proofs for these algorithms that are substantially simpler than previous analyses. Our framework also exposes the rationale for the different preconditioned updates used in common stochastic optimization methods.
+
+Joint work with Tomer Koren and Vineet Gupta (Google)
