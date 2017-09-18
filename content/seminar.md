@@ -28,7 +28,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
 | Sep 14      | [Yoram Singer](http://www.cs.princeton.edu/~ysinger/) (Princeton)  | [Adaptive Regularization](#yoram) |
-| Sep 21      | [Esteban Tabak](http://www.math.nyu.edu/faculty/tabak/) (NYU) |     |
+| Sep 21      | [Esteban Tabak](http://www.math.nyu.edu/faculty/tabak/) (NYU) |  [Conditional Density Estimation through Optimal Transport](#esteban)   |
 | Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)     |  |
 | Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     |  |
 | Oct 12 |  [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT)  |  |
@@ -53,3 +53,13 @@ of Applied Mathematics, Statistics and Machine Learning.
 We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning. Such algorithms have been proven useful in stochastic optimization by reshaping the gradients according to the geometry of the data. Our framework captures and unifies much of the existing literature on adaptive online methods, including the AdaGrad and Online Newton Step algorithms as well as their diagonal versions. As a result, we obtain new convergence proofs for these algorithms that are substantially simpler than previous analyses. Our framework also exposes the rationale for the different preconditioned updates used in common stochastic optimization methods.
 
 Joint work with Tomer Koren and Vineet Gupta (Google)
+
+
+#### <a name="esteban"></a> Esteban Tabak: Conditional Density Estimation through Optimal Transport
+
+Conditional probability estimation and simulation provides data-based answers to all kinds of critical questions, such as the response of specific patients to different medical treatments, the effect of political measures on the economy, and weather and climate forecasts. In the complex systems behind these examples, the outcome of a process depends on many and diverse factors and is probabilistic in nature, due in part to our ignorance of other relevant factors and to the chaotic nature of the underlying dynamics.
+
+This talk will describe a general procedure for the estimation and simulation of conditional probabilities based on two complementary ideas: the removal of the effect of covariates through a data-based, generalized version of the optimal transport barycenter problem, and the reduction of complexity through a low-rank tensor factorization/separation of variables procedure extended to variables of any type.
+
+
+
