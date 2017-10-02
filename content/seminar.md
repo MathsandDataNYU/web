@@ -29,8 +29,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 | ----------- |:-------------:|:-----------:| 
 | Sep 14      | [Yoram Singer](http://www.cs.princeton.edu/~ysinger/) (Princeton)  | [Adaptive Regularization](#yoram) |
 | Sep 21      | [Esteban Tabak](http://www.math.nyu.edu/faculty/tabak/) (NYU) |  [Conditional Density Estimation through Optimal Transport](#esteban)   |
-| Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)     |  |
-| Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     |  |
+| Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)   | [Extrapolation from sparsity] (#laurent)  |
+| Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     | [A semidefinite relaxation of k-means clustering] (#dustin)  |
 | Oct 12 |  [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT)  |  |
 | Oct 19 |  [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA, ENS)      |    |
 | Oct 26 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)      | |
@@ -61,5 +61,24 @@ Conditional probability estimation and simulation provides data-based answers to
 
 This talk will describe a general procedure for the estimation and simulation of conditional probabilities based on two complementary ideas: the removal of the effect of covariates through a data-based, generalized version of the optimal transport barycenter problem, and the reduction of complexity through a low-rank tensor factorization/separation of variables procedure extended to variables of any type.
 
+#### <a name="laurent"></a> Laurent Demanet: Extrapolation from sparsity
 
+This talk considers the basic question of frequency extrapolation of sparse signals observed over some frequency band, such as scattered bandlimited waves. How far, and how stably can we extend? I will review recent progress on the mathematical aspects of this question, which are tied to the notion of super-resolution. I will also discuss the robust “phase tracking” algorithmic approach, which is suitable for imaging modalities where the bandlimiting model is far from accurately known. Joint work with Nam Nguyen and Yunyue Elita Li.
+
+#### <a name="dustin"></a> A semidefinite relaxation of k-means clustering
+
+Recently, Awasthi et al proved that a semidefinite relaxation of the
+k-means clustering problem is tight under a particular data model
+called the stochastic ball model. This result exhibits two
+shortcomings: (1) naive solvers of the semidefinite program are
+computationally slow, and (2) the stochastic ball model prevents
+outliers that occur, for example, in the Gaussian mixture model. This
+talk will cover recent work that tackles each of these shortcomings.
+First, I will discuss a new type of algorithm (introduced by Bandeira)
+that combines fast non-convex solvers with the optimality certificates
+provided by convex relaxations. Second, I will discuss how to analyze
+the semidefinite relaxation under the Gaussian mixture model. In this
+case, outliers in the data obstruct tightness in the relaxation, and
+so fundamentally different techniques are required. Several open
+problems will be posed throughout.
 
