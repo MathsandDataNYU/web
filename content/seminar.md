@@ -31,7 +31,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Sep 21      | [Esteban Tabak](http://www.math.nyu.edu/faculty/tabak/) (NYU) |  [Conditional Density Estimation through Optimal Transport](#esteban)   |
 | Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)   | [Extrapolation from sparsity] (#laurent)  |
 | Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     | [A semidefinite relaxation of k-means clustering] (#dustin)  |
-| Oct 12 |  [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT)  |  |
+| Oct 12 |  [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT)  | [(un)conventional regularization for efficient large scale machine learning](#lorenzo) |
 | Oct 19 |  [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA, ENS)      |    |
 | Oct 26 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)      | |
 | Nov 2 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)  |  | 
@@ -81,4 +81,12 @@ the semidefinite relaxation under the Gaussian mixture model. In this
 case, outliers in the data obstruct tightness in the relaxation, and
 so fundamentally different techniques are required. Several open
 problems will be posed throughout.
+
+#### <a name="lorenzo"></a> (Un)conventional regularization for efficient large scale machine learning
+
+Regularization is classically designed by  penalizing or imposing explicit constraints to an empirical objective function. This approach can be derived from different perspectives and has optimal statistical guarantees. However, it  postpones  computational  considerations to a separate analysis. In large scale scenarios, considering independently statistical and numerical  aspects often leads to prohibitive computational requirements.  It is then natural  to ask whether  different regularization principles exist or can be derived to encompass both aspects at once. 
+In this talk, we  will present several ideas in this direction, showing how procedures typically  developed to perform efficient computations  can  often be seen as a form implicit regularization. We will discuss how iterative optimization of an empirical objective  leads to regularization, and analyze the effect of acceleration, preconditioning and stochastic approximations. We will further discuss the regularization effect of sketching/subsampling methods by drawing a connection to classical regularization projection methods common in inverse problems.
+We will show how  these form of  implicit regularization  can obtain  optimal statistical guarantees, with  dramatically reduced computational properties. 
+Joint work will Alessandro Rudi, Silvia Villa, Junhong Lin, Luigi Carratino.
+
 
