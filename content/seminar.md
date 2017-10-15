@@ -32,7 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Sep 28 | [Laurent Demanet](http://math.mit.edu/icg/people/laurent.html) (MIT)   | [Extrapolation from sparsity] (#laurent)  |
 | Oct 5 | [Dustin Mixon](https://people.math.osu.edu/mixon.23/) (Ohio State)     | [A semidefinite relaxation of k-means clustering] (#dustin)  |
 | Oct 12 |  [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT)  | [(un)conventional regularization for efficient large scale machine learning](#lorenzo) |
-| Oct 19 |  [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA, ENS)      |    |
+| Oct 19 |  [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA, ENS)      | [Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains](#bach)   |
 | Oct 26 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)      | |
 | Nov 2 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)  |  | 
 | Nov 9 | [Mauro Maggioni](http://www.math.jhu.edu/~mauro/) (John Hopkins)      |  |
@@ -88,5 +88,9 @@ Regularization is classically designed by  penalizing or imposing explicit const
 In this talk, we  will present several ideas in this direction, showing how procedures typically  developed to perform efficient computations  can  often be seen as a form implicit regularization. We will discuss how iterative optimization of an empirical objective  leads to regularization, and analyze the effect of acceleration, preconditioning and stochastic approximations. We will further discuss the regularization effect of sketching/subsampling methods by drawing a connection to classical regularization projection methods common in inverse problems.
 We will show how  these form of  implicit regularization  can obtain  optimal statistical guarantees, with  dramatically reduced computational properties. 
 Joint work will Alessandro Rudi, Silvia Villa, Junhong Lin, Luigi Carratino.
+
+#### <a name="bach"></a> Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains 
+
+We consider the minimization of an objective function given access to unbiased estimates of its gradient through stochastic gradient descent (SGD) with constant step-size. While the detailed analysis was only performed for quadratic functions, we provide an explicit asymptotic expansion of the moments of the averaged SGD iterates that outlines the dependence on initial conditions, the effect of noise and the step-size, as well as the lack of convergence in the general (non-quadratic) case. For this analysis, we bring tools from Markov chain theory into the analysis of stochastic gradient and create new ones (similar but different from stochastic MCMC methods).  We then show that Richardson-Romberg extrapolation may be used to get closer to the global optimum and we show empirical improvements of the new extrapolation scheme. (joint work with Aymeric Dieuleveut and Alain Durmus).
 
 
