@@ -65,7 +65,7 @@ This talk will describe a general procedure for the estimation and simulation of
 
 This talk considers the basic question of frequency extrapolation of sparse signals observed over some frequency band, such as scattered bandlimited waves. How far, and how stably can we extend? I will review recent progress on the mathematical aspects of this question, which are tied to the notion of super-resolution. I will also discuss the robust “phase tracking” algorithmic approach, which is suitable for imaging modalities where the bandlimiting model is far from accurately known. Joint work with Nam Nguyen and Yunyue Elita Li.
 
-#### <a name="dustin"></a> A semidefinite relaxation of k-means clustering
+#### <a name="dustin"></a> Dustin Mixon: A semidefinite relaxation of k-means clustering
 
 Recently, Awasthi et al proved that a semidefinite relaxation of the
 k-means clustering problem is tight under a particular data model
@@ -82,14 +82,14 @@ case, outliers in the data obstruct tightness in the relaxation, and
 so fundamentally different techniques are required. Several open
 problems will be posed throughout.
 
-#### <a name="lorenzo"></a> (Un)conventional regularization for efficient large scale machine learning
+#### <a name="lorenzo"></a> Lorenzo Rosasco: (Un)conventional regularization for efficient large scale machine learning
 
 Regularization is classically designed by  penalizing or imposing explicit constraints to an empirical objective function. This approach can be derived from different perspectives and has optimal statistical guarantees. However, it  postpones  computational  considerations to a separate analysis. In large scale scenarios, considering independently statistical and numerical  aspects often leads to prohibitive computational requirements.  It is then natural  to ask whether  different regularization principles exist or can be derived to encompass both aspects at once. 
 In this talk, we  will present several ideas in this direction, showing how procedures typically  developed to perform efficient computations  can  often be seen as a form implicit regularization. We will discuss how iterative optimization of an empirical objective  leads to regularization, and analyze the effect of acceleration, preconditioning and stochastic approximations. We will further discuss the regularization effect of sketching/subsampling methods by drawing a connection to classical regularization projection methods common in inverse problems.
 We will show how  these form of  implicit regularization  can obtain  optimal statistical guarantees, with  dramatically reduced computational properties. 
 Joint work will Alessandro Rudi, Silvia Villa, Junhong Lin, Luigi Carratino.
 
-#### <a name="bach"></a> Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains 
+#### <a name="bach"></a> Francis Bach: Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains 
 
 We consider the minimization of an objective function given access to unbiased estimates of its gradient through stochastic gradient descent (SGD) with constant step-size. While the detailed analysis was only performed for quadratic functions, we provide an explicit asymptotic expansion of the moments of the averaged SGD iterates that outlines the dependence on initial conditions, the effect of noise and the step-size, as well as the lack of convergence in the general (non-quadratic) case. For this analysis, we bring tools from Markov chain theory into the analysis of stochastic gradient and create new ones (similar but different from stochastic MCMC methods).  We then show that Richardson-Romberg extrapolation may be used to get closer to the global optimum and we show empirical improvements of the new extrapolation scheme. (joint work with Aymeric Dieuleveut and Alain Durmus).
 
