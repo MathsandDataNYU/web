@@ -1,6 +1,6 @@
 theme = "hyde"
 languageCode = "en-us"
-baseurl = "http://mathsanddatanyu.github.io/"
+baseurl = "http://mathsanddatanyu.github.io/website/"
 title = "Math and Data"
 
 [params]
