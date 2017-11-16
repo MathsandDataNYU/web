@@ -35,8 +35,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Oct 19 |  [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA, ENS)      | [Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains](#bach)   |
 | Oct 26 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)      | |
 | Nov 2 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)  |  | 
-| Nov 9 | [Mauro Maggioni](http://www.math.jhu.edu/~mauro/) (John Hopkins)      |  |
-| Nov 16 | [Emmanuel Abbe](http://www.ee.princeton.edu/research/eabbe/?q=node/1) (Princeton)  |  |
+| Nov 9 | [Mauro Maggioni](http://www.math.jhu.edu/~mauro/) (John Hopkins)      | [Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets](#mauro)  |
+| Nov 16 | [Emmanuel Abbe](http://www.ee.princeton.edu/research/eabbe/?q=node/1) (Princeton)  | [Graph Powering: mixing Bayesian and spectral methods](#abbe)  |
 | Nov 23 | **THANKSGIVING**      | 
 | Nov 30 | [Guillermo Sapiro](http://ece.duke.edu/faculty/guillermo-sapiro)  (Duke)    | |
 | Dec 7 | [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) (ENS) |  |
@@ -93,4 +93,11 @@ Joint work will Alessandro Rudi, Silvia Villa, Junhong Lin, Luigi Carratino.
 
 We consider the minimization of an objective function given access to unbiased estimates of its gradient through stochastic gradient descent (SGD) with constant step-size. While the detailed analysis was only performed for quadratic functions, we provide an explicit asymptotic expansion of the moments of the averaged SGD iterates that outlines the dependence on initial conditions, the effect of noise and the step-size, as well as the lack of convergence in the general (non-quadratic) case. For this analysis, we bring tools from Markov chain theory into the analysis of stochastic gradient and create new ones (similar but different from stochastic MCMC methods).  We then show that Richardson-Romberg extrapolation may be used to get closer to the global optimum and we show empirical improvements of the new extrapolation scheme. (joint work with Aymeric Dieuleveut and Alain Durmus).
 
+#### <a name="mauro"></a> Mauro Maggioni: Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets
 
+We discuss a family of ideas, algorithms, and results for analyzing various new and classical problems in the analysis of high-dimensional data sets. These methods we discuss perform well when data is (nearly) intrinsically low-dimensional. They rely on the idea of performing suitable multiscale geometric decompositions of the data, and exploiting such decompositions to perform a variety of tasks in signal processing and statistical learning. In particular, we discuss the problem of dictionary learning, where one is interested in constructing, given a training set of signals, a set of vectors (dictionary) such that the signals admit a sparse representation in terms of the dictionary vectors. We then discuss the problem of regressing a function on a low-dimensional unknown manifold, and learning a probability measure with nearly low-dimensional support. For these problems we introduce multiscale estimators, fast algorithms for constructing them, and give finite sample guarantees for its performance, and discuss their optimality. Finally, we discuss an application of these multiscale decompositions to the fast calculation of optimal transportation plans, introduce a multiscale version of optimal transportation distances, and discuss preliminary applications. These are joint works with W. Liao, S. Vigogna and S. Gerber.
+
+
+#### <a name="abbe"></a> Emmanuel Abbe: Graph Powering: mixing Bayesian and Spectral Methods
+
+In clustering and other unsupervised tasks, one often seeks information about the data from the top eigenvectors of a graph-based operator. However, these may not always be the informative eigenvectors due to various outliers (e.g., high degree nodes, tangles, branches) that cut-based methods get distracted from. Graph powering is a technique that tries to modify the graph to suppress the effect of such outliers and bring back the informative eigenvectors at the top. It is motivated by a 'Bayesian' rather than worst-case cut metric. We will argue that powering can handle both stochastic block models and some 'geometric block models' where short loops are much more present. Joint work with C. Sandon and E. Boix. 
