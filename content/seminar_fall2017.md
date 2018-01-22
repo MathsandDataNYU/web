@@ -41,9 +41,6 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Nov 30 | [Guillermo Sapiro](http://ece.duke.edu/faculty/guillermo-sapiro)  (Duke)    | [Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems](#guillermo) |
 | Dec 7 | [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) (ENS) |  |
 
----
-
-[Schedule Spring 2017](https://mathsanddatanyu.github.io/website/seminar_spring2017/)
 
 ---
 ### Abstracts 
