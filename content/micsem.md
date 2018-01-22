@@ -17,6 +17,16 @@ menu = "main"
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
 
+### Schedule Spring 18
+
+| Date & Time    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| Jan 31, 2:15pm      | [Mariano Tepper](https://www.simonsfoundation.org/team/mariano-tepper/) (Simons Foundation)  |  | WWH 905 |
+|       |   |     |  |
+
+---
+
+### Abstracts
 
 ### Schedule Spring 17
 
