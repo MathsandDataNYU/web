@@ -21,7 +21,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 
 | Date & Time    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
-| Jan 31, 2:15pm      | [Mariano Tepper](https://www.simonsfoundation.org/team/mariano-tepper/) (Simons Foundation)  |  | WWH 905 |
+| Jan 31, 10:15am      | [Mariano Tepper](https://www.simonsfoundation.org/team/mariano-tepper/) (Simons Foundation)  |  | WWH 905 |
 |       |   |     |  |
 
 ---
