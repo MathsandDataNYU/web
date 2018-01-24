@@ -23,11 +23,13 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 **Subscribe to the Seminar Mailing list [here](http://cims.nyu.edu/mailman/listinfo/mad)**
 
+**Note special time and location of the first talk by Sebastien Bubeck**
+
 ### Schedule with Confirmed Speakers
 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
-| Feb 1      | [Sebastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/) (Microsoft Research)  |  |
+| Jan 30, 3:45pm-5:00pm, WWH 1302  | [Sebastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/) (Microsoft Research)  |  |
 | Feb 8      | [David Rothschild](https://researchdmr.com) (Microsoft Research) |     |
 | Feb 15 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   |  |
 | Feb 22 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)    |   |
