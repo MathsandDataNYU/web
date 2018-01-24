@@ -41,6 +41,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Apr 5 | [Justin Romberg](http://jrom.ece.gatech.edu) (Georgia Tech)  |   |
 | Apr 12 | [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/) (UCLA)  |  | 
 | Apr 19 | [Rene Vidal](http://www.cis.jhu.edu/~rvidal/)  (Johns Hopkins)    |  |
+| Apr 26 | [Ankur Moitra](http://people.csail.mit.edu/moitra/)  (MIT)    |  |
 
 
 ---
