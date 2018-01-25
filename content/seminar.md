@@ -29,7 +29,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
-| Jan 30, 3:45pm-5:00pm, WWH 1302  | [Sebastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/) (Microsoft Research)  |  |
+| Jan 30, 3:45pm-5:00pm, WWH 1302  | [Sebastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/) (Microsoft Research)  | [k-server and metrical task systems on trees](#bubeck) |
 | Feb 8      | [David Rothschild](https://researchdmr.com) (Microsoft Research) |     |
 | Feb 15 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   |  |
 | Feb 22 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)    |   |
@@ -55,3 +55,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 ---
 ### Abstracts 
 
+#### <a name="bubeck"></a> Sebastien Bubeck: k-server and metrical task systems on trees
+
+In the last decade the mirror descent strategy of Nemirovski and Yudin has emerged as a powerful tool for online learning. I will argue that in fact the reach of this technique is far broader than expected, and that it can be useful for online computation problems in general. I will illustrate this on two classical problems in online decision making, the k-server problem and its generalization to metrical task systems. Both problems have long-standing conjectures about the optimal competitive ratio in arbitrary metric spaces, namely O(log(k)) for k-server and O(log(n)) for MTS. We will show that mirror descent, with a certain multiscale entropy regularization, yields respectively O(log^2(k)) and O(log(n)) for a very general class of metric spaces (namely hierarchically separated trees, which in particular implies the same bounds up to an additional log(n) factor for arbitrary metric spaces).
+
+Joint work with Michael B. Cohen, James R. Lee, Yin Tat Lee, and Aleksander Madry.
