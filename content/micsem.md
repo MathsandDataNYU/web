@@ -21,12 +21,17 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 
 | Date & Time    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
-| Jan 31, 10:15am      | [Mariano Tepper](https://www.simonsfoundation.org/team/mariano-tepper/) (Simons Foundation)  |  | WWH 905 |
+| Jan 31, 10:15am      | [Mariano Tepper](https://www.simonsfoundation.org/team/mariano-tepper/) (Simons Foundation)  | [Clustering is semidefinitely not that hard](#tepper) | WWH 905 |
 |       |   |     |  |
 
 ---
 
 ### Abstracts
+
+#### <a name="tepper"></a> Mariano Tepper: Clustering is semidefinitely not that hard
+
+In recent years, semidefinite programs (SDP) have been the subject of interesting research in the field of clustering. In many cases, these convex programs deliver the same answers as non-convex alternatives and come with a guarantee of optimality.
+In this talk, I will argue that SDP-KM, a popular semidefinite relaxation of K-means, can learn manifolds present in the data, something not possible with the original K-means formulation. To build an intuitive understanding of SDP-KM's manifold learning capabilities, I will present a theoretical analysis on an idealized dataset. Additionally, SDP-KM even segregates linearly non-separable manifolds. As generic SDP solvers are slow on large datasets, I will present a new, convex and yet efficient, solver for SDP-KM. Our results render SDP-KM a versatile, understandable, and powerful tool for manifold learning.
 
 ### Schedule Spring 17
 
