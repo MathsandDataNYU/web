@@ -22,12 +22,22 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | Date & Time    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
 | Jan 31, 10:15am      | [Mariano Tepper](https://www.simonsfoundation.org/team/mariano-tepper/) (Simons Foundation)  | [Clustering is semidefinitely not that hard](#tepper) | WWH 905 |
-| Feb 7, 10:15am      | [Luca Venturi](https://cims.nyu.edu/~venturi/) (NYU)  | | WWH 905 |
+| Feb 7, 10:15am      | [Luca Venturi](https://cims.nyu.edu/~venturi/) (NYU)  | [Connectivity of Neural Networks Optimization Landscapes](#venturi)  | WWH 905 |
 |       |   |     |  |
 
 ---
 
 ### Abstracts
+
+#### <a name="venturi"></a> Luca Venturi: Connectivity of Neural Networks Optimization Landscapes
+
+We study connectivity of sub-level sets of the square loss function of two-layers neural networks. This property implies abscence of poor local minima. 
+In particular, we explore the hypothesis that overparametrisation convexifies the functional space of neural network architectures.
+I will start by extending the existing results about non-existence of bad local minima in the optimization of linear neural networks.
+We then move to study non-linear activations using Reproducing Kernel Hilbert Spaces, deriving general results that include Empirical Risk Minimization.  
+In the rest of the talk, I will focus on quadratic activations, and I will show how we can significatively improve the general RKHS bounds by exploiting the particular geometry of positive semidefinite matrices.
+I will conclude by discussing some directions of possible future exploration.
+Joint work with: A. Bandeira, J. Bruna.
 
 #### <a name="tepper"></a> Mariano Tepper: Clustering is semidefinitely not that hard
 
