@@ -30,8 +30,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
 | Jan 30, 3:45pm-5:00pm, WWH 1302  | [Sebastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/) (Microsoft Research)  | [k-server and metrical task systems on trees](#bubeck) |
-| Feb 8      | [David Rothschild](https://researchdmr.com) (Microsoft Research) |     |
-| Feb 15 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   |  |
+| Feb 8      | [David Rothschild](https://researchdmr.com) (Microsoft Research) |   [Public Opinion during the 2020 election](#roth)  |
+| Feb 15, 3-4pm, CDS 150 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   | [Autotuning the learning rate in stochastic gradient methods](#ward) |
 | Feb 22 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)    |   |
 | Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  |  |
 | Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      |    |
@@ -54,6 +54,15 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 ---
 ### Abstracts 
+
+#### <a name="ward"></a> Rachel Ward: Autotuning the learning rate in stochastic gradient methods
+
+Choosing a proper learning rate in stochastic gradient methods can be difficult. If certain parameters of the problem are known, .e.g. Lipschitz smoothness or strong convexity parameters, are known a priori, optimal theoretical rates are known. However, in practice, these parameters are not known, and the loss function of interest is not convex, and only locally smooth. Thus, adjusting the learning rate is an important problem -- a learning rate that is too small leads to painfully slow convergence, while a learning rate that is too large can cause the loss function to fluctuate around the minimum or even to diverge. Several methods have been proposed in the last few years to adjust the learning rate according to gradient data that is received along the way. We review these methods, and propose a simple method, inspired by reparametrization of the loss function in polar coordinates. We prove that the proposed method achieves optimal convergence rates in batch and stochastic settings, without having to know parameters of the loss function in advance.[]
+
+
+#### <a name="roth"></a> David Rothschild:  Public Opinion during the 2020 election
+
+Traditional data collection in the multi-billion dollar survey research field utilizes representative samples. It is expensive, slow, inflexible, and its accuracy is unproven; the 2016 election is crushing blow to its reputation (although, it did not do that bad!). Intelligence drawn from surveys of non-representative samples, both self-selected respondents and random, but non-representative respondents, is now cheaper, quicker, flexible, and adequately accurate. Along with cutting-edge data collection and analytics built around non-representative samples and large-scale behavioral data, will transform our understanding of public opinion.
 
 #### <a name="bubeck"></a> Sebastien Bubeck: k-server and metrical task systems on trees
 
