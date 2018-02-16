@@ -23,11 +23,19 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | ----------- |:-------------:|:-----------:|:------| 
 | Jan 31, 10:15am      | [Mariano Tepper](https://www.simonsfoundation.org/team/mariano-tepper/) (Simons Foundation)  | [Clustering is semidefinitely not that hard](#tepper) | WWH 905 |
 | Feb 7, 10:15am      | [Luca Venturi](https://cims.nyu.edu/~venturi/) (NYU)  | [Connectivity of Neural Networks Optimization Landscapes](#venturi)  | WWH 905 |
-|       |   |     |  |
+| Feb 21, 10:15am    | [Joao Pereira](https://web.math.princeton.edu/~jpereira/)   | [Estimation in multireference alignment and generalizations.](#morais)    |  |
 
 ---
 
 ### Abstracts
+
+
+#### <a name="morais"></a> Luca Venturi: Estimation in multireference alignment and generalizations
+
+In the multireference alignment model, a signal is observed by the action of a random circular translation and the addition of Gaussian noise. Of particular interest is the sample complexity, i.e., the number of observations/samples needed in terms of the signal-to-noise ratio (SNR), the signal energy divided by the noise variance, in order to drive the mean-square error to zero. Previous work showed that if the translations are drawn from the uniform distribution, then, in the low SNR regime, the sample complexity of the problem scales as $\omega(1/\SNR^3)$.  We show, that if however the translation distribution is aperiodic, the sample complexity in the same regime drops down to $\omega(1/\SNR^2)$. This rate is achieved by a simple spectral algorithm. The lower bound follows from a generalization of the Chapman-Robbins bound for orbits and an expansion of the $\chi^2$ divergence at low SNR, and can be generalized for general group actions and projections. This suggests the method of moments is optimal in the low SNR regime.
+
+
+Joint work with Emmanuel Abbe, Tamir Bendory, William Leeb, Nir Sharon and Amit Singer.
 
 #### <a name="venturi"></a> Luca Venturi: Connectivity of Neural Networks Optimization Landscapes
 
