@@ -32,7 +32,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Jan 30, 3:45pm-5:00pm, WWH 1302  | [Sebastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/) (Microsoft Research)  | [k-server and metrical task systems on trees](#bubeck) |
 | Feb 8      | [David Rothschild](https://researchdmr.com) (Microsoft Research) |   [Public Opinion during the 2020 election](#roth)  |
 | Feb 15, 3-4pm, CDS 150 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   | [Autotuning the learning rate in stochastic gradient methods](#ward) |
-| Feb 22 | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU)    |   |
+| Feb 22 | [Zhou Fan](https://web.stanford.edu/~zhoufan/) (Stanford)    | [Eigenvalues in multivariate random effects models
+](#fan)  |
 | Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  |  |
 | Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      |    |
 | Mar 15 | **SPRING BREAK** |
@@ -54,6 +55,11 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 ---
 ### Abstracts 
+
+#### <a name="fan"></a> Zhou Fan: Eigenvalues in multivariate random effects models
+
+Random effects models are commonly used to measure genetic variance-covariance matrices of quantitative phenotypic traits in a population. The eigenvalues of these matrices describe the evolutionary response of the population to selection. However, they may be difficult to estimate from limited samples when the number of traits is large. I will discuss several phenomena concerning the eigenvalues of classical MANOVA estimators in such high-dimensional settings, including dispersion of the bulk eigenvalue distribution, bias and aliasing of large "spike" eigenvalues, and Tracy-Widom limits at the spectral edges. I will then describe a new statistical procedure that uses these results to consistently estimate the large population eigenvalues in a high-dimensional regime. The proofs apply and extend techniques in random matrix theory and free probability, which I will also briefly describe. This is joint work with Iain M. Johnstone, Yi Sun, Mark W. Blows, and Emma Hine.
+
 
 #### <a name="ward"></a> Rachel Ward: Autotuning the learning rate in stochastic gradient methods
 
