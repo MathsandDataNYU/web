@@ -32,8 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Jan 30, 3:45pm-5:00pm, WWH 1302  | [Sebastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/) (Microsoft Research)  | [k-server and metrical task systems on trees](#bubeck) |
 | Feb 8      | [David Rothschild](https://researchdmr.com) (Microsoft Research) |   [Public Opinion during the 2020 election](#roth)  |
 | Feb 15, 3-4pm, CDS 150 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   | [Autotuning the learning rate in stochastic gradient methods](#ward) |
-| Feb 22 | [Zhou Fan](https://web.stanford.edu/~zhoufan/) (Stanford)    | [Eigenvalues in multivariate random effects models
-](#fan)  |
+| Feb 22 | [Zhou Fan](https://web.stanford.edu/~zhoufan/) (Stanford)    | [Eigenvalues in multivariate random effects models](#fan)  |
 | Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  |  |
 | Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      |    |
 | Mar 15 | **SPRING BREAK** |
