@@ -33,7 +33,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Feb 8      | [David Rothschild](https://researchdmr.com) (Microsoft Research) |   [Public Opinion during the 2020 election](#roth)  |
 | Feb 15, 3-4pm, CDS 150 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   | [Autotuning the learning rate in stochastic gradient methods](#ward) |
 | Feb 22 | [Zhou Fan](https://web.stanford.edu/~zhoufan/) (Stanford)    | [Eigenvalues in multivariate random effects models](#fan)  |
-| Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  |  |
+| Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  | [Learning better models for computer vision](#pock)  |
 | Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      |    |
 | Mar 15 | **SPRING BREAK** |
 | Mar 22 |  [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC) |  | 
@@ -54,6 +54,11 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 ---
 ### Abstracts 
+
+#### <a name="pock"></a> Thomas Pock: Learning better models for computer vision
+
+In this talk, I will present our recent activities in combining machine learning
+with classical energy minimization models for computer vision and image processing. In the first model we consider a classical (discrete) conditional random field model for stereo and motion estimation. We use a methodology similar to the structured output SVM to learn both the unary and binary weights computed from convolutional neural networks. In the second model we consider a continuous variational model for inverse problems in imaging. We learn the parameters of the model by first unrolling the iterations of a plain gradient descent algorithm and the allowing the model to change its parameters in each iteration. We  show  applications to  different  inverse  problems  in  imaging where  we put  a  particular focus on image reconstruction from undersampled MRI data.
 
 #### <a name="fan"></a> Zhou Fan: Eigenvalues in multivariate random effects models
 
