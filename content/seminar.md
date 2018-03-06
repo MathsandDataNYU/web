@@ -34,12 +34,13 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Feb 15, 3-4pm, CDS 150 | [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)   | [Autotuning the learning rate in stochastic gradient methods](#ward) |
 | Feb 22 | [Zhou Fan](https://web.stanford.edu/~zhoufan/) (Stanford)    | [Eigenvalues in multivariate random effects models](#fan)  |
 | Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  | [Learning better models for computer vision](#pock)  |
-| Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      |    |
+| Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      | [Polynomial Optimization and Dynamical Systems](#ali)   |
 | Mar 15 | **SPRING BREAK** |
 | Mar 22 |  [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC) |  | 
 | Mar 29 | [Alejandro Ribeiro](https://alliance.seas.upenn.edu/~aribeiro/wiki/) (UPenn)      |   |
 | Apr 5 | [Justin Romberg](http://jrom.ece.gatech.edu) (Georgia Tech)  |   |
 | Apr 12 | [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/) (UCLA)  |  | 
+| Apr 19 | [Anirvan Sengupta](http://www.physics.rutgers.edu/~anirvans/) (Rutgers)| |
 | Apr 26 | [Ankur Moitra](http://people.csail.mit.edu/moitra/)  (MIT)    |  |
 
 
@@ -53,6 +54,11 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 ---
 ### Abstracts 
+#### <a name="ali"></a> Amir Ali Ahmadix: Polynomial Optimization and Dynamical Systems
+
+In recent years, there has been a surge of exciting research activity at the interface of optimization (in particular polynomial, semidefinite, and sum of squares optimization) and the theory of dynamical systems. In this talk, we focus on two of our current research directions that are at this interface. In part (i), we propose more scalable alternatives to sum of squares optimization and show how they impact verification problems in control and robotics, as well as some classic questions in polynomial optimization and statistics. Our new algorithms do not rely on semidefinite programming, but instead use linear programming, or second-order cone programming, or are altogether free of optimization. In particular, we present the first Positivstellensatz that certifies infeasibility of a set of polynomial inequalities simply by multiplying certain fixed polynomials together and checking nonnegativity of the coefficients of the resulting product.
+
+In part (ii), we introduce a new class of optimization problems whose constraints are imposed by trajectories of a dynamical system. As a concrete example, we consider the problem of optimizing a linear function over the set of initial conditions that forever remain inside a given polyhedron under the action of a linear, or a switched linear, dynamical system. We present a hierarchy of linear and semidefinite programs that respectively lower and upper bound the optimal value of such problems to arbitrary accuracy.
 
 #### <a name="pock"></a> Thomas Pock: Learning better models for computer vision
 
