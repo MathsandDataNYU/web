@@ -30,7 +30,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 
 ### Abstracts
 
-#### <a name="lavenant"></a>  Harmonic mappings valued in the Wasserstein space
+#### <a name="lavenant"></a>  Hugo Lavenant: Harmonic mappings valued in the Wasserstein space
 
 The Wasserstein space, which is the space of probability measures endowed with the so-called (quadratic) Wasserstein distance coming from optimal transport, can formally be seen as a Riemannian manifold of infinite dimension. We propose, through a variational approach, a definition of harmonic mappings defined over a domain of R^n and valued in the Wasserstein space. We will show how one can build a fairly satisfying theory which captures some key features of harmonicity and how it is related to the concepts of geodesics (the so-called McCann's interpolation) and barycenters in the Wasserstein space. Other than a better understanding of the Wasserstein space, the motivation of such a study can be found in geometric data analysis.
 
