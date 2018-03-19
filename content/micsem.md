@@ -25,7 +25,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | Feb 7, 10:15am      | [Luca Venturi](https://cims.nyu.edu/~venturi/) (NYU)  | [Connectivity of Neural Networks Optimization Landscapes](#venturi)  | WWH 905 |
 | Feb 21, 10:15am    | [Joao Pereira](https://web.math.princeton.edu/~jpereira/)   | [Estimation in multireference alignment and generalizations.](#morais)    | WWH 905  |
 | Mar 7 11 am | [Levent Sagun](https://cims.nyu.edu/~sagun/) | Comparing Dynamics: Deep Neural Networks versus Glassy Systems | WWH 905 | 
-| Mar 27 1 pm | [Hugo Lavenant](https://www.math.u-psud.fr/~lavenant/) |  [Harmonic mappings valued in the Wasserstein space](#lavenant) | WWH 905|
+| Mar 27 1 pm | [Hugo Lavenant](https://www.math.u-psud.fr/~lavenant/) |  [Harmonic mappings valued in the Wasserstein space](#lavenant) | CDS C15|
 ---
 
 ### Abstracts

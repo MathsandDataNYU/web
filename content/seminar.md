@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  | [Learning better models for computer vision](#pock)  |
 | Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      | [Polynomial Optimization and Dynamical Systems](#ali)   |
 | Mar 15 | **SPRING BREAK** |
-| Mar 22 |  [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC) |  | 
+| Mar 22 |  [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC) | [ Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization]  | 
 | Mar 29 | [Alejandro Ribeiro](https://alliance.seas.upenn.edu/~aribeiro/wiki/) (UPenn)      |   |
 | Apr 5 | [Justin Romberg](http://jrom.ece.gatech.edu) (Georgia Tech)  |   |
 | Apr 12 | [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/) (UCLA)  |  | 
@@ -54,6 +54,12 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 ---
 ### Abstracts 
+
+#### <a name="ali"></a> Mahdi Soltanolkotabi:  Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization
+
+Many problems of contemporary interest in signal processing and machine learning involve highly non-convex optimization formulations. While nonconvex problems are known to be intractable in general, simple local search heuristics such as (stochastic) gradient descent are often surprisingly effective at finding global/high quality optima on real or randomly generated data. In this talk I will discuss some results explaining the success of these heuristics focusing on two problems.
+The first problem is about learning the optimal weights of the shallowest of neural networks consisting of a single Rectified Linear Unit (ReLU). I will discuss this problem in the high-dimensional regime where the number of observations are fewer than the ReLU weights. I will show that projected gradient descent on a natural least-squares objective, when initialized at zero, converges at a linear rate to globally optimal weights with a number of samples that is optimal up to numerical constants. I will then discuss how this result can be generalized to single hidden layer networks in the over-parameterized regime. The second problem focuses on maximizing continuous submodular functions that emerge in a variety of areas in machine learning, including utility functions in matrix approximations and network inference. Despite the apparent lack of convexity/concavity in such functions, I will show that stochastic projected gradient methods can provide strong approximation guarantees for maximizing continuous submodular functions with convex constraints. In particular, this result allows us to approximately maximize discrete, monotone submodular optimization problems via projected gradient descent on a continuous relaxation, directly connecting the discrete and continuous domains.
+
 #### <a name="ali"></a> Amir Ali Ahmadix: Polynomial Optimization and Dynamical Systems
 
 In recent years, there has been a surge of exciting research activity at the interface of optimization (in particular polynomial, semidefinite, and sum of squares optimization) and the theory of dynamical systems. In this talk, we focus on two of our current research directions that are at this interface. In part (i), we propose more scalable alternatives to sum of squares optimization and show how they impact verification problems in control and robotics, as well as some classic questions in polynomial optimization and statistics. Our new algorithms do not rely on semidefinite programming, but instead use linear programming, or second-order cone programming, or are altogether free of optimization. In particular, we present the first Positivstellensatz that certifies infeasibility of a set of polynomial inequalities simply by multiplying certain fixed polynomials together and checking nonnegativity of the coefficients of the resulting product.
