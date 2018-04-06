@@ -36,10 +36,10 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 1 |  [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/) (TU Graz)  | [Learning better models for computer vision](#pock)  |
 | Mar 8  |  [Amir Ali Ahmadi](http://aaa.princeton.edu) (Princeton)      | [Polynomial Optimization and Dynamical Systems](#ali)   |
 | Mar 15 | **SPRING BREAK** |
-| Mar 22 |  [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC) | [ Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization]  | 
-| Mar 29 | [Alejandro Ribeiro](https://alliance.seas.upenn.edu/~aribeiro/wiki/) (UPenn)      |   |
-| Apr 5 | [Justin Romberg](http://jrom.ece.gatech.edu) (Georgia Tech)  |   |
-| Apr 12 | [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/) (UCLA)  |  | 
+| Mar 22 |  [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC) | [Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization](#mahdi)  | 
+| Mar 29 | [Alejandro Ribeiro](https://alliance.seas.upenn.edu/~aribeiro/wiki/) (UPenn)      | [Convolutional Neural Networks Architectures for Signals Supported on Graphs](#ribeiro)   |
+| Apr 5 | [Justin Romberg](http://jrom.ece.gatech.edu) (Georgia Tech)  | [Solving Nonlinear Equations using Convex Programming](#justin)  |
+| Apr 12 | [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/) (UCLA)  | [Asynchronous Parallel Computing for Optimization](#yin) | 
 | Apr 19 | [Anirvan Sengupta](http://www.physics.rutgers.edu/~anirvans/) (Rutgers)| |
 | Apr 26 | [Ankur Moitra](http://people.csail.mit.edu/moitra/)  (MIT)    |  |
 
@@ -55,7 +55,30 @@ of Applied Mathematics, Statistics and Machine Learning.
 ---
 ### Abstracts 
 
-#### <a name="ali"></a> Mahdi Soltanolkotabi:  Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization
+
+
+#### <a name="yin"></a> Wotao Yin: Asynchronous Parallel Computing for Optimization
+The performance of the CPU core stopped improving around 2005. The Moore’s law, however, continues to apply -- not to the single-thread performance though -- but the number of cores in each computer. Today, at affordable prices, we can buy 64 CPU-cores workstations, thousand-core GPUs, and even eight-core cellphones. To take advantages of multiple cores, we must parallelize our algorithms -- otherwise, our algorithms won’t run any faster on newer computers. For iterative parallel algorithms to have the strong performance, asynchrony turns out to be critical. Removing the synchronizations among different cores will eliminate core idling and reduce memory-access and communication congestions. However, some cores now compute with out-of-date information.
+
+We study different kinds of asynchronous algorithms: fixed-point iterations and coordinate descent methods, and show that they will converge to a solution provided that the step size is properly chosen. We present conditions when asynchronous algorithms are provably faster than other synchronous counterparts. As special cases, novel algorithms for linear equation systems, machine learning, distributed and decentralized optimization are introduced, and numerical performance will be presented for sparse logistic regression and others.
+
+#### <a name="justin"></a> Justin Romberg: Solving Nonlinear Equations using Convex Programming
+
+We consider the question of estimating a solution to a system of equations that involve convex nonlinearities, a problem that is common in machine learning and signal processing. Because of these nonlinearities, conventional estimators based on empirical risk minimization generally involve solving a non-convex optimization program. We propose a method (called “anchored regression”) that is based on convex programming and amounts to maximizing a linear functional (perhaps augmented by a regularizer) over a convex set.
+
+The proposed convex program is formulated in the natural space of the problem, and avoids the introduction of auxiliary variables, making it computationally favorable. Working in the native space also provides us with the flexibility to incorporate structural priors (e.g., sparsity) on the solution.
+
+For our analysis, we model the equations as being drawn from a fixed set according to a probability law.  Our main results provide guarantees on the accuracy of the estimator in terms of the number of equations we are solving, the amount of noise present, a measure of statistical complexity of the random equations, and the geometry of the regularizer at the true solution. We also provide recipes for constructing the anchor vector (that determines the linear functional to maximize) directly from the observed data.
+
+We will discuss applications of this technique to nonlinear problems including phase retrieval, blind deconvolution, and inverting the action of a neural network.
+
+This is joint work with Sohail Bahmani.
+
+#### <a name="ribeiro"></a> Alejandro Ribeiro: Convolutional Neural Networks Architectures for Signals Supported on Graphs
+
+We describe two architectures that generalize convolutional neural networks (CNNs) for the processing of signals supported on graphs. The selection Graph Neural Network (GNN) replaces linear time invariant filters with linear shift invariant graph filters to generate convolutional features and reinterprets pooling as a possibly nonlinear subsampling stage where nearby nodes pool their information in a set of preselected sample nodes. A key component of the architecture is to remember the position of sampled nodes to permit computation of convolutional features at deeper layers. The aggregation GNN diffuses the signal through the graph and stores the sequence of diffused components observed by a designated node. This procedure effectively aggregates all components into a stream of information having temporal structure to which the convolution and pooling stages of regular CNNs can be applied. A multi-node version of  aggregation CNNs is further introduced for operation in large scale graphs. An important property of selection and aggregation GNNs is that they reduce to conventional CNNs when particularized to time signals reinterpreted as graph signals in a circulant graph. Comparative numerical analyses are performed in a synthetic source localization application. Performance is evaluated for a text category classification problem using word proximity networks.
+
+#### <a name="mahdi"></a> Mahdi Soltanolkotabi:  Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization
 
 Many problems of contemporary interest in signal processing and machine learning involve highly non-convex optimization formulations. While nonconvex problems are known to be intractable in general, simple local search heuristics such as (stochastic) gradient descent are often surprisingly effective at finding global/high quality optima on real or randomly generated data. In this talk I will discuss some results explaining the success of these heuristics focusing on two problems.
 The first problem is about learning the optimal weights of the shallowest of neural networks consisting of a single Rectified Linear Unit (ReLU). I will discuss this problem in the high-dimensional regime where the number of observations are fewer than the ReLU weights. I will show that projected gradient descent on a natural least-squares objective, when initialized at zero, converges at a linear rate to globally optimal weights with a number of samples that is optimal up to numerical constants. I will then discuss how this result can be generalized to single hidden layer networks in the over-parameterized regime. The second problem focuses on maximizing continuous submodular functions that emerge in a variety of areas in machine learning, including utility functions in matrix approximations and network inference. Despite the apparent lack of convexity/concavity in such functions, I will show that stochastic projected gradient methods can provide strong approximation guarantees for maximizing continuous submodular functions with convex constraints. In particular, this result allows us to approximately maximize discrete, monotone submodular optimization problems via projected gradient descent on a continuous relaxation, directly connecting the discrete and continuous domains.
