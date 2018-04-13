@@ -40,7 +40,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Mar 29 | [Alejandro Ribeiro](https://alliance.seas.upenn.edu/~aribeiro/wiki/) (UPenn)      | [Convolutional Neural Networks Architectures for Signals Supported on Graphs](#ribeiro)   |
 | Apr 5 | [Justin Romberg](http://jrom.ece.gatech.edu) (Georgia Tech)  | [Solving Nonlinear Equations using Convex Programming](#justin)  |
 | Apr 12 | [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/) (UCLA)  | [Asynchronous Parallel Computing for Optimization](#yin) | 
-| Apr 19 | [Anirvan Sengupta](http://www.physics.rutgers.edu/~anirvans/) (Rutgers)| |
+| Apr 19 | [Anirvan Sengupta](http://www.physics.rutgers.edu/~anirvans/) (Rutgers)| [Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation](#anirvan) |
 | Apr 26 | [Ankur Moitra](http://people.csail.mit.edu/moitra/)  (MIT)    |  |
 
 
@@ -55,7 +55,9 @@ of Applied Mathematics, Statistics and Machine Learning.
 ---
 ### Abstracts 
 
+#### <a name="anirvan"></a> Anirvan Sengupta: Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation
 
+Abstract: We show how an unsupervised single-layer neuronal network with non-negativity constraint on activity, originally meant for clustering, is also capable of manifold representation. By starting with a constrained optimization problem, we derive an algorithm that can perform clustering, manifold learning or manifold disentangling, depending upon the nature of inputs. To build a deeper understanding of this neural network's manifold learning capabilities, we analyze the solution of the optimization problem, and of a related semidefinite relaxation, on idealized datasets. Our theoretical and empirical results provide insights into formation of internal neural representations of continuous manifolds (e.g. location in space or orientation of body) in the biological setting.
 
 #### <a name="yin"></a> Wotao Yin: Asynchronous Parallel Computing for Optimization
 The performance of the CPU core stopped improving around 2005. The Moore’s law, however, continues to apply -- not to the single-thread performance though -- but the number of cores in each computer. Today, at affordable prices, we can buy 64 CPU-cores workstations, thousand-core GPUs, and even eight-core cellphones. To take advantages of multiple cores, we must parallelize our algorithms -- otherwise, our algorithms won’t run any faster on newer computers. For iterative parallel algorithms to have the strong performance, asynchrony turns out to be critical. Removing the synchronizations among different cores will eliminate core idling and reduce memory-access and communication congestions. However, some cores now compute with out-of-date information.
