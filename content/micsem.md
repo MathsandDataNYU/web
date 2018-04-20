@@ -26,9 +26,15 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | Feb 21, 10:15am    | [Joao Pereira](https://web.math.princeton.edu/~jpereira/)   | [Estimation in multireference alignment and generalizations.](#morais)    | WWH 905  |
 | Mar 7 11 am | [Levent Sagun](https://cims.nyu.edu/~sagun/) | Comparing Dynamics: Deep Neural Networks versus Glassy Systems | WWH 905 | 
 | Mar 27 1 pm | [Hugo Lavenant](https://www.math.u-psud.fr/~lavenant/) |  [Harmonic mappings valued in the Wasserstein space](#lavenant) | CDS C15|
+| Apr 30 11 am | [Jean-Luc Bouchot](http://www.mathc.rwth-aachen.de/en/~bouchot/) |  [Compressed sensing Petrov-Galerkin: When data science helps solve problem in applied mathematics](#bouchot) | WWH 202|
 ---
 
 ### Abstracts
+
+#### <a name="bouchot"></a>  Jean-Luc Bouchot: Compressed sensing Petrov-Galerkin: When data science helps solve problem in applied mathematics
+
+Motivated by problems in uncertainty quantification, we introduce a scheme for the uniform approximation of high-dimensional parametric PDEs. Exploiting an analytic dependence of certain PDEs in the parameters, allows to show some convergence rates for non-linear approximation. 
+Building on this remark, one computes (or has access to) independent snapshots of solutions for random parameters and use them in a weighted sparse recovery framework. This allows to approximate the solution map in a polynomial chaos in a number of snapshots that scales optimally (up to log factors) with the intrinsic sparsity of the solution. A further extension based on multi-level decomposition allows for efficient computation and can be shown to deliver uniform approximation (in the parameter space) in a computing time in the order of the approximation of a single solution.
 
 #### <a name="lavenant"></a>  Hugo Lavenant: Harmonic mappings valued in the Wasserstein space
 
