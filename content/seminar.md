@@ -41,8 +41,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Apr 5 | [Justin Romberg](http://jrom.ece.gatech.edu) (Georgia Tech)  | [Solving Nonlinear Equations using Convex Programming](#justin)  |
 | Apr 12 | [Wotao Yin](http://www.math.ucla.edu/~wotaoyin/) (UCLA)  | [Asynchronous Parallel Computing for Optimization](#yin) | 
 | Apr 19 | [Anirvan Sengupta](http://www.physics.rutgers.edu/~anirvans/) (Rutgers)| [Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation](#anirvan) |
-| Apr 26 | [Ankur Moitra](http://people.csail.mit.edu/moitra/)  (MIT)    |  |
-
+| Apr 26 | [Ankur Moitra](http://people.csail.mit.edu/moitra/)  (MIT)    | [Robustness Meets Algorithms](#ankur)  |
+| May 3 | [Rene Vidal](http://cis.jhu.edu/~rvidal/)  (John Hopkins)    | [Global Optimality in Matrix Factorization and Deep Learning](#vidal) |
 
 ---
 
@@ -54,6 +54,16 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 ---
 ### Abstracts 
+
+#### <a name="vidal"></a> Rene Vidal: Global Optimality in Matrix Factorization and Deep Learning
+
+
+Abstract: The past few years have seen a dramatic increase in the performance of recognition systems thanks to the introduction of deep networks for representation learning. However, the mathematical reasons for this success remain elusive. A key issue is that the neural network training problem is non-convex, hence optimization algorithms may not return a global minima. Building on ideas from convex relaxations of matrix factorizations, this work proposes a general framework which allows for the analysis of a wide range of non-convex factorization problems – including matrix factorization, tensor factorization, and deep neural network training. The talk will describe sufficient conditions under which a local minimum of the non-convex optimization problem is a global minimum and show that if the size of the factorized variables is large enough then from any initialization it is possible to find a global minimizer using a local descent algorithm. Joint work with Ben Haeffele.
+
+
+#### <a name="ankur"></a> Ankur Moitra: Robustness Meets Algorithms
+
+In every corner of machine learning and statistics, there is a need for estimators that work not just in an idealized model but even when their assumptions are violated. Unfortunately in high-dimensions, being provably robust and efficiently computable are often at odds with each other. In this talk, we give the first efficient algorithm for estimating the parameters of a high-dimensional Gaussian which is able to tolerate a constant fraction of corruptions that is independent of the dimension. Prior to our work, all known estimators either needed time exponential in the dimension to compute, or could tolerate only an inverse polynomial fraction of corruptions. Not only does our algorithm bridge the gap between robustness and algorithms, it turns out to be highly practical in a variety of settings. Joint work with Ilias Diakonikolas, Gautam Kamath, Daniel Kane, Jerry Li and Alistair Stewart.
 
 #### <a name="anirvan"></a> Anirvan Sengupta: Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation
 
