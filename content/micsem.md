@@ -17,6 +17,50 @@ menu = "main"
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
 
+### Schedule Summer 18
+
+| Date & Time    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| May 30, 10:15am      | [Yu Guang Wang](http://yuguangwang.com/) (ICERM and The University of New South Wales, Sydney)  | [Tight framelets and fast framelet filter bank transforms on manifolds](#yu) | WWH 317 |
+| June 13, 11:00am      | [Aida Khajavirad](https://sites.google.com/site/aidakhajavirad/) (CMU and NYU)  | [The multilinear polytope for acyclic Hypergraphs](#aida)  | WWH 905 |
+
+### Abstracts
+
+#### <a name="yu"></a>  Yu Guang Wang: Tight framelets and fast framelet filter bank transforms on manifolds
+
+Data in practical application with some structure can be viewed as sampled
+from a manifold, for instance, data on a graph and in astrophysics. A smooth and
+compact Riemannian manifold M, including examples of spheres, tori, cubes and
+graphs, is an important geometric struncture. In this work, we construct a type of
+tight framelets using quadrature rules on M to represent the data (or a function)
+and to exploit the derived framelets to process the data (for example, image and
+signal processing on the sphere or graphs).
+
+One critical computation for framelets is to compute, from the framelet coef-
+ficients for the input data (which are assumed at the highest level), the framelet
+
+coefficients at lower levels, and also to evaluate the function values at new nodes
+using the framelet representation. We design an efficient computational strategy,
+which we call fast framelet filter bank transform (FMT), to compute the framelet
+coefficients and to recover the function. Assuming the fast Fourier transform (FFT)
+
+and using quadrature rules on the manifold M, the FMT has the same compu-
+tational complexity as the FFT. Numerical examples illustrate the efficiency and
+
+accuracy of the algorithm for the framelets.
+This is joint work with Q. T. Le Gia, Ian Sloan and Rob Womersley (UNSW
+
+Sydney), Houying Zhu (University of Melbourne) and Xiaosheng Zhuang (City Uni-
+versity of Hong Kong).
+
+
+
+#### <a name="yu"></a>  Aida Khajavirad: The multilinear polytope for acyclic Hypergraphs
+
+We consider the multilinear polytope defined as the convex hull of the set of binary points satisfying a collection of multilinear equations. Such sets are of fundamental importance in many types of mixed-integer nonlinear optimization problems, such as binary polynomial optimization. Utilizing an equivalent hypergraph representation, we study the facial structure of the multilinear polytope in conjunction with the acyclicity degree of the underlying hypergraph. We derive various types of facet-defining inequalities and provide explicit characterizations for the multilinear polytope of Berge-acylic and gamma-acyclic hypergraphs. As an important byproduct, we present a new class of cutting planes for constructing stronger polyhedral relaxations of mixed-integer nonlinear optimization problems with multilinear sub-expressions.  Finally, we detail on the complexity of corresponding separation problems and embed the proposed cut generation algorithm at every node of the branch-and-reduce global solver BARON.  Extensive computational results will be presented.
+
+
+
 ### Schedule Spring 18
 
 | Date & Time    | Speaker       | Title | Room |
