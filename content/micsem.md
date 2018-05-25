@@ -22,7 +22,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | Date & Time    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
 | May 30, 10:15am      | [Yu Guang Wang](http://yuguangwang.com/) (ICERM and The University of New South Wales, Sydney)  | [Tight framelets and fast framelet filter bank transforms on manifolds](#yu) | WWH 317 |
-| June 13, 11:00am      | [Aida Khajavirad](https://sites.google.com/site/aidakhajavirad/) (CMU and NYU)  | [The multilinear polytope for acyclic Hypergraphs](#aida)  | WWH 905 |
+| June 13, 11:00am      | [Aida Khajavirad](https://sites.google.com/site/aidakhajavirad/) (CMU and NYU)  | [The multilinear polytope for acyclic Hypergraphs](#aida)  | WWH 317 |
 
 ### Abstracts
 
