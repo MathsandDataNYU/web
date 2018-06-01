@@ -22,6 +22,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | Date & Time    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
 | May 30, 10:15am      | [Yu Guang Wang](http://yuguangwang.com/) (ICERM and The University of New South Wales, Sydney)  | [Tight framelets and fast framelet filter bank transforms on manifolds](#yu) | WWH 317 |
+| June 6, 10:30am      | [Roman Vershynin](https://www.math.uci.edu/~rvershyn/index.html) (UCI)  | [From number theory to machine learning: a hunt for smooth Boolean functions](#roman)  | WWH 317 |
 | June 13, 11:00am      | [Aida Khajavirad](https://sites.google.com/site/aidakhajavirad/) (CMU and NYU)  | [The multilinear polytope for acyclic Hypergraphs](#aida)  | WWH 317 |
 
 ### Abstracts
@@ -53,6 +54,9 @@ This is joint work with Q. T. Le Gia, Ian Sloan and Rob Womersley (UNSW
 Sydney), Houying Zhu (University of Melbourne) and Xiaosheng Zhuang (City Uni-
 versity of Hong Kong).
 
+#### <a name="roman"></a>  Roman Vershynin: From number theory to machine learning: a hunt for smooth Boolean functions
+
+The most fundamental kind of functions studied in computer science are Boolean functions. They take n bits as an input and return one bit as an output. Most Boolean functions oscillate a lot, which is analogous to the fact that "most" continuous functions on R are nowhere differentiable. If we want to generate a "smooth" Boolean function, we can take the sign of some polynomial of low degree in n variables. Such functions are called polynomial threshold functions, and they are widely used in machine learning as classification devices. Surprisingly, we do not know how many polynomial threshold functions there are with a given degree! Even an approximate answer to this question has been known only for polynomials of degree 1, i.e. for linear functions. In a very recent joint work with Pierre Baldi, we found a way to approximately count polynomial threshold functions of any fixed degree. This solves a problem of M. Saks that goes back to 1993 and earlier. Our argument draws ideas from analytical number theory, additive combinatorics, enumerative combinatorics, probability and discrete geometry. I will describe some of these connections, focusing particularly on a beautiful interplay of zeta and Mobius funcitons in number theory, hyperplane arrangements in enumerative combinatorics and random tensors in probability theory.
 
 
 #### <a name="yu"></a>  Aida Khajavirad: The multilinear polytope for acyclic Hypergraphs
