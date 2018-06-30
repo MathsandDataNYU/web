@@ -24,7 +24,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | May 30, 10:15am      | [Yu Guang Wang](http://yuguangwang.com/) (ICERM and The University of New South Wales, Sydney)  | [Tight framelets and fast framelet filter bank transforms on manifolds](#yu) | WWH 317 |
 | June 6, 10:30am      | [Roman Vershynin](https://www.math.uci.edu/~rvershyn/index.html) (UCI)  | [From number theory to machine learning: a hunt for smooth Boolean functions](#roman)  | WWH 317 |
 | June 13, 11:00am      | [Aida Khajavirad](https://sites.google.com/site/aidakhajavirad/) (CMU and NYU)  | [The multilinear polytope for acyclic Hypergraphs](#aida)  | WWH 317 |
-| July 3, 10:30am      | [Chiheon Kim]) (MIT)  | [Statistical Limits of Graphical Channel Models](#kim)  | WWH 317 |
+| July 3, 10:30am      | Chiheon Kim (MIT)  | [Statistical Limits of Graphical Channel Models](#kim)  | WWH 317 |
 
 
 
