@@ -44,7 +44,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 ---
 
 
-[Schedule Fall 2017](https://mathsanddatanyu.github.io/website/seminar_spring2018/)
+[Schedule Spring 2018](https://mathsanddatanyu.github.io/website/seminar_spring2018/)
 
 [Schedule Fall 2017](https://mathsanddatanyu.github.io/website/seminar_fall2017/)
 
