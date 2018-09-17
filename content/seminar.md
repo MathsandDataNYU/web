@@ -28,8 +28,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
-| Sep 13  | [Nate Silver](https://fivethirtyeight.com/)  |  |
-| Sep 20      | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU) |    |
+| Sep 13  | [Nate Silver](https://fivethirtyeight.com/)  | Forecasting the midterm elections | 
+| Sep 20      | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU Tandon) | [Sparse Regularization via Convex Analysis](#ivan)   |
 | Sep 27 | [Cristopher Moore](http://tuvalu.santafe.edu/~moore/) (Santa Fe Institute)   |  |
 | Oct 4 | [Andrew Blumberg](https://web.ma.utexas.edu/users/blumberg/) (UT Austin)    |  |
 | Oct 11 |  [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)  | |
@@ -52,4 +52,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts 
+
+#### <a name="ivan"></a> Ivan Selesnick: Sparse Regularization via Convex Analysis
+
+
+Abstract: Sparse approximate solutions to linear equations are often obtained via L1 norm regularization, but the L1 norm tends to underestimate sparse solutions. We discuss a non-convex alternative to the L1 norm. Unlike other non-convex regularizers, the proposed regularizer maintains the convexity of the objective function to be minimized. This allows one to retain beneficial properties of both convex and non-convex regularization. Although the new regularizer is non-convex, it is defined using tools of convex analysis.  In particular, we define a generalized Huber function and a generalization of the Moreau envelope. The resulting optimization problem can be performed by proximal algorithms.
 
