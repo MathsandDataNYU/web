@@ -30,7 +30,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | ----------- |:-------------:|:-----------:| 
 | Sep 13  | [Nate Silver](https://fivethirtyeight.com/)  | Forecasting the midterm elections | 
 | Sep 20      | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU Tandon) | [Sparse Regularization via Convex Analysis](#ivan)   |
-| Sep 27 | [Cristopher Moore](http://tuvalu.santafe.edu/~moore/) (Santa Fe Institute)   |  |
+| Sep 27 | [Cristopher Moore](http://tuvalu.santafe.edu/~moore/) (Santa Fe Institute)   |  [Statistical physics, statistical inference, and community detection in networks](#cris) |
 | Oct 4 | [Andrew Blumberg](https://web.ma.utexas.edu/users/blumberg/) (UT Austin)    |  |
 | Oct 11 |  [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)  | |
 | Oct 18  |  [Cathy O'Neil](https://mathbabe.org)      |    |
@@ -52,6 +52,14 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts 
+
+
+
+#### <a name="cris"></a> Cristopher Moore: Statistical physics, statistical inference, and community detection in networks.
+
+There is a deep analogy between statistical inference — where we try to fit a model to data, or (even better) understand the posterior distribution of models given the data — and statistical physics, where we define a probability distribution in terms of some energy function. Many concepts like energy landscapes, partition functions, free energy, the cavity method, and phase transitions can be usefully carried over from physics to machine learning and computer science. At the very least, these techniques are a source of conjectures that have stimulated new work in machine learning, computer science, and probability theory; at their best, they offer strong intuitions about the structure of the problem and its possible solutions.
+
+One recent success of this flow of ideas is the discovery of a sharp phase transition in community detection in sparse graphs. Analogous transitions exist in many other inference problems, where our ability to find patterns in data jumps suddenly as a function of how noisy or how sparse they are. I will discuss why and how the detectability transition occurs, review what is now known rigorously, and present a number of open questions that cry out for proofs.
 
 #### <a name="ivan"></a> Ivan Selesnick: Sparse Regularization via Convex Analysis
 
