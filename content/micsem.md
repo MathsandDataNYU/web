@@ -17,6 +17,12 @@ menu = "main"
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
 
+
+### Fall 18
+
+During the Fall the MIC Seminar will be in room 312 Wednesdays 6-7p. The schedule and topics will appear in [this spreadsheet](https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit#gid=1980084296). 
+
+
 ### Schedule Summer 18
 
 | Date & Time    | Speaker       | Title | Room |
