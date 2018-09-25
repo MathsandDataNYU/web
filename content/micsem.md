@@ -18,7 +18,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 
 
 
-### Fall 18
+### Schedule Fall 18
 
 During the Fall the MIC Seminar will be in room 312 Wednesdays 6-7p. The schedule and topics will appear in [this spreadsheet](https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit#gid=1980084296). 
 
