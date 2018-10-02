@@ -31,7 +31,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Sep 13  | [Nate Silver](https://fivethirtyeight.com/)  | Forecasting the midterm elections | 
 | Sep 20      | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU Tandon) | [Sparse Regularization via Convex Analysis](#ivan)   |
 | Sep 27 | [Cristopher Moore](http://tuvalu.santafe.edu/~moore/) (Santa Fe Institute)   |  [Statistical physics, statistical inference, and community detection in networks](#cris) |
-| Oct 4 | [Andrew Blumberg](https://web.ma.utexas.edu/users/blumberg/) (UT Austin)    |  |
+| Oct 4 | [Andrew Blumberg](https://web.ma.utexas.edu/users/blumberg/) (UT Austin)    | [Topological data analysis for scientific inference](#bl) |
 | Oct 11 |  [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)  | |
 | Oct 18  |  [Cathy O'Neil](https://mathbabe.org)      |    |
 | Oct 25 |  [Pranjal Awasthi](https://www.cs.rutgers.edu/~pa336/) (Rutgers) |   | 
@@ -53,6 +53,10 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 ---
 ### Abstracts 
 
+#### <a name="bl"></a> Andrew Blumberg: Topological data analysis for scientific inference.
+
+
+This talk will aim to survey the on-going efforts to build mathematical foundations to support the use of techniques from the emerging area of "topological data analysis" (TDA) to analyze experimental data.  In particular, I will provide an overview of the interaction between TDA and statistics.
 
 
 #### <a name="cris"></a> Cristopher Moore: Statistical physics, statistical inference, and community detection in networks.
