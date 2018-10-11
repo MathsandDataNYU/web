@@ -32,8 +32,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Sep 20      | [Ivan Selesnick](http://eeweb.poly.edu/iselesni/) (NYU Tandon) | [Sparse Regularization via Convex Analysis](#ivan)   |
 | Sep 27 | [Cristopher Moore](http://tuvalu.santafe.edu/~moore/) (Santa Fe Institute)   |  [Statistical physics, statistical inference, and community detection in networks](#cris) |
 | Oct 4 | [Andrew Blumberg](https://web.ma.utexas.edu/users/blumberg/) (UT Austin)    | [Topological data analysis for scientific inference](#bl) |
-| Oct 11 |  [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)  | |
-| Oct 18  |  [Cathy O'Neil](https://mathbabe.org)      |    |
+| Oct 11 |  [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)  | [Learning Regularizers from Data](#venkat) |
+| Oct 18  |  [Cathy O'Neil](https://mathbabe.org)      | [Big data, inequality, and democracy: what can mathematics offer?](#cathy)   |
 | Oct 25 |  [Pranjal Awasthi](https://www.cs.rutgers.edu/~pa336/) (Rutgers) |   | 
 | Nov 1 | [Jean Bernard Lasserre](https://homepages.laas.fr/lasserre/) (LAAS-CNRS)      |   |
 | Nov 8 | [Yuxin Chen](http://www.princeton.edu/~yc5/) (Princeton)  |   |
@@ -68,5 +68,18 @@ One recent success of this flow of ideas is the discovery of a sharp phase trans
 #### <a name="ivan"></a> Ivan Selesnick: Sparse Regularization via Convex Analysis
 
 
-Abstract: Sparse approximate solutions to linear equations are often obtained via L1 norm regularization, but the L1 norm tends to underestimate sparse solutions. We discuss a non-convex alternative to the L1 norm. Unlike other non-convex regularizers, the proposed regularizer maintains the convexity of the objective function to be minimized. This allows one to retain beneficial properties of both convex and non-convex regularization. Although the new regularizer is non-convex, it is defined using tools of convex analysis.  In particular, we define a generalized Huber function and a generalization of the Moreau envelope. The resulting optimization problem can be performed by proximal algorithms.
+Sparse approximate solutions to linear equations are often obtained via L1 norm regularization, but the L1 norm tends to underestimate sparse solutions. We discuss a non-convex alternative to the L1 norm. Unlike other non-convex regularizers, the proposed regularizer maintains the convexity of the objective function to be minimized. This allows one to retain beneficial properties of both convex and non-convex regularization. Although the new regularizer is non-convex, it is defined using tools of convex analysis.  In particular, we define a generalized Huber function and a generalization of the Moreau envelope. The resulting optimization problem can be performed by proximal algorithms.
+
+
+#### <a name="venkat"></a> Venkat Chandrasekaran: Learning Regularizers from Data
+
+Regularization techniques are widely employed in the solution of inverse problems in data analysis and scientific computing due to their effectiveness in addressing difficulties due to ill-posedness. In their most common manifestation, these methods take the form of penalty functions added to the objective in optimization-based approaches for solving inverse problems. The purpose of the penalty function is to induce a desired structure in the solution, and these functions are specified based on prior domain-specific expertise.  We consider the problem of learning suitable regularization functions from data in settings in which precise domain knowledge is not directly available; the objective is to identify a regularizer to
+promote the type of structure contained in the data.  The regularizers obtained using our framework are specified as convex functions that can be computed efficiently via semidefinite programming.  Our approach for learning such semidefinite regularizers combines recent techniques for rank minimization problems along with the Operator Sinkhorn procedure. (Joint work with Yong Sheng Soh)
+
+
+#### <a name="cathy"></a> Cathy O'Neil: Big data, inequality, and democracy: what can mathematics offer? 
+
+We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a job or a car loan, how much we pay for health insurance, what news we see on social media—are being made not by humans, but by mathematical models. The models being used today are opaque, unregulated, and uncontestable, even when they’re wrong. 
+
+What's worse is they're defended as fair and objective in the name of mathematics. What can a mathematician do to push back? Cathy will discuss the latest research that tries to address this urgent question.
 
