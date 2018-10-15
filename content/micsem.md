@@ -25,8 +25,7 @@ During the Fall the MIC Seminar will usually be in room 312 Wednesdays 6-7p.
 
 | Date    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
-| Oct 16, 6p     | [David Shirokoff](https://web.njit.edu/~shirokof/) (NJIT)  | [Convex relaxations for variational problems arising from models of self-assembly
-](#david) | WWH 312 |
+| Oct 16, 6p     | [David Shirokoff](https://web.njit.edu/~shirokof/) (NJIT)  | [Convex relaxations for variational problems arising from models of self-assembly](#david) | WWH 312 |
 | Oct 23, 6p      | [Didier Henrion](https://homepages.laas.fr/henrion/) (CNRS)  | | WWH 312 |
 | Nov 2, 1:30p      | [Anna Seigal](https://math.berkeley.edu/~seigal/) (Berkeley)  |   | WWH 202 |
 
