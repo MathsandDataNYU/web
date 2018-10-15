@@ -20,7 +20,23 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 
 ### Schedule Fall 18
 
-During the Fall the MIC Seminar will be in room 312 Wednesdays 6-7p. The schedule and topics will appear in [this spreadsheet](https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit#gid=1980084296). 
+During the Fall the MIC Seminar will usually be in room 312 Wednesdays 6-7p. 
+
+
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| Oct 16, 6p     | [David Shirokoff](https://web.njit.edu/~shirokof/) (NJIT)  | [Convex relaxations for variational problems arising from models of self-assembly
+](#david) | WWH 312 |
+| Oct 23, 6p      | [Didier Henrion](https://homepages.laas.fr/henrion/) (CNRS)  | | WWH 312 |
+| Nov 2, 1:30p      | [Anna Seigal](https://math.berkeley.edu/~seigal/) (Berkeley)  |   | WWH 202 |
+
+
+### Abstracts
+
+
+#### <a name="david"></a>  David Shirokoff: Convex relaxations for variational problems arising from models of self-assembly
+
+We examine the problem of minimizing a class of nonlocal, nonconvex variational problems that arise from modeling a large number of pairwise interacting particles in the presence of thermal noise (i.e. molecular dynamics). Although finding and verifying local minima to these functionals is relatively straightforward, computing and verifying global minima is much more difficult. Global minima (ground states) are important as they characterize the structure of matter in models of self-assembly. We discuss how minimizing the functionals can be viewed as testing whether an associated bilinear form is co-positive. We then develop sufficient conditions for global optimality (which in some cases are provably sharp) obtained through a convex relaxation related to the cone of co-positive functionals.  The resulting convex relaxation results in a conic variational problem with an infinite number of Fourier constraints, and leads to a variety of computational challenges.  Pending time, we provide details on matrix-free interior point algorithms that alleviate some of the computational difficulties (i.e. solutions may be Dirac masses) associated with the large-scale problems.
 
 
 ### Schedule Summer 18
