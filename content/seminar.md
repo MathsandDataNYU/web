@@ -34,7 +34,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 4 | [Andrew Blumberg](https://web.ma.utexas.edu/users/blumberg/) (UT Austin)    | [Topological data analysis for scientific inference](#bl) |
 | Oct 11 |  [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)  | [Learning Regularizers from Data](#venkat) |
 | Oct 18  |  [Cathy O'Neil](https://mathbabe.org)      | [Big data, inequality, and democracy: what can mathematics offer?](#cathy)   |
-| Oct 25 |  [Pranjal Awasthi](https://www.cs.rutgers.edu/~pa336/) (Rutgers) |   | 
+| Oct 25 |  [Pranjal Awasthi](https://www.cs.rutgers.edu/~pa336/) (Rutgers) |   [Semi-random models for Clustering and Sparse Coding](#pranjal) | 
 | Nov 1 | [Jean Bernard Lasserre](https://homepages.laas.fr/lasserre/) (LAAS-CNRS)      |   |
 | Nov 8 | [Yuxin Chen](http://www.princeton.edu/~yc5/) (Princeton)  |   |
 | Nov 15 | [Gongguo Tang](https://inside.mines.edu/~gtang/) (Colorado School of Mines)  |  | 
@@ -52,6 +52,23 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts 
+
+
+#### <a name="pranjal"></a> Pranjal Awasthi: Semi-random models for Clustering and Sparse Coding
+
+
+Traditionally machine learning problems are studied through the lens of probabilistic models that specify how the
+data is generated. For example, the Gaussian Mixture Model is the most popular framework to formally study the
+problem of clustering a data set. The study of such models has led to numerous algorithms that come with
+strong performance guarantees. However a common criticism of probabilistic modeling is that the
+theoretical guarantees strongly rely on the unrealistic assumption that the data is indeed generated from the model.
+
+In this talk I will describe two recent efforts towards robust modeling of machine learning problems via the study of semi-random models. Such models provide a framework to study model misspecification by combining
+a set of adversarial choices in addition to the random choices of the probabilistic model, while generating the instance. I will describe how semi-random models can provide new insights and robust algorithms for two widely studied problems in machine learning: a) The problem of clustering data from a Gaussian mixture and, b) The problem of sparse coding that involves learning an overcomplete basis from sparse linear combinations of the basis elements.
+
+Based on joint works with Aravindan Vijayaraghavan.
+
+
 
 #### <a name="bl"></a> Andrew Blumberg: Topological data analysis for scientific inference.
 
