@@ -28,10 +28,15 @@ During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.
 | Oct 16, 6p     | [David Shirokoff](https://web.njit.edu/~shirokof/) (NJIT)  | [Convex relaxations for variational problems arising from models of self-assembly](#david) | WWH 312 |
 | Oct 23, 6p      | [Didier Henrion](https://homepages.laas.fr/henrion/) (CNRS)  | Solving nonlinear PDEs with the Lasserre hierarchy | WWH 312 |
 | Nov 2, 1:30p      | [Anna Seigal](https://math.berkeley.edu/~seigal/) (Berkeley)  | [Structured Tensors and the Geometry of Data](#anna)  | WWH 202 |
-| Nov 12, 2:00p      | Marylou Gabrie (ENS)  |  | CDS 650 |
+| Nov 12, 2:00p      | Marylou Gabrie (ENS)  | [Entropy and mutual information in models of deep neural networks](#marylou)  | CDS 650 |
 
 
 ### Abstracts
+
+#### <a name="marylou"></a> Marylou Gabrie: Entropy and mutual information in models of deep neural networks 
+
+The successes and the multitude of applications of deep learning methods have spurred efforts towards quantitative modeling of the performance of deep neural networks. In particular, an information-theoretic approach linking generalization capabilities to compression has been receiving increasing interest. Nevertheless, it is in practice computationally intractable to compute entropies and mutual informations in industry-sized neural networks. In this talk, we will consider instead a class of models of deep neural networks, for which an expression for these information-theoretic quantities can be derived from the replica method. We will examine how mutual informations between hidden and input variables can be reported along the training of such neural networks on synthetic datasets. 
+This work was done in collaboration with Andre Manoel (Owkin), Clément Luneau (EPFL), Jean Barbier (EPFL), Nicolas Macris (EPFL), Florent Krzakala (LPS ENS) and Lenka Zdeborova (IPHT CEA).
 
 #### <a name="anna"></a> Anna Seigal: Structured Tensors and the Geometry of Data
 
