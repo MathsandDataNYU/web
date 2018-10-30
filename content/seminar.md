@@ -35,7 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 11 |  [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)  | [Learning Regularizers from Data](#venkat) |
 | Oct 18  |  [Cathy O'Neil](https://mathbabe.org)      | [Big data, inequality, and democracy: what can mathematics offer?](#cathy)   |
 | Oct 25 |  [Pranjal Awasthi](https://www.cs.rutgers.edu/~pa336/) (Rutgers) |   [Semi-random models for Clustering and Sparse Coding](#pranjal) | 
-| Nov 1 | [Jean Bernard Lasserre](https://homepages.laas.fr/lasserre/) (LAAS-CNRS)      |   |
+| Nov 1 | [Jean Bernard Lasserre](https://homepages.laas.fr/lasserre/) (LAAS-CNRS)      | [The Moment-SOS hierarchy](#lasserre) |
 | Nov 8 | [Yuxin Chen](http://www.princeton.edu/~yc5/) (Princeton)  |   |
 | Nov 15 | [Gongguo Tang](https://inside.mines.edu/~gtang/) (Colorado School of Mines)  |  | 
 | Nov 22 | **THANKSGIVING**   | 
@@ -53,6 +53,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 ---
 ### Abstracts 
 
+#### <a name="lasserre"></a> Jean Bernard Lasserre: The Moment-SOS hierarchy
+
+The Moment-SOS hierarchy initially introduced in optimization in 2000, is based on the theory of the K-moment problem and its dual counterpart, polynomials that are positive on K. It turns out that this methodology can be also applied to solve problems with positivity constraints ” f (x) ≥ 0 for all x ∈ K ” and/or linear constraints on Borel measures. Such problems can be viewed as specific instances of the ” Generalized Problem of Moments ” (GPM) whose list of important applications in various domains is endless. In this talk we describe this methodology and outline some of its applications in various domains.
 
 #### <a name="pranjal"></a> Pranjal Awasthi: Semi-random models for Clustering and Sparse Coding
 

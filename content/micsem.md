@@ -27,10 +27,15 @@ During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.
 | ----------- |:-------------:|:-----------:|:------| 
 | Oct 16, 6p     | [David Shirokoff](https://web.njit.edu/~shirokof/) (NJIT)  | [Convex relaxations for variational problems arising from models of self-assembly](#david) | WWH 312 |
 | Oct 23, 6p      | [Didier Henrion](https://homepages.laas.fr/henrion/) (CNRS)  | Solving nonlinear PDEs with the Lasserre hierarchy | WWH 312 |
-| Nov 2, 1:30p      | [Anna Seigal](https://math.berkeley.edu/~seigal/) (Berkeley)  |   | WWH 202 |
+| Nov 2, 1:30p      | [Anna Seigal](https://math.berkeley.edu/~seigal/) (Berkeley)  | [Structured Tensors and the Geometry of Data](#anna)  | WWH 202 |
+| Nov 12, 2:00p      | Marylou Gabrie (ENS)  |  | CDS 650 |
 
 
 ### Abstracts
+
+#### <a name="anna"></a> Anna Seigal: Structured Tensors and the Geometry of Data
+
+Abstract: Tensors are higher dimensional analogues of matrices; they are used to record data with multiple changing variables. Interpreting tensor data requires finding low rank structure, and the structure depends on the application or context. In this talk, we describe four projects in the study of structured tensors. Often tensors of interest define semi-algebraic sets, given by polynomial equations and inequalities. We give a characterization of the set of tensors of real rank two, and answer questions about statistical models using probability tensors and semi-algebraic statistics. We also study cubic surfaces as symmetric tensors, and describe work on learning a path from its three dimensional signature tensor. This talk is based on joint work with Guido Montúfar, Max Pfeffer, and Bernd Sturmfels.
 
 
 #### <a name="david"></a>  David Shirokoff: Convex relaxations for variational problems arising from models of self-assembly
