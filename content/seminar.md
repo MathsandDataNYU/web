@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 18  |  [Cathy O'Neil](https://mathbabe.org)      | [Big data, inequality, and democracy: what can mathematics offer?](#cathy)   |
 | Oct 25 |  [Pranjal Awasthi](https://www.cs.rutgers.edu/~pa336/) (Rutgers) |   [Semi-random models for Clustering and Sparse Coding](#pranjal) | 
 | Nov 1 | [Jean Bernard Lasserre](https://homepages.laas.fr/lasserre/) (LAAS-CNRS)      | [The Moment-SOS hierarchy](#lasserre) |
-| Nov 8 | [Yuxin Chen](http://www.princeton.edu/~yc5/) (Princeton)  |   |
+| Nov 8 | [Yuxin Chen](http://www.princeton.edu/~yc5/) (Princeton)  |[Random initialization and implicit regularization in nonconvex statistical estimation](#Chen)   |
 | Nov 15 | [Gongguo Tang](https://inside.mines.edu/~gtang/) (Colorado School of Mines)  |  | 
 | Nov 22 | **THANKSGIVING**   | 
 | Nov 29 | [Jonathan Weare](https://www.stat.uchicago.edu/~weare/)  (Chicago)    |  |
@@ -52,6 +52,11 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts 
+
+#### <a name="Chen"></a> Yuxin Chen: Random initialization and implicit regularization in nonconvex statistical estimation
+
+Recent years have seen a flurry of activities in designing provably efficient nonconvex procedures for solving statistical estimation / learning problems. Due to the highly nonconvex nature of the empirical loss, state-of-the-art procedures often require suitable initialization and proper regularization (e.g. trimming, regularized cost, projection) in order to guarantee fast convergence. For vanilla procedures such as gradient descent, however, prior theory is often either far from optimal or completely lacks theoretical guarantees.
+This talk is concerned with a striking phenomenon arising in two nonconvex problems (i.e. phase retrieval and matrix completion): even in the absence of careful initialization, proper saddle escaping, and/or explicit regularization, gradient descent converges to the optimal solution within a logarithmic number of iterations, thus achieving near-optimal statistical and computational guarantees at once. All of this is achieved by exploiting the statistical models in analyzing optimization algorithms, via a leave-one-out approach that enables the decoupling of certain statistical dependency between the gradient descent iterates and the data. As a byproduct, for noisy matrix completion, we demonstrate that gradient descent achieves near-optimal entrywise error control. 
 
 #### <a name="lasserre"></a> Jean Bernard Lasserre: The Moment-SOS hierarchy
 
