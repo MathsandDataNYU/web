@@ -28,7 +28,7 @@ During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.
 | Oct 16, 6p     | [David Shirokoff](https://web.njit.edu/~shirokof/) (NJIT)  | [Convex relaxations for variational problems arising from models of self-assembly](#david) | WWH 312 |
 | Oct 23, 6p      | [Didier Henrion](https://homepages.laas.fr/henrion/) (CNRS)  | Solving nonlinear PDEs with the Lasserre hierarchy | WWH 312 |
 | Nov 2, 1:30p      | [Anna Seigal](https://math.berkeley.edu/~seigal/) (Berkeley)  | [Structured Tensors and the Geometry of Data](#anna)  | WWH 202 |
-| Nov 12, 2:00p      | Marylou Gabrie (ENS)  | [Entropy and mutual information in models of deep neural networks](#marylou)  | CDS 650 |
+| Nov 12, 12:15p      | Marylou Gabrie (ENS)  | [Entropy and mutual information in models of deep neural networks](#marylou)  | CDS 650 |
 
 
 ### Abstracts
