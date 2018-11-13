@@ -37,7 +37,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 25 |  [Pranjal Awasthi](https://www.cs.rutgers.edu/~pa336/) (Rutgers) |   [Semi-random models for Clustering and Sparse Coding](#pranjal) | 
 | Nov 1 | [Jean Bernard Lasserre](https://homepages.laas.fr/lasserre/) (LAAS-CNRS)      | [The Moment-SOS hierarchy](#lasserre) |
 | Nov 8 | [Yuxin Chen](http://www.princeton.edu/~yc5/) (Princeton)  |[Random initialization and implicit regularization in nonconvex statistical estimation](#chen)   |
-| Nov 15 | [Gongguo Tang](https://inside.mines.edu/~gtang/) (Colorado School of Mines)  |  | 
+| Nov 15 | [Gongguo Tang](https://inside.mines.edu/~gtang/) (Colorado School of Mines)  | [Optimal Spectral Estimation via Atomic Norm Minimization](#tang) | 
 | Nov 22 | **THANKSGIVING**   | 
 | Nov 29 | [Jonathan Weare](https://www.stat.uchicago.edu/~weare/)  (Chicago)    |  |
 
@@ -52,6 +52,10 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts 
+
+#### <a name="tang"></a> Gongguo Tang: Optimal Spectral Estimation via Atomic Norm Minimization
+
+Abstract: Atomic norm minimization is a convex relaxation framework that generalizes l1 norm for compressed sensing and nuclear norm for matrix completion. In particular, it allows one to construct convex regularizers for signals that have sparse representations with respect to continuously parameterized dictionaries. In this talk, the speaker will focus on the application of this framework to line spectral estimation, which can be viewed as a sparse recovery problem whose atoms are indexed by the continuous frequency variable. In particular, the method’s accuracy in inferring the frequencies and complex magnitudes from noisy observations of a mixture of complex sinusoids will be analyzed. When the Signal-to-Noise Ratio is reasonably high and the true frequencies are well-separated, the atomic norm estimator is shown to localize the correct number of frequencies, each within a neighborhood of one of the true frequencies, whose size matches the Cramér–Rao lower bound up to a logarithmic factor. The analysis is based on a primal–dual witness construction procedure.  The analysis also reveals that the atomic norm minimization can be viewed as a convex way to solve a l1-norm regularized, nonlinear and nonconvex least-squares problem to global optimality.
 
 #### <a name="chen"></a> Yuxin Chen: Random initialization and implicit regularization in nonconvex statistical estimation
 

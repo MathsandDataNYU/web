@@ -29,9 +29,13 @@ During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.
 | Oct 23, 6p      | [Didier Henrion](https://homepages.laas.fr/henrion/) (CNRS)  | Solving nonlinear PDEs with the Lasserre hierarchy | WWH 312 |
 | Nov 2, 1:30p      | [Anna Seigal](https://math.berkeley.edu/~seigal/) (Berkeley)  | [Structured Tensors and the Geometry of Data](#anna)  | WWH 202 |
 | Nov 12, 12:15p      | Marylou Gabrie (ENS)  | [Entropy and mutual information in models of deep neural networks](#marylou)  | CDS 650 |
-
+| Nov 13, 6:00p      | Aukosh Jagannath (Harvard)  | [Algorithmic thresholds for tensor principle component analysis](#aukosh)  | WWH 312 |
 
 ### Abstracts
+
+#### <a name="marylou"></a> Aukosh Jagannath: Algorithmic thresholds for tensor principle component analysis
+
+ Consider the problem of recovering a rank 1 tensor of order k that has been subject to Gaussian noise. The log-likelihood for this problem is highly non-convex. It is information theoretically possible to recover the tensor with a finite number of samples via maximum likelihood estimation, however, it is expected that one needs a polynomially diverging number of samples to efficiently recover it. What is the cause of this large statistical–to–algorithmic gap? To study this question, we investigate the thresholds for efficient recovery for a simple family of algorithms, Langevin dynamics and gradient descent. We view this problem as a member of a broader class of problems which correspond to recovering a signal from a non-linear observation that has been perturbed by isotropic Gaussian noise. We propose a mechanism for success/failure of recovery of such algorithms in terms of the strength of the signal on the high entropy region of the initialization. Joint work with G. Ben Arous (NYU) and R. Gheissari (NYU).
 
 #### <a name="marylou"></a> Marylou Gabrie: Entropy and mutual information in models of deep neural networks 
 
