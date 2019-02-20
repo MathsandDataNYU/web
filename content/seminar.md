@@ -30,16 +30,16 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | ----------- |:-------------:|:-----------:| 
 | Feb 21 | [Jeffrey Pennington (Google)](https://scholar.google.com/citations?user=cn_FoswAAAAJ&hl=en)  | [Dynamical Isometry and a Mean Field Theory of Signal Propagation in Deep Neural Networks](#jeffrey) | 
 | Feb 28 | Ahmed El Alaoui (Stanford) |    |
-| Mar 7 |   |    |
-| Mar 14 |  |    |
-| Mar 21 |  |
-| Mar 28  |  |  |
+| Mar 7 |  Florent Krzakala (ENS) |    |
+| Mar 14 | Rina Foygel Barber (Chicago) |    |
+| Mar 21 | (Spring break)  |
+| Mar 28  |  Victor Preciado (UPenn)|  |
 | Apr 4 |  |   |
-| Apr 11 | |  |
+| Apr 11 | | Sam Hopkins (UC Berkeley) |
 | Apr 18 | |  |
 | Apr 25 | |  |
-| May 1 |    |   |
-| May 8 |    |  |
+| May 2 | Rayan Saab (UC San Diego) |   |
+| May 9 |    |  |
 
 ---
 
