@@ -35,7 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Mar 21 | (Spring break)  |
 | Mar 28  |  Victor Preciado (UPenn)|  |
 | Apr 4 |  |   |
-| Apr 11 | | Sam Hopkins (UC Berkeley) |
+| Apr 11 |  Sam Hopkins (UC Berkeley) | |
 | Apr 18 | |  |
 | Apr 25 | |  |
 | May 2 | Rayan Saab (UC San Diego) |   |
