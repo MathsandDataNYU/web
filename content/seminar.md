@@ -29,7 +29,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
 | Feb 21 | [Jeffrey Pennington (Google)](https://scholar.google.com/citations?user=cn_FoswAAAAJ&hl=en)  | [Dynamical Isometry and a Mean Field Theory of Signal Propagation in Deep Neural Networks](#jeffrey) | 
-| Feb 28 |  |    |
+| Feb 28 | Ahmed El Alaoui (Stanford) |    |
 | Mar 7 |   |    |
 | Mar 14 |  |    |
 | Mar 21 |  |
