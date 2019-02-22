@@ -1,4 +1,4 @@
-+++
+﻿+++
 Tags = [
   "Development",
   "golang",
@@ -8,7 +8,7 @@ Categories = [
   "GoLang",
 ]
 date = "2016-12-22T14:45:56-05:00"
-title = "the MaD Seminar"
+title = "the MaD Seminar Fall 2018"
 Description = ""
 
 +++
