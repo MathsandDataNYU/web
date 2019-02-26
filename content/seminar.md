@@ -60,10 +60,10 @@ In recent years, many state-of-the-art models in deep learning have utilized inc
 
 #### <a name="ahmed"></a> Ahmed El Alaoui: Efficient Z_q synchronization on the square lattice
 
-Group synchronization is an inverse problem on a graph: given a group g and a graph G, every vertex of G is assigned an element from g. One observes a noisy version of the group difference of the endpoints of every edge in G, and the task is to estimate the original assignment. This problem is relevant to computer vision, microscopy, and is a close relative to the problem of community detection in a network. Abbé et al. (2017) studied this problem for a variety of compact groups g when the graph G is the d-dimensional Euclidean lattice.
+Group synchronization is an inverse problem on a graph: given a group g and a graph G, every vertex of G is assigned an element from g. One observes a noisy version of the group difference of the endpoints of every edge in G, and the task is to estimate the original assignment. This problem is relevant to computer vision, microscopy, and is a close relative to the problem of community detection in a network. Abbe et al. (2017) studied this problem for a variety of compact groups g when the graph G is the d-dimensional Euclidean lattice.
 
 They established the existence of a phase transition in terms of the noise level separating a regime where recovery is possible from a regime where it is not. I will speak about the special case of the cyclic group g = Z/qZ on the d-dimensional lattice. I will show that under mild assumptions, recovery is efficiently possible whenever it is information-theoretically so. 
 
-The algorithm has a multi-scale structure and its analysis relies on a lattice-renormalization scheme. The fact that a “possible-but-hard phase”, where recovery is possible but computationally hard, is absent here extends far beyond group synchronization or lattices. Time permitting, I will show that any inference problem built on a graph of sub-exponential growth is computationally easy.
+The algorithm has a multi-scale structure and its analysis relies on a lattice-renormalization scheme. The fact that a "possible-but-hard phase", where recovery is possible but computationally hard, is absent here extends far beyond group synchronization or lattices. Time permitting, I will show that any inference problem built on a graph of sub-exponential growth is computationally easy.
 
 
