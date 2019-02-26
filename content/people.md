@@ -44,6 +44,10 @@ Courant Instructor; compressive sensing, convex optimization, computational harm
 #### [Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
 Moore-Sloan Research Fellow; optimization, probability, topology and data. 
 
+<img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
+#### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
+Courant Instructor; theoretical computer science, statistics, statistical physics of inference.
+
 <img align="left" src="../img/augustin.jpg" width="80" style="border:10px solid white;"> 
 #### [Augustin Cosse](http://www.augustincosse.com) (Oct 2016 - Sep 2017)
 Postdoc; Tensor methods, inverse problems.  
