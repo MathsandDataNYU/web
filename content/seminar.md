@@ -30,7 +30,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | ----------- |:-------------:|:-----------:| 
 | Feb 21 | [Jeffrey Pennington (Google)](https://scholar.google.com/citations?user=cn_FoswAAAAJ&hl=en)  | [Dynamical Isometry and a Mean Field Theory of Signal Propagation in Deep Neural Networks](#jeffrey) | 
 | Feb 28 | [Ahmed El Alaoui (Stanford)](https://web.stanford.edu/~elalaoui/) | [Efficient Z_q synchronization on the square lattice](#ahmed)  |
-| Mar 7 |  Florent Krzakala (ENS) |    |
+| Mar 7 |  [Florent Krzakala (ENS)](http://krzakala.org) | [Passed & Spurious: Descent algorithms and local minima in a spiked matrix-tensor model](#florent)    |
 | Mar 14 | Rina Foygel Barber (Chicago) |    |
 | Mar 21 | (Spring break)  |
 | Mar 28  |  Victor Preciado (UPenn)|  |
@@ -53,6 +53,13 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts 
+
+#### <a name="florent"></a> Florent Krzakala: Passed & Spurious: Descent algorithms and local minima in a spiked matrix-tensor model 
+
+Gradient-descent-based algorithms and their stochastic versions "with temperature" have widespread applications in machine learning and statistical inference. In this talk I will discuss the interplay between the loss landscape and the performances of these algorithms in a prototypical learning problem, the spiked matrix-tensor model, where precise quantitative computations can be performed. In particular, I will discuss the Kac-Rice characterization of the landscape, the role of the minima, and the comparaison with message-passing algorithms.
+
+Based on joint works with G. Biroli, C. Chammarota, S. Sarao, P. Urbani and L. Zdeborova: arXiv:1812.09066 & arXiv:1902.00139 
+
 
 #### <a name="ahmed"></a> Ahmed El Alaoui: Efficient Z_q synchronization on the square lattice
 
