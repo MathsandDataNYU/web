@@ -31,11 +31,12 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Feb 21 | [Jeffrey Pennington (Google)](https://scholar.google.com/citations?user=cn_FoswAAAAJ&hl=en)  | [Dynamical Isometry and a Mean Field Theory of Signal Propagation in Deep Neural Networks](#jeffrey) | 
 | Feb 28 | [Ahmed El Alaoui (Stanford)](https://web.stanford.edu/~elalaoui/) | [Efficient Z_q synchronization on the square lattice](#ahmed)  |
 | Mar 7 |  [Florent Krzakala (ENS)](http://krzakala.org) | [Passed & Spurious: Descent algorithms and local minima in a spiked matrix-tensor model](#florent)    |
-| Mar 14 | Rina Foygel Barber (Chicago) |    |
+| Mar 14 | [Rina Foygel Barber (Chicago)](https://www.stat.uchicago.edu/~rina/) |  [Distribution free prediction: Is conditional inference possible?](#rina)  |
 | Mar 21 | (Spring break)  |
-| Mar 28  |  Victor Preciado (UPenn)|  |
+| Mar 28  |  [Victor Preciado (UPenn)](https://sites.google.com/site/victormpreciado/) | [From Local Network Structure to Global Graph Spectrum](#victor) |
 | Apr 4 |  |   |
-| Apr 11 |  Sam Hopkins (UC Berkeley) | |
+| Apr 11 |  [Sam Hopkins (UC Berkeley)](https://www.samuelbhopkins.com/) | [Mean Estimation with Sub-Gaussian Rates in Polynomial Time
+](#sam) |
 | Apr 18 | |  |
 | Apr 25 | |  |
 | May 2 | Rayan Saab (UC San Diego) |   |
@@ -52,7 +53,25 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 [Schedule Spring 2017](https://mathsanddatanyu.github.io/website/seminar_spring2017/)
 
 ---
-### Abstracts 
+### Abstracts
+
+#### <a name="sam"></a> Sam Hopkins: Mean Estimation with Sub-Gaussian Rates in Polynomial Time
+
+We study polynomial time algorithms for estimating the mean of a multivariate random vector under very mild assumptions: we assume only that the random vector X has finite mean and covariance. This allows for X to be heavy-tailed. In this setting, the radius of confidence intervals achieved by the empirical mean are exponentially larger in the case that X is Gaussian or sub-Gaussian. That is, the empirical mean is poorly concentrated.
+We offer the first polynomial time algorithm to estimate the mean of X with sub-Gaussian-size confidence intervals under such mild assumptions. That is, our estimators are exponentially better-concentrated than the empirical mean. Our algorithm is based on a new semidefinite programming relaxation of a high-dimensional median. Previous estimators which assumed only existence of finitely-many moments of X either sacrifice sub-Gaussian performance or are only known to be computable via brute-force search procedures requiring time exponential in the dimension.
+
+Based on [https://arxiv.org/abs/1809.07425](https://arxiv.org/abs/1809.07425) to appear in Annals of Statistics
+
+
+#### <a name="victor"></a> Victor Preciado: From Local Network Structure to Global Graph Spectrum
+
+Using methods from algebraic graph theory and convex optimization we study the relationship between local structural features of a network and global spectral properties. In particular, we derive expressions for the so-called spectral moments of  a graph in terms of local structural measurements, such as subgraph densities. Furthermore, we propose a series of semidefinite programs to compute bounds on the spectral radius, and other spectral properties, from a truncated sequence of spectral moments. Using our tools, we illustrate how important spectral properties of real-world networks are strongly constrained by local structural features.
+
+
+#### <a name="rina"></a> Rina Foygel Barber: Distribution free prediction: Is conditional inference possible?
+
+We consider the problem of distribution-free predictive inference, with the goal of producing predictive coverage guarantees that hold conditionally rather than marginally. Existing methods such as conformal prediction offer marginal coverage guarantees, where predictive coverage holds on average over all possible test points, but this is not sufficient for many practical applications where we would like to know that our predictions are valid for a given individual, not merely on average over a population. On the other hand, exact conditional inference guarantees are known to be impossible without imposing assumptions on the underlying distribution. In this work we aim to explore the space in between these two, and examine what types of relaxations of the conditional coverage property would alleviate some of the practical concerns with marginal coverage guarantees while still being possible to achieve in a distribution-free setting. This work is joint with Emmanuel Candes, Aaditya Ramdas, and Ryan Tibshirani.
+
 
 #### <a name="florent"></a> Florent Krzakala: Passed & Spurious: Descent algorithms and local minima in a spiked matrix-tensor model 
 
