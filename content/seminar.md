@@ -35,8 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Mar 21 | (Spring break)  |
 | Mar 28  |  [Victor Preciado (UPenn)](https://sites.google.com/site/victormpreciado/) | [From Local Network Structure to Global Graph Spectrum](#victor) |
 | Apr 4 |  |   |
-| Apr 11 |  [Sam Hopkins (UC Berkeley)](https://www.samuelbhopkins.com/) | [Mean Estimation with Sub-Gaussian Rates in Polynomial Time
-](#sam) |
+| Apr 11 |  [Sam Hopkins (UC Berkeley)](https://www.samuelbhopkins.com/) | [Mean Estimation with Sub-Gaussian Rates in Polynomial Time](#sam) |
 | Apr 18 | |  |
 | Apr 25 | |  |
 | May 2 | Rayan Saab (UC San Diego) |   |
