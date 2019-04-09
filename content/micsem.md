@@ -1,4 +1,4 @@
-+++
+﻿+++
 date = "2017-03-15T22:37:44-04:00"
 title = "the MIC Seminar"
 Description = ""
@@ -18,6 +18,49 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 
 
 
+### Schedule Spring 19
+
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| Feb 8, 2pm | [Ilias Zadik](http://www.mit.edu/~izadik/) (MIT)  | [Algorithms and Algorithmic Intractability in High Dimensional Linear Regression](#ilias) | WWH 1314 |
+| Feb 11, 1pm | [Boris Hanin](http://www.math.tamu.edu/~bhanin/) (Texas A&M)  | [Complexity of Linear Regions in Deep Networks](#boris) | WWH 705 |
+| Apr 3, 2pm | [Cong Ma](http://www.princeton.edu/~congm/) (Princeton)  | [Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization](#cong) | WWH 1314 |
+| Apr 9, 1pm | [Jonathan Shi](http://www.cs.cornell.edu/~jshi/) (Cornell)  | [The "Method of Pseudo-Moments": Tensor Decomposition for Mixture Models](#jonathan) | WWH 705 |
+
+
+### Abstracts
+
+#### <a name="jonathan"></a> Jonathan Shi: The "Method of Pseudo-Moments": Tensor Decomposition for Mixture Models
+
+#### <a name="cong"></a> Cong Ma: Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization
+
+This talk is concerned with noisy low-rank matrix completion: given partial and corrupted entries of a large low-rank matrix, the goal is to estimate the underlying matrix faithfully and efficiently. Arguably one of the most popular paradigms to tackle this problem is convex relaxation, which achieves remarkable efficacy in practice. However, the theoretical support of this approach is still far from optimal in the noisy setting, falling short of explaining the empirical success. We make progress towards demystifying the practical efficacy of convex relaxation vis-à-vis random noise. When the rank of the unknown matrix is a constant, we demonstrate that the convex programming approach achieves near-optimal estimation errors — in terms of the Euclidean loss, the entrywise loss, and the spectral norm loss — for a wide range of noise levels. All of this is enabled by bridging convex relaxation with the nonconvex Burer–Monteiro approach, a seemingly distinct algorithmic paradigm that is provably robust against noise. More specifically, we show that an approximate critical point of the nonconvex formulation serves as an extremely tight approximation of the convex solution, allowing us to transfer the desired statistical guarantees of the nonconvex approach to its convex counterpart.
+
+
+#### <a name="boris"></a> Boris Hanin: Complexity of Linear Regions in Deep Networks
+
+I will present several new results, joint with David Rolnick, about the number of linear regions and the sizes of the boundaries of linear regions in a network N with piecewise linear activations and random weights/biases.
+
+I will discuss a new formula for the average complexity of linear regions that holds even for highly correlated weights and biases, and hence is valid throughout training. It shows, for example, that at initialization, the number of regions along any 1D line grows like the number of neurons in N. In particular, perhaps surprisingly, it is this number is not exponential in the depth of the network. 
+
+I will explain the analog of this result for higher input dimension and will report on a number of experiments, which demonstrate empirically that our precise theorems at initialization can be expected to hold qualitatively throughout training. 
+
+Bio: Boris Hanin is a mathematician work on deep learning and mathematical physics. Before joining the faculty in the Math Department at Texas A&M in 2017, he was an NSF Postdoc in Math at MIT. He is currently a Visiting Scientist at Facebook AI Research in NYC.
+
+
+#### <a name="ilias"></a> Ilias Zadik: Algorithms and Algorithmic Intractability in High Dimensional Linear Regression
+
+In this talk we will focus on the high dimensional linear regression problem. The goal is to recover a hidden k-sparse binary vector \beta under n noisy linear observations Y=X\beta+W where X is an n \times p matrix with iid N(0,1) entries and W is an n-dimensional vector with iid N(0,\sigma^2) entries. In the literature of the problem, an apparent asymptotic gap is observed between the optimal sample size for information-theoretic recovery, call it n*, and for computationally efficient recovery, call it n_alg.
+
+We will discuss several new contributions on studying this gap. We first identify tightly the information limit of the problem using a novel analysis of the Maximum Likelihood Estimator (MLE) performance. Furthermore, we establish that the algorithmic barrier n_alg coincides with the phase transition point for the appearance of a certain Overlap Gap Property (OGP) over the space of k-sparse binary vectors. The presence of such an Overlap Gap Property phase transition, which originates in spin glass theory, is known to provide evidence of an algorithmic hardness. Finally, we show that in the extreme case where the noise level is zero, i.e. \sigma=0, the computational-statistical gap closes by proposing an optimal polynomial-time algorithm using the Lenstra-Lenstra-Lov\'asz lattice basis reduction algorithm.
+
+This is joint work with David Gamarnik.
+
+
+
+
+
+
 ### Schedule Fall 18
 
 During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p. 
@@ -33,7 +76,7 @@ During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.
 
 ### Abstracts
 
-#### <a name="marylou"></a> Aukosh Jagannath: Algorithmic thresholds for tensor principle component analysis
+#### <a name="aukosh"></a> Aukosh Jagannath: Algorithmic thresholds for tensor principle component analysis
 
  Consider the problem of recovering a rank 1 tensor of order k that has been subject to Gaussian noise. The log-likelihood for this problem is highly non-convex. It is information theoretically possible to recover the tensor with a finite number of samples via maximum likelihood estimation, however, it is expected that one needs a polynomially diverging number of samples to efficiently recover it. What is the cause of this large statistical–to–algorithmic gap? To study this question, we investigate the thresholds for efficient recovery for a simple family of algorithms, Langevin dynamics and gradient descent. We view this problem as a member of a broader class of problems which correspond to recovering a signal from a non-linear observation that has been perturbed by isotropic Gaussian noise. We propose a mechanism for success/failure of recovery of such algorithms in terms of the strength of the signal on the high entropy region of the initialization. Joint work with G. Ben Arous (NYU) and R. Gheissari (NYU).
 
