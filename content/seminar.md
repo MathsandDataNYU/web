@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Mar 28  |  [Victor Preciado (UPenn)](https://sites.google.com/site/victormpreciado/) | [From Local Network Structure to Global Graph Spectrum](#victor) |
 | Apr 4 |  |   |
 | Apr 11 |  [Sam Hopkins (UC Berkeley)](https://www.samuelbhopkins.com/) | [Mean Estimation with Sub-Gaussian Rates in Polynomial Time](#sam) |
-| Apr 18 | |  |
+| Apr 18 | [Sanjeev Arora (Princeton and IAS](https://www.cs.princeton.edu/~arora/) | [A theory for representation learning via contrastive objectives](#arora)  |
 | Apr 25 | |  |
 | May 2 | Rayan Saab (UC San Diego) |   |
 | May 9 |    |  |
@@ -53,6 +53,17 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="arora"></a> Sanjeev Arora: A theory for representation learning via contrastive objectives
+
+Representation learning seeks to represent complicated data (images, text etc.) using a vector embedding, which can then be used to solve complicated new classification tasks using simple methods like a linear classifier. Learning such embeddings is an important type of unsupervised learning (learning from unlabeled data) today. Several recent methods leverage pairs of “semantically similar” data points (eg sentences occuring next to each other in a text corpus). We call such methods contrastive learning (another term would be “like word2vec”) and propose a theoretical framework for analysing them. The challenge for theory here is that the training objective seems to have little to do with the downstream task. Our framework bridges this challenge and can show provable guarantees on the performance of the learnt representation on downstream classification tasks. I’ll show experiments supporting the theory.
+
+
+The talk will be self-contained.
+(Joint work with Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi.)
+
+Bio: Sanjeev Arora is Charles C. Fitzmorris Professor of Computer Science at Princeton University and Visiting Professor in Mathematics at the Institute for Advanced Study. He works on theoretical computer science and theoretical machine learning. He has received the Packard Fellowship (1997), Simons Investigator Award (2012), Gödel Prize (2001 and 2010), ACM Prize in Computing (formerly the ACM-Infosys Foundation Award in the Computing Sciences) (2012), and the Fulkerson Prize in Discrete Math (2012). He is a fellow of the American Academy of Arts and Sciences and member of the National Academy of Science.
+
 
 #### <a name="sam"></a> Sam Hopkins: Mean Estimation with Sub-Gaussian Rates in Polynomial Time
 
