@@ -1,4 +1,4 @@
-+++
+﻿+++
 Tags = [
   "Development",
   "golang",
@@ -36,9 +36,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Mar 28  |  [Victor Preciado (UPenn)](https://sites.google.com/site/victormpreciado/) | [From Local Network Structure to Global Graph Spectrum](#victor) |
 | Apr 4 |  |   |
 | Apr 11 |  [Sam Hopkins (UC Berkeley)](https://www.samuelbhopkins.com/) | [Mean Estimation with Sub-Gaussian Rates in Polynomial Time](#sam) |
-| Apr 18 | [Sanjeev Arora (Princeton and IAS](https://www.cs.princeton.edu/~arora/) | [A theory for representation learning via contrastive objectives](#arora)  |
+| Apr 18 | [Sanjeev Arora (Princeton and IAS)](https://www.cs.princeton.edu/~arora/) | [A theory for representation learning via contrastive objectives](#arora)  |
 | Apr 25 | |  |
-| May 2 | Rayan Saab (UC San Diego) |   |
+| May 2 | [Rayan Saab (UC San Diego)](http://www.math.ucsd.edu/~rsaab/) | [New and Improved Binary Embeddings of Data](#rayan) |
 | May 9 |    |  |
 
 ---
@@ -53,6 +53,12 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="rayan"></a> Rayan Saab: New and Improved Binary Embeddings of Data
+
+We discuss two related problems that arise in the acquisition and processing of high-dimensional data. First, we consider distance-preserving fast binary embeddings. Here we propose fast methods to replace points from a subset of RN with points in a lower-dimensional cube {±1}m, which we endow with an appropriate function to approximate Euclidean distances in the original space. Second, we consider a problem in the quantization (i.e., digitization) of compressed sensing measurements. Here, we deal with measurements of approximately sparse signals as well as with measurements of manifold valued data. Our results apply not only to Gaussian measurement matrices but also to those drawn from bounded orthonormal systems and partial circulant ensembles, both of which arise naturally in applications and admit fast transforms. In all these problems we show state-of-the art error bounds, and to our knowledge, some of our results are the first of their kind.
+
+
 
 #### <a name="arora"></a> Sanjeev Arora: A theory for representation learning via contrastive objectives
 
