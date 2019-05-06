@@ -39,7 +39,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Apr 18 | [Sanjeev Arora (Princeton and IAS)](https://www.cs.princeton.edu/~arora/) | [A theory for representation learning via contrastive objectives](#arora)  |
 | Apr 25 | |  |
 | May 2 | [Rayan Saab (UC San Diego)](http://www.math.ucsd.edu/~rsaab/) | [New and Improved Binary Embeddings of Data](#rayan) |
-| May 9 |    |  |
+| May 9 |  [Rahul Satija (NY Genome Center)](https://satijalab.org/)  | [Modeling and integration of single-cell sequencing data](#rahul) |
 
 ---
 
@@ -53,6 +53,13 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+
+#### <a name="rahul"></a> Rahul Satija: Modeling and integration of single-cell sequencing data
+
+New technologies for single-cell sequencing are giving rise to datasets that will define a ‘parts list’ of cell types for human beings, yet are characterized by extensive noise and sparse measurements. I will discuss two statistical learning methods for the analysis and interpretation of these data. We propose a regularization procedure to fit models of technical variation that can be applied to generalized linear models, factor analysis, or nonlinear autoencoders. In addition, we develop a procedure based on diagonalized canonical correlation analysis to identify correspondences across different experiments, enabling us to ‘align’ and compare datasets from different laboratories, technologies, and species.
+
+
 
 #### <a name="rayan"></a> Rayan Saab: New and Improved Binary Embeddings of Data
 
