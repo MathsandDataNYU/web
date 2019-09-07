@@ -18,6 +18,31 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 
 
 
+
+### Schedule Fall 2019
+
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| Aug 13, 12:30pm | [Zhizhen Jane Zhao](http://zhizhenz.ece.illinois.edu/) (UIUC) | [Cryo-Electron Microscopy Image Analysis with Multi-Frequency Vector Diffusion Maps](#jane) | CDS 650 |
+| Aug 29, 12pm | [Jerry Li](https://jerryzli.github.io/) (MSR Redmond) | [Efficient Learning from Untrusted Batches](#jerry) | CDS 650 |
+
+
+
+
+#### <a name="jerry"></a> Jerry Li: Efficient Learning from Untrusted Batches
+
+In recent years there has been an explosion of interest in designing unsupervised learning algorithms able to tolerate adversarial corruptions in the input data. A notable instantiation of this, first introduced to the theory community by Qiao and Valiant and motivated by the practical task of "federated learning," goes as follows:
+
+There is an unknown distribution \mathcal{D} over n elements, and some set of servers, an \epsilon fraction of whom are malicious. Each non-malicious server i gives the learner a batch of k independent draws from some distribution \mathcal{D}_i for which d_{TV}(\mathcal{D},\mathcal{D}_i)\le \eta, and each malicious server gives an adversarially chosen batch of  samples. There is an information-theoretic lower bound saying one cannot learn \mathcal{D} to within total variation better than O(\eta + \epsilon/\sqrt{k}), and no algorithm was known to match this bound without suffering an exponential dependence on n.
+
+In this talk we will describe how to use the sum-of-squares (SoS) hierarchy to obtain the first efficient algorithm for this problem. Time permitting, we'll also describe how to port the technology of Haar wavelets and \mathcal{A}_K norms from VC theory over to SoS to improve the sample complexity to sublinear in the support size of \mathcal{D} when \mathcal{D} is shape-constrainted.
+
+#### <a name="jane"></a> Zhizhen Jane Zhao: Cryo-Electron Microscopy Image Analysis with Multi-Frequency Vector Diffusion Maps
+
+Cryo-electron microscopy (EM) single particle reconstruction is an entirely general technique for 3D structure determination of macromolecular complexes. However, because the images are taken at low electron dose, it is extremely hard to visualize the individual particle with low contrast and high noise level. We propose a novel approach called multi-frequency vector diffusion maps (MFVDM) to improve the efficiency and accuracy of cryo-EM 2D image classification and denoising. This framework incorporates different irreducible representations of the estimated alignment between similar images. In addition, we propose a graph filtering scheme to denoise the images using the eigenvalues and eigenvectors of the MFVDM matrices. Through both simulated and publicly available real data, we demonstrate that our proposed method is efficient and robust to noise compared with the state-of-the-art cryo-EM 2D class averaging and image restoration algorithms.
+
+
+
 ### Schedule Spring 19
 
 | Date    | Speaker       | Title | Room |
@@ -26,9 +51,22 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | Feb 11, 1pm | [Boris Hanin](http://www.math.tamu.edu/~bhanin/) (Texas A&M)  | [Complexity of Linear Regions in Deep Networks](#boris) | WWH 705 |
 | Apr 3, 2pm | [Cong Ma](http://www.princeton.edu/~congm/) (Princeton)  | [Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization](#cong) | WWH 1314 |
 | Apr 9, 1pm | [Jonathan Shi](http://www.cs.cornell.edu/~jshi/) (Cornell)  | [The "Method of Pseudo-Moments": Tensor Decomposition for Mixture Models](#jonathan) | WWH 705 |
+| Apr 16, 12:30pm | [Bowei Yan](https://boweiyan.github.io/) (Jump Trading)  | [Complex performance measures](#bowei) | WWH 705 |
+| Apr 17, 2pm | [Zhihui Zhu](http://cis.jhu.edu/~zhihui/) (JHU)  | [Nonsmooth Nonconvex Approaches for Robust Low-Dimensional Models](#zhihui) | WWH 1314 |
 
 
 ### Abstracts
+
+#### <a name="bowei"></a> Bowei Yan: Complex performance measures
+
+Beyond the popular measure of accuracy, are increasingly being used in the context of binary classification. These complex performance measures are typically not even decomposable, that is, the loss evaluated on a batch of samples cannot typically be expressed as a sum or average of losses evaluated at individual samples, which in turn requires new theoretical and methodological developments beyond standard treatments of supervised learning. In this paper, we advance this understanding of binary classification for complex performance measures by identifying two key properties: a so-called Karmic property, and a more technical threshold-quasi-concavity property, which we show is milder than existing structural assumptions imposed on performance measures. Under these properties, we show that the Bayes optimal classifier is a threshold function of the conditional probability of positive class. We then leverage this result to come up with a computationally practical plug-in classifier, via a novel threshold estimator, and further, provide a novel statistical analysis of classification error with respect to complex performance measures.
+
+#### <a name="zhihui"></a> Zhihui Zhu: Nonsmooth Nonconvex Approaches for Robust Low-Dimensional Models
+
+As technological advances in fields such as the Internet, medicine, finance, and remote sensing have produced larger and more complex data sets, we are faced with the challenge of efficiently and effectively extracting meaningful information from large-scale and high-dimensional signals and data. Many modern approaches to addressing this challenge naturally involve nonconvex optimization formulations. Although in theory finding a local minimizer for a general nonconvex problem could be computationally hard, recent progress has shown that many practical (smooth) nonconvex problems obey benign geometric properties and can be efficiently solved to global solution.
+
+In this talk, I will extend this powerful geometric analysis to robust low-dimensional models where the data or measurements are corrupted by outliers taking arbitrary values.  We consider nonsmooth nonconvex formulations of the problems, in which we employ an L1-loss function to robustify the solution against outliers. We characterize a sufficiently large basin of attraction around the global minima, enabling us to develop subgradient-based optimization algorithms that can rapidly converge to a global minimum with a data-driven initialization. I will discuss the efficiency of this approach in the context of robust subspace recovery, robust low-rank matrix recovery, and robust principal component analysis (RPCA).
+
 
 #### <a name="jonathan"></a> Jonathan Shi: The "Method of Pseudo-Moments": Tensor Decomposition for Mixture Models
 
