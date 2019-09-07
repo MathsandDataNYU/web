@@ -28,8 +28,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
-| Sep 5 | [Facundo Memoli (OSU)](https://people.math.osu.edu/memolitechera.1/)  | [Gromov-Wasserstein distances and distributional invariants of datasets
-](#facundo) | 
+| Sep 5 | [Facundo Memoli (OSU)](https://people.math.osu.edu/memolitechera.1/)  | [Gromov-Wasserstein distances and distributional invariants of datasets](#facundo) | 
 | Sep 19 | [Dustin Mixon (OSU)](https://math.osu.edu/people/mixon.23) |   |
 | Sep 26 |  [Madeline Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |     |
 | Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) |   |
