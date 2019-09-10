@@ -58,7 +58,7 @@ CDS Moore-Sloan Fellow; high dimensional statistics, probability
 
 
 ---
-## Past Members
+## Past members
 
 ##### [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/)
 
