@@ -54,7 +54,7 @@ Postdoc, Department of Mathematics and Center for Data Science; probability, sta
 
 <img align="left" src="../img/ilias.jpg" width="80" style="border:10px solid white;"> 
 #### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
-CDS Moore-Sloan Fellow; high dimensional statistics, probability
+CDS Moore-Sloan Fellow; high dimensional statistics, probability.
 
 
 ---
