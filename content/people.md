@@ -36,49 +36,25 @@ Assistant Professor, Department of Mathematics and Center for Data Science.
 ---
 ## Postdocs
 
-<table style="width:100%">
-
-<tr>
-<th>
 <img align="left" src="../img/soledad.png" width="80" style="border:10px solid white;"> 
 #### [Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
 Moore-Sloan Research Fellow; optimization, probability, topology and data.
-</th>
-</tr>
 
-<tr>
-<th>
 <img align="left" src="../img/qing.jpg" width="80" style="border:10px solid white;"> 
 #### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - )
 Moore-Sloan Fellow; signal processing, machine learning, optimization.
-</th>
-</tr>
 
-<tr>
-<th>
 <img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
 #### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
 Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.
-</th>
-</tr>
 
-<tr>
-<th>
 <img align="left" src="../img/leo.jpeg" width="80" style="border:10px solid white;"> 
 #### [L&#233;o Miolane](https://leomiolane.github.io/) (Sept 2019 - )
 Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
-</th>
-</tr>
 
-<tr>
-<th>
 <img align="left" src="../img/ilias.jpg" width="80" style="border:10px solid white;"> 
 #### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
 CDS Moore-Sloan Fellow; high dimensional statistics, probability.
-</th>
-</tr>
-
-</table>
 
 ---
 ## Past members
