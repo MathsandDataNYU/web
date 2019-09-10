@@ -44,6 +44,8 @@ Moore-Sloan Research Fellow; optimization, probability, topology and data.
 #### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - )
 Moore-Sloan Fellow; signal processing, machine learning, optimization.
 
+<br/>
+
 <img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
 #### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
 Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.
