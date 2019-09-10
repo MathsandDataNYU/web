@@ -49,7 +49,7 @@ Moore-Sloan Fellow; signal processing, machine learning, optimization.
 Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.
 
 <img align="left" src="../img/leo.jpeg" width="80" style="border:10px solid white;"> 
-#### [Léo Miolane](https://leomiolane.github.io/) (Sept 2019 - )
+#### [L&#233;o Miolane](https://leomiolane.github.io/) (Sept 2019 - )
 Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
 
 <img align="left" src="../img/ilias.jpg" width="80" style="border:10px solid white;"> 
