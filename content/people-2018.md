@@ -18,6 +18,11 @@ date = "2016-12-22T14:48:45-05:00"
 ## Core faculty
 
 
+<img align="left" src="../img/afonso.jpg" width="80" style="border:10px solid white;" />
+#### [Afonso S. Bandeira](http://www.cims.nyu.edu/~bandeira/) 
+Assistant Professor, Department of Mathematics and Center for Data Science.  </td>
+
+
 
 <img align="left" src="../img/joan.png" width="80" style="border:10px solid white;">
 #### [Joan Bruna](http://www.cims.nyu.edu/~bruna/) 
@@ -28,44 +33,34 @@ Assistant Professor, Department of Computer Science, Center for Data Science and
 #### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
-
-<img align="left" src="../img/jon.jpg" width="80" style="border:10px solid white;"> 
-#### [Jonathan Niles-Weed](jonathannilesweed.com)
-Assistant Professor, Department of Mathematics and Center for Data Science.
-
 ---
 ## Postdocs
+
+ <img  align="left" src="../img/shuyang.png" width="80" style="border:10px solid white;"> 
+#### [Shuyang Ling](https://cims.nyu.edu/~sling/) (Aug 2017 - )
+Courant Instructor; compressive sensing, convex optimization, computational harmonic analysis
 
 <img align="left" src="../img/soledad.png" width="80" style="border:10px solid white;"> 
 #### [Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
 Moore-Sloan Research Fellow; optimization, probability, topology and data. 
 
-<img align="left" src="../img/qing.jpg" width="80" style="border:10px solid white;"> 
-#### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - )
-Moore-Sloan Fellow; signal processing, machine learning, optimization.
-
 <img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
 #### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
-Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.
+Courant Instructor; theoretical computer science, statistics, statistical physics of inference.
 
-<img align="left" src="../img/leo.jpeg" width="80" style="border:10px solid white;"> 
-#### [Léo Miolane](https://leomiolane.github.io/) (Sept 2019 - )
-Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
-
-<img align="left" src="../img/ilias.jpg" width="80" style="border:10px solid white;"> 
-#### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
-CDS Moore-Sloan Fellow; high dimensional statistics, probability
-
+<img align="left" src="../img/augustin.jpg" width="80" style="border:10px solid white;"> 
+#### [Augustin Cosse](http://www.augustincosse.com) (Oct 2016 - Sep 2017)
+Postdoc; Tensor methods, inverse problems.  
 
 ---
-## Past Members
+## Students
 
-##### [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/)
 
-##### [Shuyang Ling](https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling)
+#### Alex Nowak (Sep 2016 - Aug 2017 )
+Visiting Student; deep learning, harmonic analysis.
 
-##### [Augustin Cosse](http://www.augustincosse.com/)
-
+#### Thomas Moreau (Jan 2017 - Mar 2017)
+Visiting Student; high-dimensional statistics, machine learning.
 
 ---
 ## Affiliated faculty
