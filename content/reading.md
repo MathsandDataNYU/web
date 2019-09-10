@@ -14,8 +14,10 @@ title = "Reading Groups"
 
 +++
 
-The Mad group hosts semester-long thematic reading groups.
+The MaD group hosts semester-long thematic reading groups.
 Publicly accessible here.
+
+#### [Fall 2019 info and schedule](https://docs.google.com/document/d/1JkM4BRXnrnw7rUJJNVMFldLyYV9_JpSOm8jtZshfWZ4/edit?usp=sharing)
 
 #### [Fall 2018 working group schedule](https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit?usp=sharing)
 
