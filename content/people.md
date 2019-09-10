@@ -42,7 +42,7 @@ Moore-Sloan Research Fellow; optimization, probability, topology and data.
 
 <img align="left" src="../img/qing.jpg" width="80" style="border:10px solid white;"> 
 #### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - )
-Moore-Sloan Fellow; signal processing, machine learning, optimization.
+CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.
 
 <img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
 #### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
