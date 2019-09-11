@@ -8,7 +8,7 @@ Categories = [
   "Development",
   "GoLang",
 ]
-date = "2016-12-22T14:51:18-05:00"
+date = "2019-11-09T14:51:18-05:00"
 title = "Welcome to the Mad site!"
 
 +++
