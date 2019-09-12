@@ -28,7 +28,7 @@ Assistant Professor, Department of Computer Science, Center for Data Science and
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
 
-<img align="left" src="../img/julia.jpg" width="80" height="100" style="border:10px solid white;"> 
+<img align="left" src="../img/julia.jpg" width="80" height="80" style="border:10px solid white;"> 
 #### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
 Professor, Department of Mathematics, Computer Science and Center for Data Science.
 
