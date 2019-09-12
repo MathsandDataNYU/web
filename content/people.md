@@ -61,15 +61,15 @@ Postdoc, Department of Mathematics and Center for Data Science; probability, sta
 #### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
 CDS Moore-Sloan Fellow; high dimensional statistics, probability.
 
-<img align="left" scr="../img/yossi.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/yossi.jpg" width="80" style="border:10px solid white;"> 
 #### [Yossi Arjevani](https://scholar.google.co.il/citations?user=mgVLJ8MAAAAJ&hl=en) (Sept 2019 - )
 Postdoc, Center for Data Science; optimization, machine learning. 
 
-<img align="left" scr="../img/matthew.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/matthew.jpg" width="80" style="border:10px solid white;"> 
 #### [Matthew Trager](https://www.matthewtrager.com) (Sept 2018 - )
 Postdoc, Center for Data Science; algebraic geometry, deep learning. 
 
-<img align="left" scr="../img/grant.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/grant.jpg" width="80" style="border:10px solid white;"> 
 #### [Grant Rotskoff](https://cims.nyu.edu/~rotskoff/index.html) (Sept 2017 - )
 Postdoc, Courant Institute; statistical mechanics, machine learning. 
 
@@ -78,55 +78,55 @@ Postdoc, Courant Institute; statistical mechanics, machine learning.
 ---
 ## PhD Students
 
-<img align="left" scr="../img/brett.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/brett.jpg" width="80" style="border:10px solid white;"> 
 #### [Brett Bernstein](https://cims.nyu.edu/~brettb/) (Sept 2014 - )
 
-<img align="left" scr="../img/david.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/david.jpg" width="80" style="border:10px solid white;"> 
 #### [David Brandfonbrener](https://davidbrandfonbrener.github.io/) (Sept 2018 - )
 
-<img align="left" scr="../img/zhengdao.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/zhengdao.jpg" width="80" style="border:10px solid white;"> 
 #### Zhengdao Chen (Sept 2018 - )
 
-<img align="left" scr="../img/carles.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/carles.jpg" width="80" style="border:10px solid white;"> 
 #### Carles Domingo (Sept 2019 - )
 
-<img align="left" scr="../img/samy.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/samy.jpg" width="80" style="border:10px solid white;"> 
 #### [Samy Jelassi](https://sjelassi.github.io) (Sept 2018 - )
 
-<img align="left" scr="../img/aakash.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/aakash.jpg" width="80" style="border:10px solid white;"> 
 #### [Aakash Kaku](https://aakashrkaku.github.io/ ) (Sept 2019 - )
 
-<img align="left" scr="../img/sheng.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/sheng.jpg" width="80" style="border:10px solid white;"> 
 #### Sheng Liu (Sept 2019 - )
 
-<img align="left" scr="../img/kangning.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/kangning.jpg" width="80" style="border:10px solid white;"> 
 #### Kangning Liu (Sept 2019 - )
 
-<img align="left" scr="../img/sreyas.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/sreyas.jpg" width="80" style="border:10px solid white;"> 
 #### Sreyas Mohan (Sept 2018 - )
 
-<img align="left" scr="../img/karl.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/karl.jpg" width="80" style="border:10px solid white;"> 
 #### [Karl Otness](https://www.karlotness.com/) (Sept 2019 - )
 
-<img align="left" scr="../img/cinjon.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/cinjon.jpg" width="80" style="border:10px solid white;"> 
 #### Cinjon Resnick (Sept 2017 - )
 
-<img align="left" scr="../img/minjae.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/minjae.jpg" width="80" style="border:10px solid white;"> 
 #### Min Jae Song (Sept 2018 - )
 
-<img align="left" scr="../img/luca.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/luca.jpg" width="80" style="border:10px solid white;"> 
 #### [Luca Venturi](https://cims.nyu.edu/~venturi/) (Sept 2017 - )
 
-<img align="left" scr="../img/francis.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/francis.jpg" width="80" style="border:10px solid white;"> 
 #### Francis Williams (Sept 2018 - )
 
-<img align="left" scr="../img/aaron.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/aaron.jpg" width="80" style="border:10px solid white;"> 
 #### [Aaron Zweig](https://aaronzweig.github.io/) (Sept 2018 - )
 
 ---
 ## MsC and Visitors
 
-<img align="left" scr="../img/lei.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/lei.jpg" width="80" style="border:10px solid white;"> 
 #### [Lei Chen](https://leichen2018.github.io/) (Sept 2018 - )
 
 
