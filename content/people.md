@@ -19,26 +19,26 @@ date = "2016-12-22T14:48:45-05:00"
 
 
 <img align="left" src="../img/joan.png" width="80" style="border:10px solid white;">
-####[Joan Bruna](http://www.cims.nyu.edu/~bruna/) 
+#### [Joan Bruna](http://www.cims.nyu.edu/~bruna/) 
 Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated). 
 
 <img align="left" src="../img/carlos.jpg" width="80" style="border:10px solid white;"> 
-####[Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
+#### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
 <img align="left" src="../img/julia.jpg" width="80" style="border:10px solid white;"> 
-####[Julia Kempe](http://www.cims.nyu.edu/~kempe/)
+#### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
 Professor, Department of Mathematics, Computer Science and Center for Data Science.
 
 <img align="left" src="../img/jon.jpg" width="80" style="border:10px solid white;"> 
-####[Jonathan Niles-Weed](http://jonathannilesweed.com)
+#### [Jonathan Niles-Weed](http://jonathannilesweed.com)
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
 ---
 ## Postdocs
 
 <img align="left" src="../img/soledad.png" width="80" style="border:10px solid white;"> 
-####[Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
+#### [Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
 Moore-Sloan Research Fellow; optimization, probability, topology and data.
 
 <img align="left" src="../img/qing.jpg" width="80" style="border:10px solid white;"> 
