@@ -28,6 +28,9 @@ Assistant Professor, Department of Computer Science, Center for Data Science and
 #### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
+<img align="left" src="../img/julia.jpg" width="80" style="border:10px solid white;"> 
+#### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
+Professor, Department of Computer Science, Mathematics and Center for Data Science (Director).
 
 <img align="left" src="../img/jon.jpg" width="80" style="border:10px solid white;"> 
 #### [Jonathan Niles-Weed](http://jonathannilesweed.com)
