@@ -28,9 +28,11 @@ Assistant Professor, Department of Computer Science, Center for Data Science and
 #### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
+
 <img align="left" src="../img/julia.jpg" width="80" style="border:10px solid white;"> 
 #### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
 Professor, Department of Computer Science, Mathematics and Center for Data Science (Director).
+
 
 <img align="left" src="../img/jon.jpg" width="80" style="border:10px solid white;"> 
 #### [Jonathan Niles-Weed](http://jonathannilesweed.com)
@@ -83,10 +85,10 @@ Postdoc, Courant Institute; statistical mechanics, machine learning.
 #### [David Brandfonbrener](https://davidbrandfonbrener.github.io/) (Sept 2018 - )
 
 <img align="left" scr="../img/zhengdao.jpg" width="80" style="border:10px solid white;"> 
-#### [Zhengdao Chen]() (Sept 2018 - )
+#### Zhengdao Chen (Sept 2018 - )
 
 <img align="left" scr="../img/carles.jpg" width="80" style="border:10px solid white;"> 
-#### [Carles Domingo]() (Sept 2019 - )
+#### Carles Domingo (Sept 2019 - )
 
 <img align="left" scr="../img/samy.jpg" width="80" style="border:10px solid white;"> 
 #### [Samy Jelassi](https://sjelassi.github.io) (Sept 2018 - )
@@ -95,29 +97,28 @@ Postdoc, Courant Institute; statistical mechanics, machine learning.
 #### [Aakash Kaku](https://aakashrkaku.github.io/ ) (Sept 2019 - )
 
 <img align="left" scr="../img/sheng.jpg" width="80" style="border:10px solid white;"> 
-#### [Sheng Liu]() (Sept 2019 - )
+#### Sheng Liu (Sept 2019 - )
 
 <img align="left" scr="../img/kangning.jpg" width="80" style="border:10px solid white;"> 
-#### [Kangning Liu]() (Sept 2019 - )
+#### Kangning Liu (Sept 2019 - )
 
 <img align="left" scr="../img/sreyas.jpg" width="80" style="border:10px solid white;"> 
-#### [Sreyas Mohan]() (Sept 2018 - )
+#### Sreyas Mohan (Sept 2018 - )
 
 <img align="left" scr="../img/karl.jpg" width="80" style="border:10px solid white;"> 
 #### [Karl Otness](https://www.karlotness.com/) (Sept 2019 - )
 
 <img align="left" scr="../img/cinjon.jpg" width="80" style="border:10px solid white;"> 
-#### [Cinjon Resnick]() (Sept 2017 - )
-
+#### Cinjon Resnick (Sept 2017 - )
 
 <img align="left" scr="../img/minjae.jpg" width="80" style="border:10px solid white;"> 
-#### [Min Jae Song]() (Sept 2018 - )
+#### Min Jae Song (Sept 2018 - )
 
 <img align="left" scr="../img/luca.jpg" width="80" style="border:10px solid white;"> 
 #### [Luca Venturi](https://cims.nyu.edu/~venturi/) (Sept 2017 - )
 
 <img align="left" scr="../img/francis.jpg" width="80" style="border:10px solid white;"> 
-#### [Francis Williams]() (Sept 2018 - )
+#### Francis Williams (Sept 2018 - )
 
 <img align="left" scr="../img/aaron.jpg" width="80" style="border:10px solid white;"> 
 #### [Aaron Zweig](https://aaronzweig.github.io/) (Sept 2018 - )
