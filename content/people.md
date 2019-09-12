@@ -28,11 +28,9 @@ Assistant Professor, Department of Computer Science, Center for Data Science and
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
 
-<img align="left" src="../img/julia.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/julia.jpg" width="80" height="100" style="border:10px solid white;"> 
 #### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
 Professor, Department of Mathematics, Computer Science and Center for Data Science.
-
-
 
 
 
@@ -43,19 +41,10 @@ Assistant Professor, Department of Mathematics and Center for Data Science.
 ---
 ## Postdocs and Fellows
 
-<img align="left" src="../img/soledad.png" width="80" style="border:10px solid white;"> 
-#### [Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
-Moore-Sloan Research Fellow; optimization, probability, topology and data.
 
-
-<img align="left" src="../img/qing.jpg" width="80" style="border:10px solid white;"> 
-#### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - )
-CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.
-
-
-<img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
-#### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
-Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.
+<img align="left" src="../img/yossi.jpg" width="80" style="border:10px solid white;"> 
+#### [Yossi Arjevani](https://scholar.google.co.il/citations?user=mgVLJ8MAAAAJ&hl=en) (Sept 2019 - )
+Postdoc, Center for Data Science; optimization, machine learning.
 
 
 <img align="left" src="../img/leo.jpeg" width="80" style="border:10px solid white;"> 
@@ -63,14 +52,14 @@ Courant Instructor; theoretical computer science, high-dimensional statistics, s
 Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
 
 
-<img align="left" src="../img/ilias.jpg" width="80" style="border:10px solid white;"> 
-#### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
-CDS Moore-Sloan Fellow; high dimensional statistics, probability.
+<img align="left" src="../img/qing.jpg" width="80" style="border:10px solid white;"> 
+#### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - )
+CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.
 
 
-<img align="left" src="../img/yossi.jpg" width="80" style="border:10px solid white;"> 
-#### [Yossi Arjevani](https://scholar.google.co.il/citations?user=mgVLJ8MAAAAJ&hl=en) (Sept 2019 - )
-Postdoc, Center for Data Science; optimization, machine learning. 
+<img align="left" src="../img/grant.jpg" width="80" style="border:10px solid white;"> 
+#### [Grant Rotskoff](https://cims.nyu.edu/~rotskoff/index.html) (Sept 2017 - )
+Postdoc, Courant Institute; statistical mechanics, machine learning. 
 
 
 <img align="left" src="../img/matthew.jpg" width="80" style="border:10px solid white;"> 
@@ -78,9 +67,23 @@ Postdoc, Center for Data Science; optimization, machine learning.
 Postdoc, Center for Data Science; algebraic geometry, deep learning. 
 
 
-<img align="left" src="../img/grant.jpg" width="80" style="border:10px solid white;"> 
-#### [Grant Rotskoff](https://cims.nyu.edu/~rotskoff/index.html) (Sept 2017 - )
-Postdoc, Courant Institute; statistical mechanics, machine learning. 
+<img align="left" src="../img/soledad.png" width="80" style="border:10px solid white;"> 
+#### [Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
+Moore-Sloan Research Fellow; optimization, probability, topology and data.
+
+
+
+<img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
+#### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
+Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.
+
+
+<img align="left" src="../img/ilias.jpg" width="80" style="border:10px solid white;"> 
+#### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
+CDS Moore-Sloan Fellow; high dimensional statistics, probability.
+
+
+ 
 
 
 
