@@ -35,6 +35,7 @@ Professor, Department of Mathematics, Computer Science and Center for Data Scien
 #### [Jonathan Niles-Weed](http://jonathannilesweed.com)
 Assistant Professor, Department of Mathematics and Center for Data Science.
 
+
 ---
 ## Postdocs
 
