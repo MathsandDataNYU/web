@@ -1,5 +1,5 @@
 +++
-title = "PhD Students"
+title = "PhD/MsC Students"
 Description = ""
 Tags = [
   "Development",
@@ -14,6 +14,7 @@ parent = "People"
 date = "2016-12-22T14:48:45-05:00"
 
 +++
+## PhD Students
 
 <img style="float: left;" src="../../img/brett.jpg" height="90" style="border:4px solid white;"> 
 #### [Brett Bernstein](https://cims.nyu.edu/~brettb/) (Sept 2014 - )  
