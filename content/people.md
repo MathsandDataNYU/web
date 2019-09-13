@@ -18,25 +18,25 @@ date = "2016-12-22T14:48:45-05:00"
 ## Core faculty
 
 
-<img align="left" src="../img/joan.png" width="80" style="border:10px solid white;">
+<img align="left" src="../img/joan.png" width="120" style="border:10px solid white;">
 #### [Joan Bruna](http://www.cims.nyu.edu/~bruna/) 
-Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated). 
+Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).  
+ 
 
-
-<img align="left" src="../img/carlos.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/carlos.jpg" width="120" style="border:10px solid white;"> 
 #### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
-Assistant Professor, Department of Mathematics and Center for Data Science.
+Assistant Professor, Department of Mathematics and Center for Data Science.  
 
 
-<img align="left" src="../img/julia.jpg" width="80" height="80" style="border:10px solid white;"> 
+<img align="left" src="../img/julia.jpg" width="120" style="border:10px solid white;"> 
 #### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
-Professor, Department of Mathematics, Computer Science and Center for Data Science.
+Professor, Department of Mathematics, Computer Science and Center for Data Science.  
 
 
 
-<img align="left" src="../img/jon.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/jon.jpg" width="120" style="border:10px solid white;"> 
 #### [Jonathan Niles-Weed](http://jonathannilesweed.com)
-Assistant Professor, Department of Mathematics and Center for Data Science.
+Assistant Professor, Department of Mathematics and Center for Data Science.  
 
 ---
 ## Postdocs and Fellows
