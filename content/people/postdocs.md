@@ -1,5 +1,5 @@
 +++
-title = "People"
+title = "Postdocs"
 Description = ""
 Tags = [
   "Development",
@@ -10,6 +10,7 @@ Categories = [
   "GoLang",
 ]
 menu = "main"
+parent = "People"
 date = "2016-12-22T14:48:45-05:00"
 
 +++
