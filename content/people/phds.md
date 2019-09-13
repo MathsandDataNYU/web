@@ -80,8 +80,8 @@ date = "2016-12-22T14:48:45-05:00"
 <br/>
 
 
-<img style="float: left;" src="../../img/cinjon.jpg" height="90" style="border:4px solid white;"> 
-#### Cinjon Resnick (Sept 2017 - )  
+<img style="float: left;" src="../../img/cinjon2.jpg" height="90" style="border:4px solid white;"> 
+#### [Cinjon Resnick](http://cinjon.com/) (Sept 2017 - )  
 <br/>
 <br/>
 
