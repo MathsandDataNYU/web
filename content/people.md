@@ -18,22 +18,22 @@ date = "2016-12-22T14:48:45-05:00"
 ## Core faculty
 
 
-<img style="float: left;" src="../img/joan.png" height="100" style="border:1px solid white;">
+<img style="float: left;" src="../img/joan.png" height="90" style="border:4px solid white;">
 #### [Joan Bruna](http://www.cims.nyu.edu/~bruna/) 
 Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).     
 <br/>     
      
-<img style="float: left;" src="../img/carlos.jpg" height="100" style="border:1px solid white;"> 
+<img style="float: left;" src="../img/carlos.jpg" height="90" style="border:4px solid white;"> 
 #### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
 Assistant Professor, Department of Mathematics and Center for Data Science.    
 <br/>
    
-<img style="float: left;" src="../img/julia.jpg" height="100" style="border:1px solid white;"> 
+<img style="float: left;" src="../img/julia.jpg" height="90" style="border:4px solid white;"> 
 #### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
 Professor, Department of Mathematics, Computer Science and Center for Data Science.    
 <br/> 
    
-<img style="float: left;" src="../img/jon.jpg" height="100" style="border:1px solid white;"> 
+<img style="float: left;" src="../img/jon.jpg" height="90" style="border:4px solid white;"> 
 #### [Jonathan Niles-Weed](http://jonathannilesweed.com)
 Assistant Professor, Department of Mathematics and Center for Data Science.   
 <br/> 
@@ -42,50 +42,45 @@ Assistant Professor, Department of Mathematics and Center for Data Science.
 ## Postdocs and Fellows
 
 
-<img align="left" src="../img/yossi.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/yossi.jpg" height="90" style="border:4px solid white;"> 
 #### [Yossi Arjevani](https://scholar.google.co.il/citations?user=mgVLJ8MAAAAJ&hl=en) (Sept 2019 - )
 Postdoc, Center for Data Science; optimization, machine learning.
+<br/> 
 
-
-<img align="left" src="../img/leo.jpeg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/leo.jpeg" height="90" style="border:4px solid white;"> 
 #### [L&#233;o Miolane](https://leomiolane.github.io/) (Sept 2019 - )
 Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
+<br/> 
 
-
-<img align="left" src="../img/qing.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/qing.jpg" height="90" style="border:4px solid white;"> 
 #### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - )
 CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.
+<br/> 
 
-
-<img align="left" src="../img/grant.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/grant.jpg" height="90" style="border:4px solid white;"> 
 #### [Grant Rotskoff](https://cims.nyu.edu/~rotskoff/index.html) (Sept 2017 - )
 Postdoc, Courant Institute; statistical mechanics, machine learning. 
+<br/> 
 
-
-<img align="left" src="../img/matthew.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/matthew.jpg" height="90" style="border:4px solid white;"> 
 #### [Matthew Trager](https://www.matthewtrager.com) (Sept 2018 - )
 Postdoc, Center for Data Science; algebraic geometry, deep learning. 
+<br/> 
 
-
-<img align="left" src="../img/soledad.png" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/soledad.png" height="90" style="border:4px solid white;"> 
 #### [Soledad Villar](http://www.cims.nyu.edu/~villar/) (Jun 2017 - )
 Moore-Sloan Research Fellow; optimization, probability, topology and data.
+<br/> 
 
-
-
-<img align="left" src="../img/alex.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/alex.jpg" height="90" style="border:4px solid white;"> 
 #### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
 Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.
+<br/> 
 
-
-<img align="left" src="../img/ilias.jpg" width="80" style="border:10px solid white;"> 
+<img align="left" src="../img/ilias.jpg" height="90" style="border:4px solid white;"> 
 #### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
 CDS Moore-Sloan Fellow; high dimensional statistics, probability.
-
-
- 
-
-
+<br/> 
 
 ---
 ## PhD Students
