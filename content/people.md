@@ -22,7 +22,7 @@ date = "2016-12-22T14:48:45-05:00"
 #### [Joan Bruna](http://www.cims.nyu.edu/~bruna/) 
 Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).     
 \    
-\    
+    
      
 <img style="float: left;" src="../img/carlos.jpg" height="100" style="border:1px solid white;"> 
 #### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
