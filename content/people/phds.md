@@ -108,5 +108,14 @@ date = "2016-12-22T14:48:45-05:00"
 <br/>
 <br/>
 
+---
+## MsC Students
+
+
+<img style="float: left;" src="../../img/lei.jpg" height="90" style="border:4px solid white;"> 
+#### [Lei Chen](https://leichen2018.github.io/) (Sept 2018 - )  
+<br/>
+<br/>
+
 
 
