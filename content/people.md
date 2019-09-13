@@ -94,58 +94,89 @@ CDS Moore-Sloan Fellow; high dimensional statistics, probability.
 ## PhD Students
 
 <img align="left" src="../img/brett.jpg" width="80" style="border:10px solid white;"> 
-#### [Brett Bernstein](https://cims.nyu.edu/~brettb/) (Sept 2014 - )
+#### [Brett Bernstein](https://cims.nyu.edu/~brettb/) (Sept 2014 - )  
+<br/> 
 
 <img align="left" src="../img/david.jpg" width="80" style="border:10px solid white;"> 
-#### [David Brandfonbrener](https://davidbrandfonbrener.github.io/) (Sept 2018 - )
+#### [David Brandfonbrener](https://davidbrandfonbrener.github.io/) (Sept 2018 - )  
+<br/>
 
 <img align="left" src="../img/zhengdao.jpg" width="80" style="border:10px solid white;"> 
-#### Zhengdao Chen (Sept 2018 - )
+#### Zhengdao Chen (Sept 2018 - )  
+<br/>
+
 
 <img align="left" src="../img/carles.jpg" width="80" style="border:10px solid white;"> 
-#### Carles Domingo (Sept 2019 - )
+#### Carles Domingo (Sept 2019 - )  
+<br/>
+
 
 <img align="left" src="../img/samy.jpg" width="80" style="border:10px solid white;"> 
-#### [Samy Jelassi](https://sjelassi.github.io) (Sept 2018 - )
+#### [Samy Jelassi](https://sjelassi.github.io) (Sept 2018 - )  
+<br/>
+
 
 <img align="left" src="../img/aakash.jpg" width="80" style="border:10px solid white;"> 
-#### [Aakash Kaku](https://aakashrkaku.github.io/ ) (Sept 2019 - )
+#### [Aakash Kaku](https://aakashrkaku.github.io/ ) (Sept 2019 - )  
+<br/>
+
 
 <img align="left" src="../img/tim.jpg" width="80" style="border:10px solid white;"> 
-#### [Tim Kunisky](http://www.kunisky.com) (Sept 2017 - )
+#### [Tim Kunisky](http://www.kunisky.com) (Sept 2017 - )  
+<br/>
+
 
 <img align="left" src="../img/sheng.jpg" width="80" style="border:10px solid white;"> 
-#### Sheng Liu (Sept 2019 - )
+#### [Sheng Liu](https://cims.nyu.edu/~sl5924/index.html) (Sept 2019 - )  
+<br/>
+
 
 <img align="left" src="../img/kangning.jpg" width="80" style="border:10px solid white;"> 
-#### Kangning Liu (Sept 2019 - )
+#### Kangning Liu (Sept 2019 - )  
+<br/>
+
 
 <img align="left" src="../img/sreyas.jpg" width="80" style="border:10px solid white;"> 
-#### Sreyas Mohan (Sept 2018 - )
+#### Sreyas Mohan (Sept 2018 - )  
+<br/>
+
 
 <img align="left" src="../img/karl.jpg" width="80" style="border:10px solid white;"> 
-#### [Karl Otness](https://www.karlotness.com/) (Sept 2019 - )
+#### [Karl Otness](https://www.karlotness.com/) (Sept 2019 - )  
+<br/>
+
 
 <img align="left" src="../img/cinjon.jpg" width="80" style="border:10px solid white;"> 
-#### Cinjon Resnick (Sept 2017 - )
+#### Cinjon Resnick (Sept 2017 - )  
+<br/>
+
 
 <img align="left" src="../img/minjae.jpg" width="80" style="border:10px solid white;"> 
-#### Min Jae Song (Sept 2018 - )
+#### Min Jae Song (Sept 2018 - )  
+<br/>
+
 
 <img align="left" src="../img/luca.jpg" width="80" style="border:10px solid white;"> 
-#### [Luca Venturi](https://cims.nyu.edu/~venturi/) (Sept 2017 - )
+#### [Luca Venturi](https://cims.nyu.edu/~venturi/) (Sept 2017 - )  
+<br/>
+
 
 <img align="left" src="../img/francis.jpg" width="80" style="border:10px solid white;"> 
-#### Francis Williams (Sept 2018 - )
+#### [Francis Williams](https://www.fwilliams.info/) (Sept 2018 - )  
+<br/>
+
 
 <img align="left" src="../img/aaron.jpg" width="80" style="border:10px solid white;"> 
-#### [Aaron Zweig](https://aaronzweig.github.io/) (Sept 2018 - )
+#### [Aaron Zweig](https://aaronzweig.github.io/) (Sept 2018 - )  
+<br/>
+
 
 ---
 ## MsC and Visitors
 
 <img align="left" src="../img/lei.jpg" width="80" style="border:10px solid white;"> 
-#### [Lei Chen](https://leichen2018.github.io/) (Sept 2018 - )
+#### [Lei Chen](https://leichen2018.github.io/) (Sept 2018 - )  
+<br/>
 
 
 ---
