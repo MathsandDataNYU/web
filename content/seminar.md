@@ -39,7 +39,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) |  |
 | Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) |  |
 | Nov 21 |  [Elchanan Mossel (MIT)](http://math.mit.edu/~elmos/)  |  |
-| Dec 5 |    |  |
+| Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   |  |
 
 ---
 
