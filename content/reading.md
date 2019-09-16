@@ -14,8 +14,7 @@ title = "Reading Groups"
 
 +++
 
-The MaD group hosts semester-long thematic reading groups.
-Publicly accessible here.
+The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
 
 #### [Fall 2019 info and schedule](https://docs.google.com/document/d/1JkM4BRXnrnw7rUJJNVMFldLyYV9_JpSOm8jtZshfWZ4/edit?usp=sharing)
 
@@ -24,8 +23,3 @@ Publicly accessible here.
 #### [High Dimensional Probability](https://github.com/MathsandDataNYU/HighDimProba_spring17)
 
 #### [Statistical Physics](https://github.com/MathsandDataNYU/StatPhysics_spring17)
-
-
-
-
-
