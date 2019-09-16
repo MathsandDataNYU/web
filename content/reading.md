@@ -22,6 +22,8 @@ We are running a general group meeting, on the broad theme of "statistical and c
 
 - Information and our schedule are available [here](https://docs.google.com/document/d/1JkM4BRXnrnw7rUJJNVMFldLyYV9_JpSOm8jtZshfWZ4/edit?usp=sharing).
 
+---
+
 ## Previous
 
 #### Spring 2019
@@ -34,7 +36,7 @@ We organized three working groups on different topics:
 
 #### Fall 2018
 
-We ran a working group on the theme of "statistical-to-computational gaps And statistical estimation With algebraic structure."
+We ran a working group on the theme of "statistical-to-computational gaps and statistical estimation with algebraic structure."
 
 - [Working group schedule](https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit?usp=sharing)
 
