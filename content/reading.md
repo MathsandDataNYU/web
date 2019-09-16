@@ -16,10 +16,31 @@ title = "Reading Groups"
 
 The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
 
-#### [Fall 2019 info and schedule](https://docs.google.com/document/d/1JkM4BRXnrnw7rUJJNVMFldLyYV9_JpSOm8jtZshfWZ4/edit?usp=sharing)
+## Current (Fall 2019)
 
-#### [Fall 2018 working group schedule](https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit?usp=sharing)
+We are running a general group meeting, on the broad theme of "statistical and computational tradeoffs in high-dimensional inference."
 
-#### [High Dimensional Probability](https://github.com/MathsandDataNYU/HighDimProba_spring17)
+- Information and our schedule are available [here](https://docs.google.com/document/d/1JkM4BRXnrnw7rUJJNVMFldLyYV9_JpSOm8jtZshfWZ4/edit?usp=sharing).
 
-#### [Statistical Physics](https://github.com/MathsandDataNYU/StatPhysics_spring17)
+## Previous
+
+#### Spring 2019
+
+We organized three working groups on different topics:
+
+- The low-degree polynomials method; notes available [here](https://arxiv.org/abs/1907.11636)
+- Nonconvex optimization
+- Optimal transport
+
+#### Fall 2018
+
+We ran a working group on the theme of "statistical-to-computational gaps And statistical estimation With algebraic structure."
+
+- [Working group schedule](https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit?usp=sharing)
+
+#### Spring 2017
+
+We ran two simultaneous reading groups:
+
+- [High-dimensional probability](https://github.com/MathsandDataNYU/HighDimProba_spring17), following [Ramon van Handel's notes](https://web.math.princeton.edu/~rvan/APC550.pdf)
+- [Statistical physics](https://github.com/MathsandDataNYU/StatPhysics_spring17), loosely following [M&#233;zard and Montanari's book](https://web.stanford.edu/~montanar/RESEARCH/book.html)
