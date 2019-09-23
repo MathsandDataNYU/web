@@ -1,4 +1,4 @@
-﻿+++
++++
 Tags = [
   "Development",
   "golang",
@@ -29,8 +29,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
 | Sep 5 | [Facundo Memoli (OSU)](https://people.math.osu.edu/memolitechera.1/)  | [Gromov-Wasserstein distances and distributional invariants of datasets](#facundo) | 
-| Sep 19 | [Dustin Mixon (OSU)](https://math.osu.edu/people/mixon.23) |   |
-| Sep 26 |  [Madeline Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |     |
+| Sep 19 | [Dustin Mixon (OSU)](https://math.osu.edu/people/mixon.23) |  [SqueezeFit: Label aware dimensionality reduction via semidefinite programming](#dustin) |
+| Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |     |
 | Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) |   |
 | Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) |  |
 | Oct 17 |  |   |
@@ -56,6 +56,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 ---
 ### Abstracts
 
+#### <a name="dustin"></a> Dustin Mixon:SqueezeFit: Label aware dimensionality reduction via semidefinite programming
+
+Given labeled points in a high-dimensional vector space, we seek a low-dimensional subspace such that projecting onto this subspace maintains some prescribed distance between points of differing labels. Intended applications include compressive classification. This talk will introduce a semidefinite relaxation of this problem, along with various performance guarantees. (Joint work with Culver McWhirter (OSU) and Soledad Villar (NYU).)
 
 #### <a name="facundo"></a> Facundo Memoli: Gromov-Wasserstein distances and distributional invariants of datasets
 
