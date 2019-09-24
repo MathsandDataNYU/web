@@ -31,7 +31,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | ----------- |:-------------:|:-----------:| 
 | Sep 5 | [Facundo Memoli (OSU)](https://people.math.osu.edu/memolitechera.1/)  | [Gromov-Wasserstein distances and distributional invariants of datasets](#facundo) | 
 | Sep 19 | [Dustin Mixon (OSU)](https://math.osu.edu/people/mixon.23) |  [SqueezeFit: Label aware dimensionality reduction via semidefinite programming](#dustin) |
-| Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |     |
+| Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |    [Optimal storage SDP](#udell)    |
 | Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) |   |
 | Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) |  |
 | Oct 17 |  |   |
@@ -56,6 +56,24 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="udell"></a> Madeleine Udell: Optimal storage SDP
+
+This talk develops new storage-optimal algorithms that provably
+solve generic semidefinite programs (SDPs) in standard form.
+The methods are particularly effective for weakly constrained SDPs.
+
+The key idea is to formulate an approximate complementarity principle:
+Given an approximate solution to the dual SDP,
+the primal SDP has an approximate solution whose range is
+contained in the null space of the dual slack matrix.
+For weakly constrained SDPs, this null space has very low dimension,
+so this observation significantly reduces the search space for the primal solution.
+
+This result suggests an algorithmic strategy that can be implemented with minimal storage:
+(1) Solve the dual SDP approximately;
+(2) compress the primal SDP to the null space of the dual slack matrix;
+(3) solve the compressed primal SDP.
 
 #### <a name="dustin"></a> Dustin Mixon:SqueezeFit: Label aware dimensionality reduction via semidefinite programming
 
