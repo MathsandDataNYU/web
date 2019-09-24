@@ -26,6 +26,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ### Schedule with Confirmed Speakers
 
+
 | Date        | Speaker       | Title |
 | ----------- |:-------------:|:-----------:| 
 | Sep 5 | [Facundo Memoli (OSU)](https://people.math.osu.edu/memolitechera.1/)  | [Gromov-Wasserstein distances and distributional invariants of datasets](#facundo) | 
