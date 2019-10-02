@@ -32,7 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Sep 5 | [Facundo Memoli (OSU)](https://people.math.osu.edu/memolitechera.1/)  | [Gromov-Wasserstein distances and distributional invariants of datasets](#facundo) | 
 | Sep 19 | [Dustin Mixon (OSU)](https://math.osu.edu/people/mixon.23) |  [SqueezeFit: Label aware dimensionality reduction via semidefinite programming](#dustin) |
 | Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |    [Optimal storage SDP](#udell)    |
-| Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) |   |
+| Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) | [Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives](#rahul) |
 | Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) |  |
 | Oct 17 |  |   |
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) |  |
@@ -56,6 +56,13 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="rahul"></a> Rahul Mazumder: Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives
+
+Structured sparsity plays an important role in high dimensional statistics and machine learning. They are naturally cast as solutions to nonconvex optimization problems. A major focus in this area has been on convex relaxations and/or greedy algorithms. Mixed Integer Programming (MIP) presents a flexible and effective framework for modeling and computation of these problems (to optimality). Despite promising recent research in this area, there is a considerable gap between the problem-sizes that can be handled via efficient MIP solvers versus fast algorithms to solve the convex relaxations. Compared to first order methods in convex optimization used in sparse learning, current efficient MIP solvers (e.g., commercial solvers) are less transparent, do not effectively exploit (statistical) problem-structure and can be computationally expensive. Convex optimization methods for sparse learning may provide insights into solving the corresponding MIP problems at scale.
+
+To this end, we will discuss our recent work on sparse learning (e.g., best subset selection, hierarchical sparsity, sparse PCA). Our framework allows us to obtain near-optimal solutions to the discrete sparse learning problems at scales much larger than current state-of-the-art commercial solvers.  This enables us to algorithmically understand statistical properties of high-dimensional sparse estimators. This sheds interesting insights into the behavior of sparse learning estimators (e.g., the curious behavior of best-subsets across different SNR regimes) --- properties that seem to be less known due to computational limitations.
+
 
 #### <a name="udell"></a> Madeleine Udell: Optimal storage SDP
 
