@@ -33,7 +33,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Sep 19 | [Dustin Mixon (OSU)](https://math.osu.edu/people/mixon.23) |  [SqueezeFit: Label aware dimensionality reduction via semidefinite programming](#dustin) |
 | Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |    [Optimal storage SDP](#udell)    |
 | Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) | [Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives](#rahul) |
-| Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) |  |
+| Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) | [Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems](#peyman) |
 | Oct 17 |  |   |
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) |  |
 | Oct 31 |  |  |
@@ -56,6 +56,10 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="peyman"></a> Peyman Milanfar: Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems
+
+Denoising of images has reached impressive levels of quality -- almost as good as we can ever hope. There are thousands of papers on this topic, and their scope is so vast and approaches so diverse that putting them in some order is useful and challenging. I will speak about why we should still care deeply about this topic, what we can say about this general class of operators on images, and what makes them so special. Of particular interest is how we can use denoisers as building blocks for broader image processing tasks, including as regularizers for general inverse problems. I'll also show examples of applications including high dynamic range enhancement, deblurring, and super-resolution.
 
 #### <a name="rahul"></a> Rahul Mazumder: Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives
 
