@@ -33,7 +33,9 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 #### <a name="ramya"></a> Ramya Korlakai Vinayak: Learning from Sparse Data
 
 In many scientific domains, the number of individuals in the population under study is often very large, however the number of observations available per individual is often very limited (sparse). Limited observations prohibit accurate estimation of parameters of interest for any given individual. In this sparse data regime, the key question is, how accurately can we estimate the distribution of parameters over the population?  This problem arises in various domains such as epidemiology, psychology, health care, biology, and social sciences. As an example, suppose for a large random sample of the population we have observations of whether a person caught the flu for each year over the past 5 years. We cannot accurately estimate the probability of any given person catching the flu with only 5 observations, however our goal is to estimate the distribution of these probabilities over the whole population. Such an estimated distribution can be used in downstream tasks, like testing and estimating properties of the distribution.
+
 In this talk, I will present our recent results where we show that the maximum likelihood estimator (MLE) is minimax optimal in the sparse observation regime. While the MLE for this problem was proposed as early as the late 1960’s, how accurately the MLE recovers the true distribution was not known. Our work closes this gap. In the course of our analysis, we provide novel bounds on the coefficients of Bernstein polynomials approximating Lipschitz-1 functions. Furthermore, the MLE is also efficiently computable in this setting and we evaluate the performance of MLE on both synthetic and real datasets.
+
 Joint work with Weihao Kong, Gregory Valiant, and Sham Kakade.
 
 
