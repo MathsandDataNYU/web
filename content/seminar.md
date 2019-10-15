@@ -34,7 +34,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |    [Optimal storage SDP](#udell)    |
 | Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) | [Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives](#rahul) |
 | Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) | [Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems](#peyman) |
-| Oct 17 |  |   |
+| Oct 17 | [Ryan Tibshirani (CMU)] | [Surprises in High-Dimensional Ridgeless Least Squares Interpolation](#ryan)  |
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) |  |
 | Oct 31 |  |  |
 | Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) |  |
@@ -56,6 +56,15 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="ryan"></a> Ryan Tibshirani: Surprises in High-Dimensional Ridgeless Least Squares Interpolation
+(or: What Deep Learning Taught me About Linear Models)
+
+Interpolators---estimators that achieve zero training error---have attracted growing attention in machine learning, mainly because state-of-the art neural networks appear to be models of this type. We study minimum L2 norm ("ridgeless") interpolation in high-dimensional least squares regression. We consider two different models for the feature distribution: a linear model, where the feature vectors are obtained by applying a linear transform to a vector of i.i.d. entries, and a nonlinear model, where the feature vectors are obtained by passing the input through a random one-layer neural network. We recover----in a precise quantitative way----several phenomena that have been observed in large-scale neural networks and kernel machines,
+including the "double descent" behavior of the prediction risk, and the potential benefits of overparametrization.
+
+This represents work with Trevor Hastie, Andrea Montanari, and Saharon Rosset.
+
 
 #### <a name="peyman"></a> Peyman Milanfar: Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems
 
