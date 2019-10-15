@@ -57,8 +57,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 ---
 ### Abstracts
 
-#### <a name="ryan"></a> Ryan Tibshirani: Surprises in High-Dimensional Ridgeless Least Squares Interpolation
-(or: What Deep Learning Taught me About Linear Models)
+#### <a name="ryan"></a> Ryan Tibshirani: Surprises in High-Dimensional Ridgeless Least Squares Interpolation (or: What Deep Learning Taught me About Linear Models)
 
 Interpolators---estimators that achieve zero training error---have attracted growing attention in machine learning, mainly because state-of-the art neural networks appear to be models of this type. We study minimum L2 norm ("ridgeless") interpolation in high-dimensional least squares regression. We consider two different models for the feature distribution: a linear model, where the feature vectors are obtained by applying a linear transform to a vector of i.i.d. entries, and a nonlinear model, where the feature vectors are obtained by passing the input through a random one-layer neural network. We recover----in a precise quantitative way----several phenomena that have been observed in large-scale neural networks and kernel machines,
 including the "double descent" behavior of the prediction risk, and the potential benefits of overparametrization.
