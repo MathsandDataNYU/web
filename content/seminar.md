@@ -34,7 +34,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |    [Optimal storage SDP](#udell)    |
 | Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) | [Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives](#rahul) |
 | Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) | [Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems](#peyman) |
-| Oct 17 | [Ryan Tibshirani (CMU)] | [Surprises in High-Dimensional Ridgeless Least Squares Interpolation](#ryan)  |
+| Oct 17 | [Ryan Tibshirani (CMU)](http://www.stat.cmu.edu/~ryantibs/) | [Surprises in High-Dimensional Ridgeless Least Squares Interpolation](#ryan)  |
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) |  |
 | Oct 31 |  |  |
 | Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) |  |
