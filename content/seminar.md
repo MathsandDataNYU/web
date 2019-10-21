@@ -36,6 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) | [Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems](#peyman) |
 | Oct 17 | [Ryan Tibshirani (CMU)](http://www.stat.cmu.edu/~ryantibs/) | [Surprises in High-Dimensional Ridgeless Least Squares Interpolation](#ryan)  |
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) |  |
+| Oct 25 3:30pm |  [Song Mei (Stanford)](http://web.stanford.edu/~songmei/) | [Generalization error of linearized neural networks: staircase and double-descent](#song) |
 | Oct 31 |  |  |
 | Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) |  |
 | Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) |  |
@@ -56,6 +57,12 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="song"></a> Song Mei: Generalization error of linearized neural networks: staircase and double-descent
+
+Deep learning methods operate in regimes that defy the traditional statistical mindset. Neural network architectures often contain more parameters than training samples, and are so rich that they can interpolate the observed labels, even if the latter are replaced by pure noise. Despite their huge complexity, the same architectures achieve small generalization error on real data. On the other hand, tangent kernel theory provides an interesting perspective on the training dynamics of neural networks. In a proper scaling limit, the gradient flow dynamics of multi-layers neural networks become a linear dynamics associated with a kernel, and converges to a global minimizer of the training loss. The tangent model associated with the neural network can be understood as a linearization of neural network around a random initialization. 
+In this talk, I will discuss two interesting phenomena of the generalization of linearized neural networks: the staircase phenomenon and the double-descent phenomenon. I will use them to discuss the benefits and limitations of the tangent kernel theory.
+
 
 #### <a name="ryan"></a> Ryan Tibshirani: Surprises in High-Dimensional Ridgeless Least Squares Interpolation (or: What Deep Learning Taught me About Linear Models)
 
