@@ -35,7 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 3 | [Rahul Mazumder (MIT)](http://www.mit.edu/~rahulmaz/) | [Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives](#rahul) |
 | Oct 10 |  [Peyman Milanfar (Google Research)](https://sites.google.com/view/milanfarhome/) | [Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems](#peyman) |
 | Oct 17 | [Ryan Tibshirani (CMU)](http://www.stat.cmu.edu/~ryantibs/) | [Surprises in High-Dimensional Ridgeless Least Squares Interpolation](#ryan)  |
-| Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) |  |
+| Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) | [Estimating location parameters in entangled single-sample distributions](#loh) |
 | Oct 25 3:30pm |  [Song Mei (Stanford)](http://web.stanford.edu/~songmei/) | [Generalization error of linearized neural networks: staircase and double-descent](#song) |
 | Oct 31 |  |  |
 | Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) |  |
@@ -58,10 +58,18 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 ---
 ### Abstracts
 
+
 #### <a name="song"></a> Song Mei: Generalization error of linearized neural networks: staircase and double-descent
 
 Deep learning methods operate in regimes that defy the traditional statistical mindset. Neural network architectures often contain more parameters than training samples, and are so rich that they can interpolate the observed labels, even if the latter are replaced by pure noise. Despite their huge complexity, the same architectures achieve small generalization error on real data. On the other hand, tangent kernel theory provides an interesting perspective on the training dynamics of neural networks. In a proper scaling limit, the gradient flow dynamics of multi-layers neural networks become a linear dynamics associated with a kernel, and converges to a global minimizer of the training loss. The tangent model associated with the neural network can be understood as a linearization of neural network around a random initialization. 
 In this talk, I will discuss two interesting phenomena of the generalization of linearized neural networks: the staircase phenomenon and the double-descent phenomenon. I will use them to discuss the benefits and limitations of the tangent kernel theory.
+
+
+#### <a name="loh"></a> Po-Ling Loh: Estimating location parameters in entangled single-sample distributions
+
+We consider the problem of estimating the common mean of independently sampled data, where samples are drawn in a possibly non-identical manner from symmetric, unimodal distributions with a common mean. This generalizes the setting of Gaussian mixture modeling, since the number of distinct mixture components may diverge with the number of observations. We propose an estimator that adapts to the level of heterogeneity in the data, achieving near-optimality in both the i.i.d. setting and some heterogeneous settings, where the fraction of "low-noise" points is as small as log(n)/n. Our estimator is a hybrid of the modal interval, shorth, and median estimators from classical statistics; however, the key technical contributions rely on novel empirical process theory results that we derive for independent but non-i.i.d. data. In the multivariate setting, we generalize our theory to mean estimation for mixtures of radially symmetric distributions, and derive minimax lower bounds on the expected error of any estimator that is agnostic to the scales of individual data points. Finally, we describe an extension of our estimators applicable to linear regression. In the multivariate mean estimation and regression settings, we present computationally feasible versions of our estimators that run in time polynomial in the number of data points.
+
+This is joint work with Ankit Pensia and Varun Jog.
 
 
 #### <a name="ryan"></a> Ryan Tibshirani: Surprises in High-Dimensional Ridgeless Least Squares Interpolation (or: What Deep Learning Taught me About Linear Models)
