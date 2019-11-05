@@ -38,7 +38,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) | [Estimating location parameters in entangled single-sample distributions](#loh) |
 | Oct 25 3:30pm |  [Song Mei (Stanford)](http://web.stanford.edu/~songmei/) | [Generalization error of linearized neural networks: staircase and double-descent](#song) |
 | Oct 31 |  |  |
-| Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) |  |
+| Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) | [The Blessings of Multiple Causes](#blei) |
 | Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) |  |
 | Nov 21 |  [Elchanan Mossel (MIT)](http://math.mit.edu/~elmos/)  |  |
 | Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   |  |
@@ -57,6 +57,29 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="blei"></a> David Blei: The Blessings of Multiple Causes
+
+Causal inference from observational data is a vital problem, but it
+comes with strong assumptions. Most methods require that we observe
+all confounders, variables that affect both the causal variables and
+the outcome variables. But whether we have observed all confounders is
+a famously untestable assumption. We describe the deconfounder, a way
+to do causal inference with weaker assumptions than the classical
+methods require.
+
+How does the deconfounder work? While traditional causal methods
+measure the effect of a single cause on an outcome, many modern
+scientific studies involve multiple causes, different variables whose
+effects are simultaneously of interest. The deconfounder uses the
+correlation among multiple causes as evidence for unobserved
+confounders, combining unsupervised machine learning and predictive
+model checking to perform causal inference.  We demonstrate the
+deconfounder on real-world data and simulation studies, and describe
+the theoretical requirements for the deconfounder to provide unbiased
+causal estimates.
+
+This is joint work with Yixin Wang. https://arxiv.org/abs/1805.06826
 
 
 #### <a name="song"></a> Song Mei: Generalization error of linearized neural networks: staircase and double-descent
