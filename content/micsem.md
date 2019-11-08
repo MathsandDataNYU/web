@@ -26,7 +26,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | Aug 13, 12:30pm | [Zhizhen Jane Zhao](http://zhizhenz.ece.illinois.edu/) (UIUC) | [Cryo-Electron Microscopy Image Analysis with Multi-Frequency Vector Diffusion Maps](#jane) | CDS 650 |
 | Aug 29, 12pm | [Jerry Li](https://jerryzli.github.io/) (MSR Redmond) | [Efficient Learning from Untrusted Batches](#jerry) | CDS 650 |
 | Oct 10, 9:30am | [Ramya Korlakai Vinayak](https://ramyakv.github.io/) (University of Washington) | [Learning from Sparse Data](#ramya) | CDS 650 |
-| Nov 14, 10:30am | [Yash Deshpande](https://www.mit.edu/~yash/) (MIT) | [Statistical Inference with Adaptively Collected Data](#yash) | CDS 650 |
+| Nov 14, 12:30pm | [Yash Deshpande](https://www.mit.edu/~yash/) (MIT) | [Statistical Inference with Adaptively Collected Data](#yash) | CDS 650 |
 
 
 #### <a name="yash"></a> Yash Deshpande: Statistical Inference with Adaptively Collected Data
