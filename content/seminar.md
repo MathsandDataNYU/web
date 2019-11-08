@@ -38,8 +38,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) | [Estimating location parameters in entangled single-sample distributions](#loh) |
 | Oct 25 3:30pm |  [Song Mei (Stanford)](http://web.stanford.edu/~songmei/) | [Generalization error of linearized neural networks: staircase and double-descent](#song) |
 | Oct 31 |  |  |
-| Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) | [The Blessings of Multiple Causes](#blei)  |
-| Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) |  |
+| Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) | [The Blessings of Multiple Causes](#blei) |
+| Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) | [Differentiable Ranks and Quantiles using Optimal Transport](#cuturi) |
 | Nov 21 |  [Elchanan Mossel (MIT)](http://math.mit.edu/~elmos/)  |  |
 | Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   |  |
 
@@ -57,6 +57,13 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 ---
 ### Abstracts
+
+#### <a name="cuturi"></a> Marco Cuturi: Differentiable Ranks and Quantiles using Optimal Transport
+
+We propose a framework to sort values that is algorithmically differentiable. We leverage the fact that sorting can be seen as a particular instance of the optimal transport (OT) problem on R, from input values to a target predefined array of sorted values (e.g. 1,2,..., n if the input array has n elements). Building upon this link, we propose generalized ranks, CDFs and quantile operators by varying the size and introducing weights for the target array. We recover differentiable algorithms by adding to the OT problem an entropic regularization, and approximate it using a few Sinkhorn iterations. We call these operators soft-ranks and soft-sort operators. Using the soft-rank operator, we propose a new classification training loss that is a differentiable proxy of the 0/1 loss. Using the soft-sort operator, we propose a new differentiable quantile regression loss. These losses outperform respectively the cross-entropy and the pinball loss in our experiments.
+
+
+
 
 #### <a name="blei"></a> David Blei: The Blessings of Multiple Causes
 
