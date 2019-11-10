@@ -39,7 +39,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Oct 25 3:30pm |  [Song Mei (Stanford)](http://web.stanford.edu/~songmei/) | [Generalization error of linearized neural networks: staircase and double-descent](#song) |
 | Oct 31 |  |  |
 | Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) | [The Blessings of Multiple Causes](#blei) |
-| Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) | [Differentiable Ranks and Quantiles using Optimal Transport](#cuturi) |
+| Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) | [Differentiable Ranks and Quantiles using Optimal Transport](#cuturi) [(video)](http://bit.ly/CDSMaDMarcoCuturi) |
 | Nov 21 |  [Elchanan Mossel (MIT)](http://math.mit.edu/~elmos/)  |  |
 | Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   |  |
 
