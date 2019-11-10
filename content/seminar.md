@@ -17,6 +17,8 @@ Description = ""
 The MaD seminar features leading specialists at the interface
 of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 
+MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the videos are available below.
+
 **Room:** Auditorium Hall 150, Center for Data Science, NYU, [60 5th ave](https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802).
 
 **Time:** 2:00pm-3:00pm, Reception will follow. 
