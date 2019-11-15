@@ -44,6 +44,7 @@ MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the
 | Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) | [Differentiable Ranks and Quantiles using Optimal Transport](#cuturi) [(video)](http://bit.ly/CDSMaDMarcoCuturi) |
 | Nov 21 |  [Elchanan Mossel (MIT)](http://math.mit.edu/~elmos/)  |  |
 | Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   |  |
+| Dec 17 10:30am, CDS 7th floor | [Jean-Paul Laumond](https://homepages.laas.fr/jpl/) |  |
 
 ---
 

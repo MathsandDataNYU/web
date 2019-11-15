@@ -16,6 +16,8 @@ menu = "main"
 
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
+The usual location is CDS 650 at 60 5th ave.
+
 
 
 
