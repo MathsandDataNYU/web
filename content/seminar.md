@@ -44,7 +44,7 @@ MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the
 | Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) | [Differentiable Ranks and Quantiles using Optimal Transport](#cuturi) [(video)](http://bit.ly/CDSMaDMarcoCuturi) |
 | Nov 21 |  [Elchanan Mossel (MIT)](http://math.mit.edu/~elmos/)  |  |
 | Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   |  |
-| Dec 17 10:30am, CDS 7th floor | [Jean-Paul Laumond](https://homepages.laas.fr/jpl/) |  |
+| Dec 17 10:30am, CDS 7th floor | [Jean-Paul Laumond](https://homepages.laas.fr/jpl/) | [Robotics AI: learning versus understanding](#laumond) |
 
 ---
 
@@ -60,6 +60,14 @@ MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the
 
 ---
 ### Abstracts
+
+#### <a name="laumond"></a> Jean-Paul Laumond: Robotics AI: learning versus understanding
+
+Summary: Robotics is a matter of space inversion: how an action expressed in the physical space is translated into the robot sensorimotor space? Performing tasks as parking a car or grasping an object on the floor requires to elucidate or at least control the underlying laws of the physical world. As a first exemple derived from the research in mobile robotics, we will see how the explicit knowledge of the geometry of nonholonomic systems gives rise to efficient and provable algorithms. The second exemple is based on the study of bipedal locomotion: we will see how the law underlying the shape of locomotor trajectories can be elucidated via inverse optimal control approaches. Finally I will conclude on some open problems in robot motion planning and control that would deserve to be revisited in the light of learning approaches.
+
+Bio: Jean-Paul Laumond is a roboticist. He is emeritus researcher at CNRS in Paris (ENS-CNRS-INRIA UMR lab 8548). He is IEEE Fellow and the 2016 recipient of the IEEE Inaba Technical Award for Innovation Leading to Production. He is a member of the French Academy of Technologies and of the French Academy of Sciences.
+
+
 
 #### <a name="cuturi"></a> Marco Cuturi: Differentiable Ranks and Quantiles using Optimal Transport
 
