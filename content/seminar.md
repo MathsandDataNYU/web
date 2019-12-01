@@ -43,7 +43,7 @@ MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the
 | Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) | [The Blessings of Multiple Causes](#blei) |
 | Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) | [Differentiable Ranks and Quantiles using Optimal Transport](#cuturi) [(video)](http://bit.ly/CDSMaDMarcoCuturi) |
 | Nov 21 |  (cancelled)  |  |
-| Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   |  |
+| Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   | [Analyses of gradient methods for the optimization of wide two layer neural networks](#lenaic) |
 | Dec 17 10:30am, CDS 7th floor | [Jean-Paul Laumond](https://homepages.laas.fr/jpl/) | [Robotics AI: learning versus understanding](#laumond) |
 
 ---
@@ -60,6 +60,11 @@ MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the
 
 ---
 ### Abstracts
+
+#### <a name="lenaic"></a> Lenaic Chizat: Analysis of Gradient Methods for the Optimization of wide two layer neural networks
+
+Gradient-based optimization algorithms applied to artificial neural networks with many parameters typically lead to models with good train and test performance. Two lines of theoretical research have recently emerged as attempts to explain this phenomenon: the lazy training and the mean-field analysis. The lazy training analysis studies the situation when a model remains in a small neighborhood of its initialization throughout training and implicitly performs a kernel regression; and the mean-field analysis is a general description of the training dynamics of infinitely wide two-layer neural networks. In this talk, I will present the insights brought by these analyses, their connections, strengths and limitations.
+
 
 #### <a name="laumond"></a> Jean-Paul Laumond: Robotics AI: learning versus understanding
 
