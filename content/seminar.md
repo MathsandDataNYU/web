@@ -29,8 +29,8 @@ MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the
 ### Schedule with Confirmed Speakers
 
 
-| Date        | Speaker       | Title | Live Stream Recording
-| ----------- |:-------------:|:-----------:| ----------- |
+| Date        | Speaker       | Title | Live Stream
+| ----------- |:-------------:|:-----------:|: ----------- :|
 | Sep 5 | [Facundo Memoli (OSU)](https://people.math.osu.edu/memolitechera.1/)  | [Gromov-Wasserstein distances and distributional invariants of datasets](#facundo) | |
 | Sep 19 | [Dustin Mixon (OSU)](https://math.osu.edu/people/mixon.23) |  [SqueezeFit: Label aware dimensionality reduction via semidefinite programming](#dustin) | |
 | Sep 26 |  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/) |    [Optimal storage SDP](#udell)    | |
