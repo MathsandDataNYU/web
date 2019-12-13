@@ -17,7 +17,7 @@ Description = ""
 The MaD seminar features leading specialists at the interface
 of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 
-MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the videos are available below.
+MaD seminars are now recorded and streamed live, starting 11/7/19. Links to the videos are available below.
 
 **Room:** Auditorium Hall 150, Center for Data Science, NYU, [60 5th ave](https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802).
 
@@ -40,7 +40,7 @@ MaD seminars are now recorded and streamed live, starting 11/14/19. Links to the
 | Oct 24 |  [Po-Ling Loh (UW-Madison)](https://homepages.cae.wisc.edu/~loh/) | [Estimating location parameters in entangled single-sample distributions](#loh) | |
 | Oct 25 3:30pm |  [Song Mei (Stanford)](http://web.stanford.edu/~songmei/) | [Generalization error of linearized neural networks: staircase and double-descent](#song) | |
 | Oct 31 |  |  | |
-| Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) | [The Blessings of Multiple Causes](#blei) | |
+| Nov 7 | [David Blei (Columbia)](http://www.cs.columbia.edu/~blei/) | [The Blessings of Multiple Causes](#blei) | [video](http://bit.ly/CDSMaDDavidBlei) |
 | Nov 14 | [Marco Cuturi (Google Brain)](https://marcocuturi.net) | [Differentiable Ranks and Quantiles using Optimal Transport](#cuturi) | [video](http://bit.ly/CDSMaDMarcoCuturi) |
 | Nov 21 |  (cancelled)  |  | |
 | Dec 5 | [Lenaic Chizat (Orsay-Paris Sud)](https://lchizat.github.io)   | [Analyses of gradient methods for the optimization of wide two layer neural networks](#lenaic) | [video](http://bit.ly/CDSMaDLenaicChizat) |
