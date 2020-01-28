@@ -32,7 +32,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Date        | Speaker       | Title | Live Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Jan 23 | Paromita Dubey (UC Davis) | [Fréchet Change Point Detection](#dubey) | |
-| Jan 30 | Yaniv Romano (Stanford) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a02c214-b87c-4d08-b089-ab4a012c6457) |
+| Jan 30 | Yaniv Romano (Stanford) | [Reliability, Equity, and Reproducibility in Modern Machine Learning](#romano) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a02c214-b87c-4d08-b089-ab4a012c6457) |
 | Jan 31 (time TBD) | Yixin Wang (Columbia) | | |
 | Feb 6 | Kaizheng Wang (Princeton) | | |
 | Feb 11 (time TBD) | Ahmed El Alaoui (Stanford) | | |
@@ -65,6 +65,11 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 
 ---
 ### Abstracts
+
+#### <a name="romano"></a> Yaniv Romano: Reliability, Equity, and Reproducibility in Modern Machine Learning
+
+Modern machine learning algorithms have achieved remarkable performance in a myriad of applications, and are increasingly used to make impactful decisions in the hiring process, criminal sentencing, healthcare diagnostics and even to make new scientific discoveries. The use of data-driven algorithms in high-stakes applications is exciting yet alarming: these methods are extremely complex, often brittle, notoriously hard to analyze and interpret. Naturally, concerns have raised about the reliability, fairness, and reproducibility of the output of such algorithms. This talk introduces statistical tools that can be wrapped around any "black-box" algorithm to provide valid inferential results while taking advantage of their impressive performance. We present novel developments in conformal prediction and quantile regression, which rigorously guarantee the reliability of complex predictive models, and show how these methodologies can be used to treat individuals equitably. Next, we focus on reproducibility and introduce an operational selective inference tool that builds upon the knockoff framework and leverages recent progress in deep generative models. This methodology allows for reliable identification of a subset of important features that is likely to explain a phenomenon under-study in a challenging setting where the data distribution is unknown, e.g., mutations that are truly linked to changes in drug resistance.
+
 
 #### <a name="dubey"></a> Paromita Dubey: Fréchet Change Point Detection
 
