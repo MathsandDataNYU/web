@@ -33,12 +33,9 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Jan 23 | Paromita Dubey (UC Davis) | [Fréchet Change Point Detection](#dubey) | |
 | Jan 30 | Yaniv Romano (Stanford) | [Reliability, Equity, and Reproducibility in Modern Machine Learning](#romano) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a02c214-b87c-4d08-b089-ab4a012c6457) |
-| Jan 31 (time TBD) | Yixin Wang (Columbia) | | |
 | Feb 6 | Kaizheng Wang (Princeton) | | |
-| Feb 11 (time TBD) | Ahmed El Alaoui (Stanford) | | |
 | Feb 13 | Laure Zanna (NYU) | | |
 | Feb 20 | Yash Deshpande (MIT) | | |
-| Feb 25 (time TBD) | Ashwin Pananjady (UC Berkeley) | | |
 | Feb 27 | Becca Willett (UChicago) | | |
 | Mar 5 | Stefanie Jegelka (MIT) | | |
 | Mar 12 | Samory Kpotufe (Columbia) | | |
@@ -47,6 +44,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Apr 2 | Flori Bunea (Cornell) | | |
 | Apr 9 | Yurii Nesterov (UCLouvain) | | |
 | Apr 23 | Jiaming Xu (Duke) | | |
+| Apr 30 | Sham Kakade (UW) | | |
 
 
 ---
