@@ -16,15 +16,23 @@ title = "Reading Groups"
 
 The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
 
-## Current (Fall 2019)
 
-We are running a general group meeting, on the broad theme of "statistical and computational tradeoffs in high-dimensional inference."
+## Current (Spring 2020)
 
-- Information and our schedule are available [here](https://docs.google.com/document/d/1JkM4BRXnrnw7rUJJNVMFldLyYV9_JpSOm8jtZshfWZ4/edit?usp=sharing).
+We are running a general group meeting, on the broad theme of "Information Theory, Old and New."
+
+- Informations and schedule are available [here](https://docs.google.com/document/d/1ImY0mgDkimMS6C1YWE48LQNbC4lWxTAZ9p35rA3HclY/edit?usp=sharing)
+
 
 ---
 
 ## Previous
+
+## Fall 2019
+
+We ran a general group meeting, on the broad theme of "statistical and computational tradeoffs in high-dimensional inference."
+
+- Information and our schedule are available [here](https://docs.google.com/document/d/1JkM4BRXnrnw7rUJJNVMFldLyYV9_JpSOm8jtZshfWZ4/edit?usp=sharing).
 
 #### Spring 2019
 
