@@ -33,7 +33,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Jan 23 | Paromita Dubey (UC Davis) | [Fréchet Change Point Detection](#dubey) | |
 | Jan 30 | Yaniv Romano (Stanford) | [Reliability, Equity, and Reproducibility in Modern Machine Learning](#romano) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a02c214-b87c-4d08-b089-ab4a012c6457) |
-| Feb 6 | Kaizheng Wang (Princeton) | | |
+| Feb 6 | Kaizheng Wang (Princeton) | [Latent variable models: spectral methods and non-convex optimization](#wang) | |
 | Feb 13 | Laure Zanna (NYU) | | |
 | Feb 20 | Yash Deshpande (MIT) | | |
 | Feb 27 | Becca Willett (UChicago) | | |
@@ -63,6 +63,13 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 
 ---
 ### Abstracts
+
+#### <a name="wang"></a> Kaizheng Wang: Latent variable models: spectral methods and non-convex optimization
+
+Latent variable models lay the statistical foundation for data science problems with unstructured, incomplete and heterogeneous information. For the sake of computational efficiency, heuristic algorithms are proposed to extract the latent low-dimensional structures for downstream tasks. Despite their huge success in practice, theoretical understanding is lagging far behind and that hinders further advancement. In this talk, I will first show an L_p theory of eigenvector analysis that yields optimal recovery guarantees for spectral methods in many challenging problems. Then I will present a general framework for clustering based on non-convex optimization, and study its theoretical guarantees under statistical models. The results find applications in dimensionality reduction, mixture models, network analysis, recommendation systems, ranking and beyond.
+
+
+
 
 #### <a name="romano"></a> Yaniv Romano: Reliability, Equity, and Reproducibility in Modern Machine Learning
 
