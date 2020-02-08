@@ -36,15 +36,15 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Feb 6 | Kaizheng Wang (Princeton) | [Latent variable models: spectral methods and non-convex optimization](#wang) | |
 | Feb 13 | Laure Zanna (NYU) | | |
 | Feb 20 | Yash Deshpande (MIT) | | |
-| Feb 27 | Becca Willett (UChicago) | | |
-| Mar 5 | Stefanie Jegelka (MIT) | | |
-| Mar 12 | Samory Kpotufe (Columbia) | | |
+| Feb 27 | Becca Willett (UChicago) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed4a3e7d-1104-4b87-a21f-ab5a012d4f1e) |
+| Mar 5 | Stefanie Jegelka (MIT) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ab8b5e-ff0d-425f-95c7-ab5a012d992d) |
+| Mar 12 | Samory Kpotufe (Columbia) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=992d3cfe-673f-47d9-b07d-ab5a012dd905) |
 | Mar 19 | (spring break) | | |
-| Mar 26 | Weijie Su (UPenn) | | |
-| Apr 2 | Flori Bunea (Cornell) | | |
-| Apr 9 | Yurii Nesterov (UCLouvain) | | |
-| Apr 23 | Jiaming Xu (Duke) | | |
-| Apr 30 | Sham Kakade (UW) | | |
+| Mar 26 | Weijie Su (UPenn) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9995d5ec-341a-4de9-af39-ab5a012e0cf9) |
+| Apr 2 | Flori Bunea (Cornell) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8635aae-9e47-44d5-bef1-ab5a012e61a7) |
+| Apr 9 | Yurii Nesterov (UCLouvain) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7afc0e0-2db7-447c-aa9a-ab5a012e9490) |
+| Apr 23 | Jiaming Xu (Duke) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fecca16-ca95-4ff4-8e4a-ab5a012ec4ef) |
+| Apr 30 | Sham Kakade (UW) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0156958e-5254-4489-849a-ab5a012ef6e6) |
 
 
 ---
