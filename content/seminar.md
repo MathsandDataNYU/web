@@ -34,7 +34,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Jan 23 | Paromita Dubey (UC Davis) | [Fréchet Change Point Detection](#dubey) | |
 | Jan 30 | Yaniv Romano (Stanford) | [Reliability, Equity, and Reproducibility in Modern Machine Learning](#romano) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a02c214-b87c-4d08-b089-ab4a012c6457) |
 | Feb 6 | Kaizheng Wang (Princeton) | [Latent variable models: spectral methods and non-convex optimization](#wang) | |
-| Feb 13 | Laure Zanna (NYU) | | |
+| Feb 13 | Laure Zanna (NYU) | [Blending machine learning and physics to improve climate modeling](#zanna) | |
 | Feb 20 | Yash Deshpande (MIT) | | |
 | Feb 27 | Becca Willett (UChicago) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed4a3e7d-1104-4b87-a21f-ab5a012d4f1e) |
 | Mar 5 | Stefanie Jegelka (MIT) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ab8b5e-ff0d-425f-95c7-ab5a012d992d) |
@@ -63,6 +63,15 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 
 ---
 ### Abstracts
+
+#### <a name="zanna"></a> Laure Zanna: Blending machine learning and physics to improve climate modeling
+
+Numerical simulations used for weather and climate predictions solve approximations of the governing laws of fluid motions. The computational cost of these simulations limits the accuracy of the predictions. Uncertainties in the simulations and predictions ultimately originate from the poor or lacking representation of processes, such as turbulence, that are not resolved on the numerical grid of global climate models. 
+I will show that machine learning algorithms with imposed physical constraints are good candidates to improve the representation of processes that occur below the scales resolved by global models. 
+Specifically, I will propose new representations of ocean turbulence derived using relevance vector machines and convolutional neural networks trained on data from high-resolution idealized simulations. 
+The new models of turbulent processes are interpretable and/or encapsulate physics, and lead to improved simulations of the ocean.  Our results simultaneously open the door to the discovery of new physics from data and the improvement of numerical simulations of oceanic and atmospheric flows.
+
+
 
 #### <a name="wang"></a> Kaizheng Wang: Latent variable models: spectral methods and non-convex optimization
 
