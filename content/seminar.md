@@ -35,7 +35,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Jan 30 | Yaniv Romano (Stanford) | [Reliability, Equity, and Reproducibility in Modern Machine Learning](#romano) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a02c214-b87c-4d08-b089-ab4a012c6457) |
 | Feb 6 | Kaizheng Wang (Princeton) | [Latent variable models: spectral methods and non-convex optimization](#wang) | |
 | Feb 13 | Laure Zanna (NYU) | [Blending machine learning and physics to improve climate modeling](#zanna) | |
-| Feb 20 | Yash Deshpande (MIT) | | |
+| Feb 20 | Yash Deshpande (MIT) | [Two problems in modern statistical inference](#deshpande) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d620d7c5-32f4-4e93-84ed-ab4a012db7a8) |
 | Feb 27 | Rebecca Willett (UChicago) | [Learning to Solve Inverse Problems in Imaging](#willett) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed4a3e7d-1104-4b87-a21f-ab5a012d4f1e) |
 | Mar 5 | Stefanie Jegelka (MIT) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ab8b5e-ff0d-425f-95c7-ab5a012d992d) |
 | Mar 12 | Samory Kpotufe (Columbia) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=992d3cfe-673f-47d9-b07d-ab5a012dd905) |
@@ -91,19 +91,16 @@ and demonstrate empirically that the trained Neumann network has the
 form predicted by theory. This is joint work with Davis Gilton and
 Greg Ongie.
 
-Rebecca Willett is a Professor of Statistics and Computer Science at
-the University of Chicago. Her research is focused on machine
-learning, signal processing, and large-scale data science. She
-completed her PhD in Electrical and Computer Engineering at Rice
-University in 2005 and was an Assistant then tenured Associate
-Professor of Electrical and Computer Engineering at Duke University
-from 2005 to 2013. She was an Associate Professor of Electrical and
-Computer Engineering, Harvey D. Spangler Faculty Scholar, and Fellow
-of the Wisconsin Institutes for Discovery at the University of
-Wisconsin-Madison from 2013 to 2018. Willett received the National
-Science Foundation CAREER Award in 2007, was a member of the DARPA
-Computer Science Study Group, and received an Air Force Office of
-Scientific Research Young Investigator Program award in 2010.
+
+
+#### <a name="deshpande"></a> Yash Deshpande: Two problems in modern statistical inference
+
+Rigorously and robustly quantifying uncertainty in modern data analysis settings is an outstanding open challenge. In this talk I will consider two reasons why  The first is the use of non-linear, and often optimization-based estimators necessitated by high dimensional data. The second is that data collection is often adaptive – the insight gleaned from prior data informs and influences the data collected in the future. These non-trivial correlations in even simple estimates complicate and invalidate conclusions from classical statistical theory.
+
+The first part of this talk will center on contextual stochastic block models, as a canonical example of a high-dimensional estimation problem. I will demonstrate how ideas from statistical physics allow to obtain optimal estimation and testing results, via a sharp quantification of underlying uncertainty.
+
+In the second part of the talk, I will focus on batched bandit algorithms, as exemplar of adaptively collected data. I will discuss online debiasing, an algorithmic procedure that ‘debiases’ estimators. Following debiasing, uncertainty measures like confidence intervals and p-values can be obtained straightforwardly.
+
 
 
 #### <a name="zanna"></a> Laure Zanna: Blending machine learning and physics to improve climate modeling
