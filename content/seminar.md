@@ -37,7 +37,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Feb 13 | Laure Zanna (NYU) | [Blending machine learning and physics to improve climate modeling](#zanna) | |
 | Feb 20 | Yash Deshpande (MIT) | [Two problems in modern statistical inference](#deshpande) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d620d7c5-32f4-4e93-84ed-ab4a012db7a8) |
 | Feb 27 | Rebecca Willett (UChicago) | [Learning to Solve Inverse Problems in Imaging](#willett) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed4a3e7d-1104-4b87-a21f-ab5a012d4f1e) |
-| Mar 5 | Stefanie Jegelka (MIT) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ab8b5e-ff0d-425f-95c7-ab5a012d992d) |
+| Mar 5 | Stefanie Jegelka (MIT) | [Representation and Learning in Graph Neural Networks](#jegelka) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ab8b5e-ff0d-425f-95c7-ab5a012d992d) |
 | Mar 12 | Samory Kpotufe (Columbia) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=992d3cfe-673f-47d9-b07d-ab5a012dd905) |
 | Mar 19 | (spring break) | | |
 | Mar 26 | Weijie Su (UPenn) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9995d5ec-341a-4de9-af39-ab5a012e0cf9) |
@@ -63,6 +63,16 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 
 ---
 ### Abstracts
+
+
+#### <a name="jegelka"></a> Stefanie Jegelka: Representation and Learning in Graph Neural Networks
+
+Graph Neural Networks (GNNs) have become a popular tool for learning representations of graph-structured inputs, with applications in computational chemistry, recommendation, pharmacy, reasoning, and many other areas. 
+After a brief introduction to Graph Neural Networks, this talk will show recent results on representational power and learning in GNNs. First, we study the discriminative power of message passing type networks as a function of architecture choices, and, in the process, find that some popular architectures cannot learn to distinguish certain simple graph structures. Second, while many network architectures can represent a task, some learn it better than others. At the example of reasoning tasks, We formalize the interaction of the network architecture and the structure of the task, and probe its effect on learning. Third, we analyze learning via new generalization bounds for GNNs.
+
+This talk is based on joint work with Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Weihua Hu, Jure Leskovec, Vikas Garg and Tommi Jaakkola.
+
+
 
 #### <a name="willett"></a> Rebecca Willett: Learning to Solve Inverse Problems in Imaging
 
