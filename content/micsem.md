@@ -16,7 +16,21 @@ menu = "main"
 
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
-The usual location is CDS 650 at 60 5th ave.
+
+
+### Schedule Fall 2020
+
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| Mar 6, 2:30pm | Matthew Brennan (MIT) | [Reducibility and Statistical-Computational Gaps from Secret Leakage](#brennan) | CDS 7th floor |
+
+#### <a name="brennan"></a> Matthew Brennan: Reducibility and Statistical-Computational Gaps from Secret Leakage
+
+Inference problems with conjectured statistical-computational gaps are ubiquitous throughout modern statistics, computer science and statistical physics. While there has been success evidencing these gaps from the failure of restricted classes of algorithms, progress towards a more traditional reduction-based approach to computational complexity in statistical inference has been limited. Existing reductions have largely been limited to inference problems with similar structure -- primarily mapping among problems representable as a sparse submatrix signal plus a noise matrix, which is similar to the common starting hardness assumption of planted clique.
+
+The insight in this work is that a slight generalization of the planted clique conjecture -- secret leakage planted clique gives rise to a variety of new average-case reduction techniques, yielding a web of reductions among problems with very different structure. From generalizations of the planted clique conjecture to specific forms of secret leakage, we deduce tight statistical-computational tradeoffs for a diverse range of problems including robust sparse mean estimation, mixtures of sparse linear regressions, robust sparse linear regression, tensor PCA, variants of dense k-block stochastic block models, negatively correlated sparse PCA, semirandom planted dense subgraph, detection in hidden partition models and a universality principle for learning sparse mixtures. Our techniques also reveal novel connections to combinatorial designs and to random matrix theory. This work gives the first evidence that an expanded set of hardness assumptions, such as for secret leakage planted clique, may be a key first step towards a more complete theory of reductions among statistical problems.
+
+This is based on joint work with Guy Bresler.
 
 
 
