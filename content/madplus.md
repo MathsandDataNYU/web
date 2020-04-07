@@ -9,7 +9,7 @@ Categories = [
 ]
 menu = "main"
 date = "2016-12-22T14:45:56-05:00"
-title = "the MaD+ Seminar"
+title = "the MAD+ Seminar"
 Description = ""
 
 +++
@@ -22,31 +22,33 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 MaD seminars are recorded and streamed live. Links to the videos are available below.
 
-**Zoom Link: TBD**
 
 ### Schedule with Confirmed Speakers
 
 
-| Date        | Speaker       | Title | Live Stream
+| Date        | Speaker       | Title | Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
-|  | Yurii Nesterov (UCLouvain) | |  |
-|  | Sham Kakade (UW) | |  |
+| 3/25 | Jon Niles-Weed (NYU) | [Matrix Concetration for Products](#jon) | [Zoom Meeting](https://ethz.zoom.us/j/631698662) |
+| 4/1 | Weinan E (Princeton) | [A Mathematical Perspective of Machine Learning](#weinan) | [Zoom Meeting](https://ethz.zoom.us/j/776255333) |
+| 4/8 | Philippe Rigollet (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) |
 
 
----
-
-[Schedule Fall 2019](https://mathsanddatanyu.github.io/website/seminar_fall2019/)
-
-[Schedule Spring 2019](https://mathsanddatanyu.github.io/website/seminar_spring2019/)
-
-[Schedule Fall 2018](https://mathsanddatanyu.github.io/website/seminar_fall2018/)
-
-[Schedule Spring 2018](https://mathsanddatanyu.github.io/website/seminar_spring2018/)
-
-[Schedule Fall 2017](https://mathsanddatanyu.github.io/website/seminar_fall2017/)
-
-[Schedule Spring 2017](https://mathsanddatanyu.github.io/website/seminar_spring2017/)
-
----
 ### Abstracts
+
+#### <a name="jon"></a> Jon Niles-Weed: Matrix Concentration for Products
+
+We develop nonasymptotic concentration bounds for products of independent random matrices. Such products arise in the study of stochastic algorithms, linear dynamical systems, and random walks on groups. Our bounds exactly match those available for scalar random variables and continue the program, initiated by Ahlswede-​Winter and Tropp, of extending familiar concentration bounds to the noncommutative setting. Our proof technique relies on geometric properties of the Schatten trace class. Joint work with D. Huang, J. A. Tropp, and R. Ward.
+
+
+#### <a name="weinan"></a> Weinan E: A Mathematical Perspective of Machine Learning
+
+The heart of modern machine learning is the approximation of high dimensional functions. Traditional approaches, such as approximation by piecewise polynomials, wavelets, or other linear combinations of fixed basis functions, suffer from the curse of dimensionality. We will discuss representations and approximations that overcome this difficulty, as well as gradient flows that can be used to find the optimal approximation. We will see that at the continuous level, machine learning can be formulated as a series of reasonably nice variational and PDE-​like problems. Modern machine learning models/algorithms, such as the random feature and shallow/deep neural network models, can be viewed as special discretizations of such continuous problems. At the theoretical level, we will present a framework that is suited for analyzing machine learning models and algorithms in high dimension, and present results that are free of the curse of dimensionality. Finally, we will discuss the fundamental reasons that are responsible for the success of modern machine learning, as well as the subtleties and mysteries that still remain to be understood
+
+
+#### <a name="rigollet"></a> Philippe Rigollet: Statistical and Computational aspects of Wasserstein Barycenters
+
+The notion of average is central to most statistical methods. In this talk we study a generalization of this notion over the non-​Euclidean space of probability measures equipped with a certain Wasserstein distance. This generalization is often called Wasserstein Barycenters and empirical evidence suggests that these barycenters allow to capture interesting notions of averages in graphics, data assimilation and morphometrics. However the statistical (rates of convergence) and computational (efficient algorithms) for these Wasserstein barycenters are largely unexplored. The goal of this talk is to review two recent results: 1. Fast rates of convergence for empirical barycenters in general geodesic spaces, and, 2. Provable guarantees for gradient descent and stochastic gradient descent to compute Wasserstein barycenters. Both results leverage geometric aspects of optimal transport. Based on joint works (arXiv:1908.00828, arXiv:2001.01700) with Chewi, Le Gouic, Maunu, Paris, and Stromme.
+
+
+
 
