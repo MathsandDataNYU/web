@@ -16,7 +16,7 @@ Description = ""
 
 We are excited to announce the MaD+ (math and data plus) seminar, jointly organized between NYU and [ETH](https://people.math.ethz.ch/~abandeira/). It is now a virtual seminar series, and depending on logistics and interest potentially evolve to a multi-location seminar once the world returns to normal (with talks hosted in one of the locations, and streamed). The topics will be in line with the physical MaD seminar hosted at the Center for Data Science and the Courant Institute (NYU). We took inspiration from the fantastic virtual seminar [TCS+](https://sites.google.com/site/plustcs/) from our friends in Theoretical Computer Science.  
 
-This semester it runs on Wednesdays in two time slots (each week one time slot) 4pm CET (10am EST) and and 2pm EST (8pm CET), in an attempt to accommodate the various working hours of more researchers around the world.
+This semester it runs on Wednesdays in two time slots (each week one time slot) 4pm CET (10am EST) and and 2pm EST (8pm CET), in an attempt to accommodate the various working hours of more researchers around the world. Stay tuned for more great names that will be speaking this semester!
 
 The MaD seminar features leading specialists at the interface
 of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
