@@ -1,9 +1,0 @@
-theme = "hyde"
-languageCode = "en-us"
-baseurl = "http://mad.cds.nyu.edu/"
-title = "Math and Data"
-
-[params]
-	description = "Center for Data Science and Courant Institute, NYU"
-	Author = "JB"
-	##disqusShortname = "Joan"
