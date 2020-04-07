@@ -19,6 +19,7 @@ date = "2016-12-22T14:48:45-05:00"
 ## Core
 
 <img style="float: left;" src="../../img/joan.png" height="90" style="border:4px solid white;">
+
 #### [Joan Bruna](http://www.cims.nyu.edu/~bruna/) 
 Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).     
 <br/>     
