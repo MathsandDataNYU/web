@@ -31,7 +31,6 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data).
 | 3/25, 10am EST | Jon Niles-Weed (NYU) | [Matrix Concetration for Products](#jon) | [Zoom Meeting](https://ethz.zoom.us/j/631698662) |
 | 4/1, 10am EST | Weinan E (Princeton) | [A Mathematical Perspective of Machine Learning](#weinan) | [Zoom Meeting](https://ethz.zoom.us/j/776255333) |
 | 4/8, 10am EST | Philippe Rigollet (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) |
-| TBA | Emmanuel Candes (Stanford) | TBA | | 
 | TBA | Lenka Zdeborova (CNRS) | TBA | |
 | 5/20, 10am EST | Francis Bach (INRIA/ENS) | TBA | |
 
