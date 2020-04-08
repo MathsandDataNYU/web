@@ -14,12 +14,10 @@ Description = ""
 
 +++
 
-We are excited to announce the MaD+ (math and data plus) seminar, jointly organized between NYU and [ETH](https://people.math.ethz.ch/~abandeira/). It is now a virtual seminar series, and depending on logistics and interest potentially evolve to a multi-location seminar once the world returns to normal (with talks hosted in one of the locations, and streamed). The topics will be in line with the physical MaD seminar hosted at the Center for Data Science and the Courant Institute (NYU). We took inspiration from the fantastic virtual seminar [TCS+](https://sites.google.com/site/plustcs/) from our friends in Theoretical Computer Science.  
+We are excited to announce the MaD+ (math and data plus) seminar, jointly organized between NYU and [ETH](https://people.math.ethz.ch/~abandeira/). It is now a virtual seminar series, and depending on logistics and interest potentially evolve to a multi-location seminar once the world returns to normal (with talks hosted in one of the locations, and streamed). The topics will be in line with the physical MaD seminar hosted at the Center for Data Science, which features leading specialists at the interface
+of Applied Mathematics, Statistics and Machine Learning. We took inspiration from the fantastic virtual seminar [TCS+](https://sites.google.com/site/plustcs/) from our friends in Theoretical Computer Science.  
 
 This semester it runs on Wednesdays in two time slots (each week one time slot) 4pm CET (10am EST) and and 2pm EST (8pm CET), in an attempt to accommodate the various working hours of more researchers around the world. Stay tuned for more great names that will be speaking this semester!
-
-The MaD seminar features leading specialists at the interface
-of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 
 MaD seminars are recorded and streamed live. Links to the videos are available below.
 You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data). 
@@ -33,7 +31,9 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data).
 | 3/25, 10am EST | Jon Niles-Weed (NYU) | [Matrix Concetration for Products](#jon) | [Zoom Meeting](https://ethz.zoom.us/j/631698662) |
 | 4/1, 10am EST | Weinan E (Princeton) | [A Mathematical Perspective of Machine Learning](#weinan) | [Zoom Meeting](https://ethz.zoom.us/j/776255333) |
 | 4/8, 10am EST | Philippe Rigollet (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) |
-
+| TBA | Emmanuel Candes (Stanford) | TBA | | 
+| TBA | Lenka Zdeborova (CNRS) | TBA | |
+| 5/20, 10am EST | Francis Bach (INRIA/ENS) | TBA | |
 
 ### Abstracts
 
