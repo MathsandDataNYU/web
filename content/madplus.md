@@ -31,9 +31,12 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data).
 | 3/25, 10am EST | [Jon Niles-Weed](https://www.jonathannilesweed.com) (NYU) | [Matrix Concetration for Products](#jon) | [Zoom Meeting](https://ethz.zoom.us/j/631698662) |
 | 4/1, 10am EST | [Weinan E](https://web.math.princeton.edu/~weinan/) (Princeton) | [A Mathematical Perspective of Machine Learning](#weinan) | [Zoom Meeting](https://ethz.zoom.us/j/776255333) |
 | 4/8, 10am EST | [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) |
+| 4/22, 10am EST | [David Gamarnik](http://www.mit.edu/~gamarnik/home.html) | [Overlap Gap Property: a Provable Barrier to Fast Optimization in Probabilistic Combinatorial Structures](#gamarnick) | [Zoom Meeting]() | 
 | TBA | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | TBA | |
 | TBA | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | TBA | |
 | 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | TBA | |
+| 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) | TBA | |
+
 
 ### Abstracts
 
@@ -51,6 +54,11 @@ The heart of modern machine learning is the approximation of high dimensional fu
 
 The notion of average is central to most statistical methods. In this talk we study a generalization of this notion over the non-​Euclidean space of probability measures equipped with a certain Wasserstein distance. This generalization is often called Wasserstein Barycenters and empirical evidence suggests that these barycenters allow to capture interesting notions of averages in graphics, data assimilation and morphometrics. However the statistical (rates of convergence) and computational (efficient algorithms) for these Wasserstein barycenters are largely unexplored. The goal of this talk is to review two recent results: 1. Fast rates of convergence for empirical barycenters in general geodesic spaces, and, 2. Provable guarantees for gradient descent and stochastic gradient descent to compute Wasserstein barycenters. Both results leverage geometric aspects of optimal transport. Based on joint works (arXiv:1908.00828, arXiv:2001.01700) with Chewi, Le Gouic, Maunu, Paris, and Stromme.
 
+
+#### <a name="gamarnick"></a> David Gamarnik: Overlap Gap Property: a Provable Barrier to Fast Optimization in Probabilistic Combinatorial Structures 
+
+Many combinatorial optimization problems defined on random instances exhibit an apparent gap between the optimal values, which can be computed by non-constructive means, and the best values achievable by fast (polynomial time) algorithms. Through a combined effort of mathematicians, computer scientists and statistical physicists, it became apparent that a potential barrier for designing fast algorithms bridging this gap is an intricate topology of nearly optimal solutions, in particular the presence of the Overlap Gap Property (OGP), which we will introduce in this talk. We will discuss how for many such problems the onset of the OGP phase transition introduces indeed a provable barrier to a broad class of polynomial time algorithms. Examples of such problems include the problem of finding a largest independent set of a random graph, finding a largest cut in a random hypergrah, the problem of finding a ground state of a p-spin model, and also many problems in high-dimensional statistics field. In this talk we will demonstrate in particular why OGP is a barrier for three classes of algorithms designed to find a near ground state in p-spin models arising in the field of spin glass theory: Approximate Message Passing algorithms, algorithms based on low-degree polynomial and Langevin dynamics.
+Joint work with Aukosh Jagannath and Alex Wein
 
 
 
