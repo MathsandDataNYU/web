@@ -35,7 +35,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data).
 | TBA | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | TBA | |
 | 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | TBA | |
 | 5/27 | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | TBA | |
-| 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) | TBA | |
+| 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | TBA | |
 
 
 ### Abstracts
