@@ -32,9 +32,9 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data).
 | 4/1, 10am EST | [Weinan E](https://web.math.princeton.edu/~weinan/) (Princeton) | [A Mathematical Perspective of Machine Learning](#weinan) | [Zoom Meeting](https://ethz.zoom.us/j/776255333) |
 | 4/8, 10am EST | [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) |
 | 4/22, 10am EST | [David Gamarnik](http://www.mit.edu/~gamarnik/home.html) | [Overlap Gap Property: a Provable Barrier to Fast Optimization in Probabilistic Combinatorial Structures](#gamarnick) | [Zoom Meeting]() | 
-| TBA | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | TBA | |
 | TBA | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | TBA | |
 | 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | TBA | |
+| 5/27 | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | TBA | |
 | 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) | TBA | |
 
 
