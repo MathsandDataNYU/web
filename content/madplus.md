@@ -20,7 +20,7 @@ of Applied Mathematics, Statistics and Machine Learning. We took inspiration fro
 This semester it runs on Wednesdays in two time slots (each week one time slot) 4pm CET (10am EST) and and 2pm EST (8pm CET), in an attempt to accommodate the various working hours of more researchers around the world. Stay tuned for more great names that will be speaking this semester!
 
 MaD seminars are recorded and streamed live. Links to the videos are available below.
-You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), and to our *Youtube channel* [here](https://www.youtube.com/channel/UCHmajwTZztZlwyE322hpl7Q). 
+You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), and to our **Youtube channel** [here](https://www.youtube.com/channel/UCHmajwTZztZlwyE322hpl7Q). 
 
 
 ### Schedule with Confirmed Speakers
