@@ -33,7 +33,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 4/8, 10am EST | [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) |
 | 4/22, 10am EST | [David Gamarnik](http://www.mit.edu/~gamarnik/home.html) (MIT) | [Overlap Gap Property: a Provable Barrier to Fast Optimization in Probabilistic Combinatorial Structures](#gamarnick) | [Zoom Meeting]() | 
 | 4/29, 10am EST | [Sara Van de Geer](https://people.math.ethz.ch/~vsara/) (ETH Zurich) | [Total Variation Regularization](#sara) | [Zoom](https://ethz.zoom.us/j/96038993793) |
-| 5/12 2pm EST | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | [Reliable Predictions? Equitable Treatment? Some recent progress in predictive inference](#candes) | |
+| 5/13 2pm EST | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | [Reliable Predictions? Equitable Treatment? Some recent progress in predictive inference](#candes) | |
 | 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | TBA | |
 | 5/27 | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | TBA | |
 | 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | TBA | |
