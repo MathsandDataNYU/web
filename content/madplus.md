@@ -34,7 +34,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 4/22, 10am EST | [David Gamarnik](http://www.mit.edu/~gamarnik/home.html) (MIT) | [Overlap Gap Property: a Provable Barrier to Fast Optimization in Probabilistic Combinatorial Structures](#gamarnick) | [Zoom Meeting]() | 
 | 4/29, 10am EST | [Sara Van de Geer](https://people.math.ethz.ch/~vsara/) (ETH Zurich) | [Total Variation Regularization](#sara) | [Zoom](https://ethz.zoom.us/j/96038993793) |
 | 5/13 2pm EST | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | [Reliable Predictions? Equitable Treatment? Some recent progress in predictive inference](#candes) |[Zoom](https://nyu.zoom.us/j/94831901604) |
-| 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | TBA | |
+| 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | [On the Effectiveness of Richardson Extrapolation in Machine Learning](#francis) | [Zoom]() |
 | 5/27 | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | TBA | |
 | 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | TBA | |
 | 6/10 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | TBA | |
@@ -70,4 +70,10 @@ Let Y be a n-dimensional vector of independent observations with unknown mean f^
 #### <a name="candes"></a> Emmanuel Candes: Reliable predictions? Equitable treatment? Some recent progress in predictive inference 
 
 Recent progress in machine learning (ML) provides us with many potentially effective tools to learn from datasets of ever increasing sizes and make useful predictions. How do we know that these tools can be trusted in critical and high-sensitivity systems? If a learning algorithm predicts the GPA of a prospective college applicant, what guarantees do I have concerning the accuracy of this prediction? How do we know that it is not biased against certain groups of applicants? This talk introduces statistical ideas to ensure that the learned models satisfy some crucial properties, especially reliability and fairness (in the sense that the models need to apply to individuals in an equitable manner). To achieve these important objectives, we shall not ‘open up the black box’ and try understanding its underpinnings. Rather we discuss broad methodologies — conformal inference, quantile regression, the Jackknife+ — that can be wrapped around any black box as to produce results that can be trusted and are equitable.
+
+
+#### <a name="francis"></a> Francis Bach: On the effectiveness of Richardson Extrapolation in Machine Learning
+
+Richardson extrapolation is a classical technique from numerical analysis that can improve the approximation error of an estimation method by combining linearly several estimates obtained from different values of one of its hyperparameters, without the need to know in details the inner structure of the original estimation method. The main goal of this presentation is to study when Richardson extrapolation can be used within machine learning. We identify two situations where Richardson interpolation can be useful: (1) when the hyperparameter is the number of iterations of an existing iterative optimization algorithm, with applications to averaged gradient descent and Frank-Wolfe algorithms, and (2) when it is a regularization parameter, with applications to Nesterov smoothing techniques for minimizing non-smooth functions and ridge regression. In all these cases, I will show that extrapolation techniques come with no significant loss in performance, but with sometimes strong gains.
+
 
