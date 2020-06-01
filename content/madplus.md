@@ -36,7 +36,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 5/13 2pm EST | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | [Reliable Predictions? Equitable Treatment? Some recent progress in predictive inference](#candes) |[Zoom](https://nyu.zoom.us/j/94831901604) |
 | 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | [On the Effectiveness of Richardson Extrapolation in Machine Learning](#francis) | [Zoom](https://nyu.zoom.us/j/92395523426) |
 | 5/27, 10am EST | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | [Understanding machine learning via exactly solvable statistical physics models](#lenka) | [Zoom](https://nyu.zoom.us/j/95581683443) |
-| 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | TBA | |
+| 6/3, 10am EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | Diffusion Methods in Manifold and Fibre Bundle Learning | [Zoom}(https://nyu.zoom.us/j/99762313178) |
 | 6/10 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | TBA | |
 | 6/17 10am EST | [Aviv Regev](https://www.broadinstitute.org/regev-lab) (Broad Institute, MIT/Harvard) | TBA | |
 
