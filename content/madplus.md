@@ -39,7 +39,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 6/3, 2pm EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | [Diffusion Methods in Manifold and Fibre Bundle Learning](#ingrid) | [Zoom](https://nyu.zoom.us/j/99762313178) |
 | ~~6/10 10am EST~~ *6/24 10am EST* | [**BLACK LIVES MATTER**](#blm) |  | |
 | 6/17 10am EST | [Aviv Regev](https://www.broadinstitute.org/regev-lab) (Broad Institute, MIT/Harvard) | TBA | |
-| ~~6/10 10am EST~~ *6/24 10am EST* | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | |
+| 6/24 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | |
 
 
 
