@@ -37,8 +37,10 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | [On the Effectiveness of Richardson Extrapolation in Machine Learning](#francis) | [Zoom](https://nyu.zoom.us/j/92395523426) |
 | 5/27, 10am EST | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | [Understanding machine learning via exactly solvable statistical physics models](#lenka) | [Zoom](https://nyu.zoom.us/j/95581683443) |
 | 6/3, 2pm EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | [Diffusion Methods in Manifold and Fibre Bundle Learning](#ingrid) | [Zoom](https://nyu.zoom.us/j/99762313178) |
-| 6/10 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | TBA | |
+| ~~6/10 10am EST~~ *6/24 10am EST* | [**BLACK LIVES MATTER**](#blm) |  | |
 | 6/17 10am EST | [Aviv Regev](https://www.broadinstitute.org/regev-lab) (Broad Institute, MIT/Harvard) | TBA | |
+| ~~6/10 10am EST~~ *6/24 10am EST* | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | |
+
 
 
 ### Abstracts
@@ -86,4 +88,20 @@ The affinity between statistical physics and machine learning has a long history
 #### <a name="ingrid"></a> Ingrid Daubechies: Diffusion Methods in Manifold and Fibre Bundle Learning
 
 Diffusion methods help understand and denoise data sets; when there is additional structure (as is often the case), one can use (and get additional benefit from) a fiber bundle model.
+
+
+#### <a name="blm"></a> BLACK LIVES MATTER 
+
+The MaD+ seminar is postponed in support of the [Strike for Black Lives](https://www.particlesforjustice.org/). We encourage participants to use today to focus on anti-racist education and advocacy, to help combat anti-Blackness in academia and elsewhere. 
+
+#### <a name="andrea"></a> Andrea Montanari: The generalization error of overparametrized models: Insights from exact asymptotics
+
+In a canonical supervised learning setting, we are given n data samples, each comprising a feature vector and
+a label, or response variable. We are asked to learn a function f that can predict the the label associated
+to a new --unseen-- feature vector. How is it possible that the model learnt from observed data generalizes to
+new points? Classical learning theory assumes that data points are drawn i.i.d. from a common distribution and argue
+that this phenomenon is a consequence of uniform convergence: the training error is close to its expectation uniformly
+over all models in a certain class.
+Modern deep learning systems appear to defy this viewpoint: they achieve training error that is significantly smaller than the test error, and yet generalize well to new data. I will present a sequence of high-dimensional examples in which this phenomenon can be understood in detail.
+[Based on joint work with Song Mei, Feng Ruan, Youngtak Sohn, Jun Yan]
 
