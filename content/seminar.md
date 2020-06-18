@@ -35,7 +35,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Jan 30 | Yaniv Romano (Stanford) | [Reliability, Equity, and Reproducibility in Modern Machine Learning](#romano) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a02c214-b87c-4d08-b089-ab4a012c6457) |
 | Feb 6 | Kaizheng Wang (Princeton) | [Latent variable models: spectral methods and non-convex optimization](#wang) | |
 | Feb 13 | Laure Zanna (NYU) | [Blending machine learning and physics to improve climate modeling](#zanna) | |
-| Feb 20 | Yash Deshpande (MIT) | [Two problems in modern statistical inference](#deshpande) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d620d7c5-32f4-4e93-84ed-ab4a012db7a8) |
+| Feb 20 | Yash Deshpande (MIT) | [Two problems in modern statistical inference](#deshpande) | [video](https://drive.google.com/file/d/1HkiuN--iKFzchSazRs9UUmyjyb8GifYu/view) |
 | Feb 27 | Rebecca Willett (UChicago) | [Learning to Solve Inverse Problems in Imaging](#willett) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed4a3e7d-1104-4b87-a21f-ab5a012d4f1e) |
 | Mar 5 | Stefanie Jegelka (MIT) | [Representation and Learning in Graph Neural Networks](#jegelka) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ab8b5e-ff0d-425f-95c7-ab5a012d992d) |
 | Mar 12 | Samory Kpotufe (Columbia) | | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=992d3cfe-673f-47d9-b07d-ab5a012dd905) |
