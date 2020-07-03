@@ -41,8 +41,6 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 6/17 10am EST | [Aviv Regev](https://www.broadinstitute.org/regev-lab) (Broad Institute, MIT/Harvard) | Design for Inference and the Power of Random Experiments in Biology | [Zoom](https://ethz.zoom.us/j/91094549930) |
 | 6/24 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | [Zoom](https://ethz.zoom.us/j/98367366376) |
 | 7/8 10am EST | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC) | [Learning via early stopping and untrained neural nets ](#madhi) | [Zoom]() |
-| 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [TBA ](#samory) | [Zoom]() |
-| 7/29 10am EST | [Guilio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [TBA](#biroli) | [Zoom]() |
 
 
 
