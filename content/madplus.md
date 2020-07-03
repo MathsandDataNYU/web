@@ -106,3 +106,8 @@ over all models in a certain class.
 Modern deep learning systems appear to defy this viewpoint: they achieve training error that is significantly smaller than the test error, and yet generalize well to new data. I will present a sequence of high-dimensional examples in which this phenomenon can be understood in detail.
 [Based on joint work with Song Mei, Feng Ruan, Youngtak Sohn, Jun Yan]
 
+
+
+#### <a name="madhi"></a> Mahdi Soltanolkotabi: Learning via early stopping and untrained neural nets
+
+Modern neural networks are typically trained in an over-parameterized regime where the parameters of the model far exceed the size of the training data. Such neural networks in principle have the capacity to (over)fit any set of labels including significantly corrupted ones. Despite this (over)fitting capacity, over-parameterized networks have an intriguing robustness capability: they are surprisingly robust to label noise when first order methods with early stopping are used to train them. Even more surprising, one can remove noise and corruption from a natural image without using any training data what-so-ever, by simply fitting (via gradient descent) a randomly initialized, over-parameterized convolutional generator to a single corrupted image. In this talk I will first present theoretical results aimed at explaining the robustness capability of neural networks when trained via early-stopped gradient descent. I will then present results towards demystifying untrained networks for image reconstruction/restoration tasks such as denoising and those arising in inverse problems such as compressive sensing.
