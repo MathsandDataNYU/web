@@ -17,6 +17,7 @@ title = "Sponsors"
 We are thankful for the generous financial support of the following institutions:
 
 - National Science Foundation
+- National Institutes of Health
 - Alfred P. Sloan Foundation
 - ARO
 - Vesri Schmidt Futures
