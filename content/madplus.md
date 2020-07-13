@@ -41,7 +41,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 6/17 10am EST | [Aviv Regev](https://www.broadinstitute.org/regev-lab) (Broad Institute, MIT/Harvard) | Design for Inference and the Power of Random Experiments in Biology | [Zoom](https://ethz.zoom.us/j/91094549930) |
 | 6/24 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | [Zoom](https://ethz.zoom.us/j/98367366376) |
 | 7/8 10am EST | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC) | [Learning via early stopping and untrained neural nets ](#madhi) | [Zoom](https://ethz.zoom.us/j/97436035961) |
-| 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [TBA ](#samory) | [Zoom]() |
+| 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [Some Recent Insights on Transfer-Learning  ](#samory) | [Zoom]() |
 | 7/29 10am EST | [Guilio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [TBA](#guilio) | [Zoom]() |
 
 
@@ -114,3 +114,15 @@ Modern deep learning systems appear to defy this viewpoint: they achieve trainin
 #### <a name="madhi"></a> Mahdi Soltanolkotabi: Learning via early stopping and untrained neural nets
 
 Modern neural networks are typically trained in an over-parameterized regime where the parameters of the model far exceed the size of the training data. Such neural networks in principle have the capacity to (over)fit any set of labels including significantly corrupted ones. Despite this (over)fitting capacity, over-parameterized networks have an intriguing robustness capability: they are surprisingly robust to label noise when first order methods with early stopping are used to train them. Even more surprising, one can remove noise and corruption from a natural image without using any training data what-so-ever, by simply fitting (via gradient descent) a randomly initialized, over-parameterized convolutional generator to a single corrupted image. In this talk I will first present theoretical results aimed at explaining the robustness capability of neural networks when trained via early-stopped gradient descent. I will then present results towards demystifying untrained networks for image reconstruction/restoration tasks such as denoising and those arising in inverse problems such as compressive sensing.
+
+
+#### <a name="samory"></a> 
+Samory Kpotufe: Some Recent Insights on Transfer-Learning 
+
+A common situation in Machine Learning is one where training data is not fully representative of a target population due to bias in the sampling mechanism or high costs in sampling the target population; in such situations, we aim to ’transfer’ relevant information from the training data (a.k.a. source data) to the target application. How much information is in the source data? How much target data should we collect if any? These are all practical questions that depend crucially on 'how far' the source domain is from the target. However, how to properly measure 'distance' between source and target domains remains largely unclear.
+
+In this talk we will argue that much of the traditional notions of 'distance' (e.g. KL-divergence, extensions of TV such as D_A discrepancy, density-ratios, Wasserstein distance) can yield an over-pessimistic picture of transferability. Instead, we show that some new notions of 'relative dimension' between source and target (which we simply term 'transfer-exponents') capture a continuum from easy to hard transfer. Transfer-exponents uncover a rich set of situations where transfer is possible even at fast rates, encode relative benefits of source and target samples, and have interesting implications for related problems such as multi-task or multi-source learning.
+
+In particular, in the case of multi-source learning, we will discuss (if time permits) a strong dichotomy between minimax and adaptive rates: no adaptive procedure can achieve a rate better than single source rates, although minimax (oracle) procedures can. 
+
+The talk is based on earlier work with Guillaume Martinet, and ongoing work with Steve Hanneke. 
