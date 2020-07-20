@@ -42,7 +42,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 6/24 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | [Zoom](https://ethz.zoom.us/j/98367366376) |
 | 7/8 10am EST | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC) | [Learning via early stopping and untrained neural nets ](#madhi) | [Zoom](https://ethz.zoom.us/j/97436035961) |
 | 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [Some Recent Insights on Transfer-Learning  ](#samory) | [Zoom](https://nyu.zoom.us/j/99169057215) |
-| 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom]() |
+| 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom](https://nyu.zoom.us/j/99719088865) |
 | 7/29 10am EST | [Guilio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [TBA](#guilio) | [Zoom]() |
 
 
