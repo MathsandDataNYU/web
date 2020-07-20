@@ -42,7 +42,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 6/24 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | [Zoom](https://ethz.zoom.us/j/98367366376) |
 | 7/8 10am EST | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC) | [Learning via early stopping and untrained neural nets ](#madhi) | [Zoom](https://ethz.zoom.us/j/97436035961) |
 | 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [Some Recent Insights on Transfer-Learning  ](#samory) | [Zoom](https://nyu.zoom.us/j/99169057215) |
-| 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [TBA](#ahmed) | [Zoom]() |
+| 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom]() |
 | 7/29 10am EST | [Guilio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [TBA](#guilio) | [Zoom]() |
 
 
@@ -126,3 +126,15 @@ In this talk we will argue that much of the traditional notions of 'distance' (e
 In particular, in the case of multi-source learning, we will discuss (if time permits) a strong dichotomy between minimax and adaptive rates: no adaptive procedure can achieve a rate better than single source rates, although minimax (oracle) procedures can. 
 
 The talk is based on earlier work with Guillaume Martinet, and ongoing work with Steve Hanneke. 
+
+
+#### <a name="ahmed"></a> Ahmed El Alaoui: Optimization of mean-field spin glass Hamiltonians 
+
+We consider the question of computing an approximate ground state configuration of an Ising (mixed) p-spin Hamiltonian H_N from a bounded number of gradient evaluations.  
+
+
+ I will present an efficient algorithm which exploits the ultrametric structure of the superlevel sets of H_N in order to achieve an energy E_* characterized via an extended Parisi variational principle. This energy E_* is optimal when the model satisfies a `no overlap gap' condition. At the heart of this algorithmic approach is a stochastic control problem, whose dual turns out to be the Parisi formula, thereby shedding new light on the nature of the latter. 
+
+ 
+
+This is joint work with Andrea Montanari and Mark Sellke. 
