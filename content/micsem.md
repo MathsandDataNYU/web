@@ -17,6 +17,22 @@ menu = "main"
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
 
+### Schedule Summer 2020
+
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| Jul 27, 2pm | [Surbhi Goel](https://www.cs.utexas.edu/~surbhi/) (MSR) | [Computational Complexity of Learning Simple Neural Networks over Gaussian Marginals](#surbhi) | [Zoom](https://nyu.zoom.us/j/98662486169) |
+
+#### <a name="surbhi"></a> Surbhi Goel: Computational Complexity of Learning Simple Neural Networks over Gaussian Marginals
+
+A major challenge in the theory of deep learning is to understand the computational complexity of learning simple families of neural networks (NNs). The challenge arises from the non-convexity of the associated optimization problem. This problem is well known to be computationally intractable in the worst case. Prior works have circumvented this hardness by making assumptions on the distribution as well as the label noise.
+In this talk, we study the problem of learning shallow NNs under the benign gaussian input distribution. We first show a super-polynomial Statistical Query (SQ) lower bound in the simple noiseless setting. We further show how to use this result to obtain a super-polynomial SQ lower bound for learning a single neuron in the agnostic noise model. Lastly, on the positive side, we describe a simple algorithm for approximately learning a ReLU in the agnostic noise model.
+This talk is based on joint works with Ilias Diakonikolas, Aravind Gollakota, Zhihan Jin, Sushrut Karmalkar, Adam Klivans and Mahdi Soltanolkotabi. 
+
+
+
+
+
 
 ### Schedule Fall 2020
 
