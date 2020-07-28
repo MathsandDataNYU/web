@@ -43,7 +43,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 7/8 10am EST | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC) | [Learning via early stopping and untrained neural nets ](#madhi) | [Zoom](https://ethz.zoom.us/j/97436035961) |
 | 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [Some Recent Insights on Transfer-Learning  ](#samory) | [Zoom](https://nyu.zoom.us/j/99169057215) |
 | 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom](https://nyu.zoom.us/j/99719088865) |
-| 7/29 10am EST | [Giulio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [On the benefit of over-parametrization and the origin of double descent curves in artificial neural networks](#giulio) | [Zoom]() |
+| 7/29 10am EST | [Giulio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [On the benefit of over-parametrization and the origin of double descent curves in artificial neural networks](#giulio) | [Zoom](https://nyu.zoom.us/j/92418040904) |
 
 
 
