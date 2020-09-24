@@ -45,6 +45,8 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom](https://nyu.zoom.us/j/99719088865) |
 | 7/29 10am EST | [Giulio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [On the benefit of over-parametrization and the origin of double descent curves in artificial neural networks](#giulio) | [Zoom](https://nyu.zoom.us/j/92418040904) |
 | 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [TBA](#jelani) | [Zoom]() |
+| 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [TBA](#gabor) | [Zoom]() |
+| 10/7 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom]() |
 
 
 
@@ -144,5 +146,17 @@ This is joint work with Andrea Montanari and Mark Sellke.
 
 
 Deep neural networks have triggered a revolution in machine learning, and more generally in computer science. Understanding their remarkable performance is a key scientific challenge with many open questions. For instance, practitioners find that using massively over-parameterised networks is beneficial to learning and generalization ability. This fact goes against standard theories, and defies intuition. In this talk I will address this issue. I will first contrast standard expectations based on variance-bias trade-off to the results of numerical experiments on deep neural networks, which display a “double-descent” behavior of the test error when increasing the number of parameters instead of the traditional U-curve. I will then discuss a theory of this phenomenon based on the solution of simplified models of deep neural networks by statistical physics methods.
+
+
+#### <a name="liza"></a> Elizaveta (Liza) Levina: Hierarchical community detection by recursive partitioning
+
+
+
+Community detection in networks has been extensively studied in the form of finding a single partition into a “correct” number of communities. In large networks, however, a multi-scale hierarchy of communities is much more realistic. We show that a hierarchical tree of communities, obviously more interpretable, is also potentially more accurate and more computationally efficient. We construct this tree with a simple top-down recursive algorithm, at each step splitting the nodes into two communities with a non-iterative spectral algorithm, until a stopping rule suggests there are no more communities. The algorithm is model-free, extremely fast, and requires no tuning other than selecting a stopping rule. We propose a natural model for this setting, a binary tree stochastic block model, and prove that the algorithm correctly recovers the entire community tree under relatively mild assumptions. As a by-product, we obtain explicit and intuitive results for fitting the stochastic block model under model misspecification. We illustrate the algorithm on a statistics papers dataset constructing a highly interpretable tree of statistics research communities, and on a network based on gene co-occurrence in research papers on anemia. 
+
+Joint work with Tianxi Li, Lihua Lei, Sharmodeep Bhattacharyya, Koen van de Berge, Purnamrita Sarkar, and Peter Bickel.   
+
+
+
 
 
