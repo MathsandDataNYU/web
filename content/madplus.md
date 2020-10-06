@@ -155,8 +155,7 @@ Counting up to N deterministically of course takes Theta(log N) bits.
 In the first ever streaming algorithm, Morris in 1978 gave a
 randomized algorithm that improved upon this bound exponentially. The
 best known analysis of his algorithm shows that it gives a 1+eps
-approximation to N with probability at least 1-delta using O(loglog N
-+ log(1/eps) + log(1/delta)) bits with high probability (the space
+approximation to N with probability at least 1-delta using O(loglog N + log(1/eps) + log(1/delta)) bits with high probability (the space
 usage is itself a random variable). We show that a very slight (but
 necessary) tweak of his algorithm actually achieves the better bound
 O(loglog N + log(1/eps) + loglog(1/delta)) bits, and we also show a
