@@ -45,7 +45,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom](https://nyu.zoom.us/j/99719088865) |
 | 7/29 10am EST | [Giulio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [On the benefit of over-parametrization and the origin of double descent curves in artificial neural networks](#giulio) | [Zoom](https://nyu.zoom.us/j/92418040904) |
 | 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [Optimal bounds for approximate counting](#jelani) | [Zoom](https://nyu.zoom.us/j/95023666901) |
-| 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [TBA](#gabor) | [Zoom]() |
+| 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom]() |
 | 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom]() |
 
 
@@ -161,6 +161,25 @@ necessary) tweak of his algorithm actually achieves the better bound
 O(loglog N + log(1/eps) + loglog(1/delta)) bits, and we also show a
 new matching lower bound, establishing optimality. Joint work with
 Huacheng Yu.
+
+
+
+#### <a name="gabor"></a> Gabor Lugosi: On estimating the mean of a random vector
+
+
+
+One of the most basic problems in statistics is the estimation of the
+mean of a random vector, based on independent observations. This
+problem has received renewed attention in the last few years, both from
+statistical and computational points of view. In this talk we review some
+recent results on the statistical performance of mean estimators that allow
+heavy tails and adversarial contamination in the data. The basic punchline
+is that one can construct estimators that, under minimal conditions,
+achieve the same kind of performance as if the data was Gaussian.
+The material of this talk is based on a series of joint papers with Shahar
+Mendelson.
+
+
 
 #### <a name="liza"></a> Elizaveta (Liza) Levina: Hierarchical community detection by recursive partitioning
 
