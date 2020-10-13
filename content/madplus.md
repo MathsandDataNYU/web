@@ -22,8 +22,17 @@ This semester it runs on Wednesdays in two time slots (each week one time slot) 
 MaD seminars are recorded and streamed live. Links to the videos are available below.
 You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), and to our **Youtube channel** [here](https://www.youtube.com/channel/UCHmajwTZztZlwyE322hpl7Q). 
 
+### Fall 2020 Speakers
 
-### Schedule with Confirmed Speakers
+
+| Date        | Speaker       | Title | Stream
+| ----------- |:-------------:|:-----------:|:-----------:|
+| 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [Optimal bounds for approximate counting](#jelani) | [Zoom](https://nyu.zoom.us/j/95023666901) |
+| 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom]() |
+| 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom]() |
+
+
+### Past Speakers
 
 
 | Date        | Speaker       | Title | Stream
@@ -44,9 +53,6 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [Some Recent Insights on Transfer-Learning  ](#samory) | [Zoom](https://nyu.zoom.us/j/99169057215) |
 | 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom](https://nyu.zoom.us/j/99719088865) |
 | 7/29 10am EST | [Giulio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [On the benefit of over-parametrization and the origin of double descent curves in artificial neural networks](#giulio) | [Zoom](https://nyu.zoom.us/j/92418040904) |
-| 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [Optimal bounds for approximate counting](#jelani) | [Zoom](https://nyu.zoom.us/j/95023666901) |
-| 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom]() |
-| 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom]() |
 
 
 
