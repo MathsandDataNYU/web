@@ -28,7 +28,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | ----------- |:-------------:|:-----------:|:-----------:|
 | 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [Optimal bounds for approximate counting](#jelani) | [Zoom](https://nyu.zoom.us/j/95023666901) |
 | 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom](https://nyu.zoom.us/j/91890631547) |
-| 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom]() |
+| 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom](https://nyu.zoom.us/j/95748226412) |
 | 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [TBA](#yuanzhi) | [Zoom]() |
 | 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [TBA](#costis) | [Zoom]() |
 | 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [TBA](#yury) | [Zoom]() |
