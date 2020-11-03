@@ -67,7 +67,7 @@ Courant Instructor; theoretical computer science, high-dimensional statistics, s
 <img style="float: left;" src="../../img/ilias.jpg" height="90" style="border:4px solid white;"> 
 <br/> 
 
-#### [Ilias Zadik](http://www.mit.edu/~izadik/) (Sept 2019 - )
+#### [Ilias Zadik](https://cims.nyu.edu/~iz368/) (Sept 2019 - )
 CDS Moore-Sloan Fellow; high dimensional statistics, probability.  
   
 
