@@ -29,7 +29,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [Optimal bounds for approximate counting](#jelani) | [Zoom](https://nyu.zoom.us/j/95023666901) |
 | 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom](https://nyu.zoom.us/j/91890631547) |
 | 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom](https://nyu.zoom.us/j/95748226412) |
-| 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [TBA](#yuanzhi) | [Zoom]() |
+| 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [Backward Feature Correction: How can Deep Learning perform Deep Learning?](#yuanzhi) | [Zoom](https://nyu.zoom.us/j/93914774854) |
 | 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [TBA](#costis) | [Zoom]() |
 | 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [TBA](#yury) | [Zoom]() |
 | 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [TBA](#anna) | [Zoom]() |
@@ -200,5 +200,13 @@ Joint work with Tianxi Li, Lihua Lei, Sharmodeep Bhattacharyya, Koen van de Berg
 
 
 
+#### <a name="yuanzhi"></a> Yuanzhi Li (CMU): Backward Feature Correction: How can Deep Learning perform Deep Learning? 
 
+How does a 110-layer ResNet learn a high-complexity classifier using relatively few training examples and short training time? We present a theory towards explaining this deep learning process in terms of hierarchical learning. We refer to hierarchical learning as the learner learns to represent a complicated target function by decomposing it into a sequence of simpler functions, to reduce sample and time complexity. 
+
+This work formally analyzes how multi-layer neural networks can perform such hierarchical learning efficiently and automatically simply by applying stochastic gradient descent (SGD) to the training objective, especially when other “shallow” models provably fail to learn the concept class efficiently due to the lack of hierarchy.
+
+In particular, we establish a new principle called “backward feature correction” to show how the features in the lower-level layers in the network can also be improved via training together with higher-level layers, which we believe is the key to understand the deep learning process in multi-layer neural networks.
+
+We also present empirical evidences supporting our theorem, in particular, we show “how much, how deep” the “backwards” (i.e. the improvement of lower level layers in a neural network due to the gradient from higher level layers) in a multi-layer neural network needs to be, and which part of the lower level features are getting improved through the “backwards”.
 
