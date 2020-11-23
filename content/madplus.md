@@ -30,10 +30,10 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom](https://nyu.zoom.us/j/91890631547) |
 | 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom](https://nyu.zoom.us/j/95748226412) |
 | 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [Backward Feature Correction: How can Deep Learning perform Deep Learning?](#yuanzhi) | [Zoom](https://nyu.zoom.us/j/93914774854) |
-| 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [TBA](#costis) | [Zoom]() |
-| 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [TBA](#yury) | [Zoom]() |
+| 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [Equilibrium Computation and the Foundations of Deep Learning](#costis) | [Zoom](https://nyu.zoom.us/j/91500595179) |
+| 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models](#yury) | [Zoom]() |
 | 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [TBA](#anna) | [Zoom]() |
-
+| 12/16 11.15am EST | [Amin Coja-Oghlanl](https://scholar.google.com/citations?hl=en&user=1SdgKVAAAAAJ&view_op=list_works&sortby=pubdate) (Goethe University Frankfurt) | [TBA](#anna) | [Zoom]() |
 
 ### Past Speakers
 
@@ -209,4 +209,21 @@ This work formally analyzes how multi-layer neural networks can perform such hie
 In particular, we establish a new principle called “backward feature correction” to show how the features in the lower-level layers in the network can also be improved via training together with higher-level layers, which we believe is the key to understand the deep learning process in multi-layer neural networks.
 
 We also present empirical evidences supporting our theorem, in particular, we show “how much, how deep” the “backwards” (i.e. the improvement of lower level layers in a neural network due to the gradient from higher level layers) in a multi-layer neural network needs to be, and which part of the lower level features are getting improved through the “backwards”.
+
+
+#### <a name="costis"></a> Constantinos Daskalakis (MIT): Equilibrium Computation and the Foundations of Deep Learning
+
+
+Deep Learning has recently yielded important advances in single-agent learning challenges, much of that progress being fueled by the empirical success of gradient descent and its variants in computing local optima of non-convex optimization problems. In multi-agent learning applications, the role of single-objective optimization is played by equilibrium computation, yet our understanding of its complexity in settings that are relevant for Deep Learning remains sparse. In this talk we focus on min-max optimization of nonconvex-nonconcave objectives, which has found applications in GANs, and other adversarial learning problems. Here, not only are there no known gradient-descent based methods converging to even local and approximate min-max equilibria, but the computational complexity of identifying them remains poorly understood. We show that finding approximate local min-max equilibria of Lipschitz and smooth objectives requires a number of queries to the function and its gradient that is exponential in the relevant parameters, in sharp contrast to the polynomial number of queries required to find approximate local minima of non-convex objectives. Our oracle lower bound is a byproduct of a complexity-theoretic result showing that finding approximate local min-max equilibria is computationally equivalent to finding Brouwer fixed points, and Nash equilibria in non zero-sum games, and thus PPAD-complete. Minimal complexity theory knowledge will be assumed in the talk.
+
+Joint work with Stratis Skoulakis and Manolis Zampetakis
+
+
+#### <a name="yury"></a> Yury Polyanskiy (MIT):  Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models
+
+
+Introduced by Kiefer and Wolfowitz 1956, the nonparametric maximum likelihood estimator (NPMLE) is a widely used methodology for learning mixture models and empirical Bayes estimation. Sidestepping the non-convexity in mixture likelihood, the NPMLE estimates the mixing distribution by maximizing the total likelihood over the space of probability measures, which can be viewed as an extreme form of over parameterization.
+
+In this work we discover a surprising property of the NPMLE solution. Consider, for example, a Gaussian mixture model on the real line with a subgaussian mixing distribution. Leveraging complex-analytic techniques, we show that with high probability the NPMLE based on a sample of size n has O(\log n) atoms (mass points), significantly improving the deterministic upper bound of n due to Lindsay (1983). Notably, any such Gaussian mixture is statistically indistinguishable from a finite one with O(\log n) components (and this is tight for certain mixtures). Thus, absent any explicit form of model selection, NPMLE automatically chooses the right model complexity, a property we term self-regularization. Extensions to other exponential families are given. As a statistical application, we show that this structural property can be harnessed to bootstrap existing Hellinger risk bound of the (parametric) MLE for finite Gaussian mixtures to the NPMLE for general Gaussian mixtures, recovering a result of Zhang (2009). Time permitting, we will discuss connections to approaching the optimal regret in empirical Bayes. This is based on joint work with Yihong Wu (Yale).
+
 
