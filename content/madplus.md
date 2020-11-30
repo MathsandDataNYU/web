@@ -31,7 +31,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom](https://nyu.zoom.us/j/95748226412) |
 | 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [Backward Feature Correction: How can Deep Learning perform Deep Learning?](#yuanzhi) | [Zoom](https://nyu.zoom.us/j/93914774854) |
 | 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [Equilibrium Computation and the Foundations of Deep Learning](#costis) | [Zoom](https://nyu.zoom.us/j/91500595179) |
-| 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models](#yury) | [Zoom]() |
+| 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models](#yury) | [Zoom](https://nyu.zoom.us/j/91304038454) |
 | 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [TBA](#anna) | [Zoom]() |
 | 12/16 11.15am EST | [Amin Coja-Oghlan](https://scholar.google.com/citations?hl=en&user=1SdgKVAAAAAJ&view_op=list_works&sortby=pubdate) (Goethe University Frankfurt) | [TBA](#amin) | [Zoom]() |
 
