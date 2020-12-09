@@ -32,7 +32,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [Backward Feature Correction: How can Deep Learning perform Deep Learning?](#yuanzhi) | [Zoom](https://nyu.zoom.us/j/93914774854) |
 | 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [Equilibrium Computation and the Foundations of Deep Learning](#costis) | [Zoom](https://nyu.zoom.us/j/91500595179) |
 | 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models](#yury) | [Zoom](https://nyu.zoom.us/j/91304038454) |
-| 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [Algebraic methods in statistics and data analysis](#anna) | [Zoom]() |
+| 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [Algebraic methods in statistics and data analysis](#anna) | [Zoom](https://ethz.zoom.us/j/95125101132) |
 | 12/16 11.15am EST | [Amin Coja-Oghlan](https://scholar.google.com/citations?hl=en&user=1SdgKVAAAAAJ&view_op=list_works&sortby=pubdate) (Goethe University Frankfurt) | [TBA](#amin) | [Zoom]() |
 
 ### Past Speakers
