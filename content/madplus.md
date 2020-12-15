@@ -33,7 +33,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [Equilibrium Computation and the Foundations of Deep Learning](#costis) | [Zoom](https://nyu.zoom.us/j/91500595179) |
 | 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models](#yury) | [Zoom](https://nyu.zoom.us/j/91304038454) |
 | 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [Algebraic methods in statistics and data analysis](#anna) | [Zoom](https://ethz.zoom.us/j/95125101132) |
-| 12/16 11.15am EST | [Amin Coja-Oghlan](https://scholar.google.com/citations?hl=en&user=1SdgKVAAAAAJ&view_op=list_works&sortby=pubdate) (Goethe University Frankfurt) | [TBA](#amin) | [Zoom]() |
+| 12/16 11.15am EST | [Amin Coja-Oghlan](https://scholar.google.com/citations?hl=en&user=1SdgKVAAAAAJ&view_op=list_works&sortby=pubdate) (Goethe University Frankfurt) | [Optimal group testing](#amin) | [Zoom]() |
 
 ### Past Speakers
 
@@ -230,3 +230,8 @@ In this work we discover a surprising property of the NPMLE solution. Consider, 
 
 
 Algebraic structure is at the heart of many problems in statistics and data analysis. We aim to fit data to a model, or to approximate data by a point on some locus of interest. I will discuss how algebraic structure can be used to capture the existence and uniqueness of a solution to these problems, as well as to suggest suitable algorithms.  I will first consider parameter estimation in statistical models via maximum likelihood estimation. We will see connections between maximum likelihood estimation and invariant theory. I will then discuss tensors, the higher dimensional analogues of matrices. The loci of tensors that are of interest in applications often define semi-algebraic sets, given by polynomial equations and inequalities. One example is the signature, tensors that can be used to encode a path of time series data. We will see the algebraic structure that relates a path to its signature.
+
+#### <a name="amin"></a> Amin Coja-Oghlan (Goethe University Frankfurt):  Optimal group testing
+
+
+In group testing the aim is to identify a small set of infected individuals within a large population. At our disposal we have a test procedure that can be applied to a group of individuals, with the test returning a positive result if at least one individual in the group is infected. All tests are conducted in parallel. The aim is to devise a (possibly randomised) test design with as few tests as possible that identifies the infected individuals with high probability. We show that there occurs a sharp information-theoretic/algorithmic phase transition as the number of tests passes an explicit threshold. The talk is based on joint work with Oliver Gebhard, Max Hahn-Klimroth and Philipp Loick.
