@@ -21,6 +21,17 @@ of Applied Mathematics, Statistics and Machine Learning. We took inspiration fro
 MaD seminars are recorded and streamed live. Links to the videos are available below.
 You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), and to our **Youtube channel** [here](https://www.youtube.com/channel/UCHmajwTZztZlwyE322hpl7Q). 
 
+### Spring 2020 Speakers
+
+
+| Date        | Speaker       | Title | Stream
+| ----------- |:-------------:|:-----------:|:-----------:|
+| 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [](#galen) | [Zoom]() |
+| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [](#lorin) | [Zoom]() |
+| 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [](#inbar) | [Zoom]() |
+| 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [](#yi) | [Zoom]() |
+
+
 ### Fall 2020 Speakers
 
 
