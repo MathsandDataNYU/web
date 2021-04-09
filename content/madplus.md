@@ -21,7 +21,7 @@ of Applied Mathematics, Statistics and Machine Learning. We took inspiration fro
 MaD seminars are recorded and streamed live. Links to the videos are available below.
 You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), and to our **Youtube channel** [here](https://www.youtube.com/channel/UCHmajwTZztZlwyE322hpl7Q). 
 
-### Spring 2020 Speakers
+### Spring 2021 Speakers
 
 
 | Date        | Speaker       | Title | Stream
