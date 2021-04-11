@@ -26,7 +26,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 
 | Date        | Speaker       | Title | Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
-| 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [TBA](#galen) | [Zoom]() |
+| 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) |
 | 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [TBA](#lorin) | [Zoom]() |
 | 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [TBA](#inbar) | [Zoom]() |
 | 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [TBA](#yi) | [Zoom]() |
@@ -246,3 +246,14 @@ Algebraic structure is at the heart of many problems in statistics and data anal
 
 
 In group testing the aim is to identify a small set of infected individuals within a large population. At our disposal we have a test procedure that can be applied to a group of individuals, with the test returning a positive result if at least one individual in the group is infected. All tests are conducted in parallel. The aim is to devise a (possibly randomised) test design with as few tests as possible that identifies the infected individuals with high probability. We show that there occurs a sharp information-theoretic/algorithmic phase transition as the number of tests passes an explicit threshold. The talk is based on joint work with Oliver Gebhard, Max Hahn-Klimroth and Philipp Loick.
+
+#### <a name="galen"></a> Galen Reeves (Duke University):  Statistical Limits for the Matrix Tensor Product
+
+
+High-dimensional models involving the products of large random matrices include the spiked matrix models appearing in principle component analysis and the stochastic block model appearing in network analysis. In this talk I will present recent theoretical work that provides an asymptotically exact characterization of the fundamental limits of inference for a broad class of these models. The first part of the talk will introduce the "matrix tensor product" model and describe some implications of the theory for community detection in correlated networks. The second part will highlight some of the ideas in the analysis, which builds upon ideas from information theory and statistical physics. 
+
+The material in this talk is appears in following paper:
+
+Information-Theoretic Limits for the Matrix Tensor Product, 
+Galen Reeves
+https://arxiv.org/abs/2005.11273
