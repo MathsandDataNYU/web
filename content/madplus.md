@@ -27,7 +27,8 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | Date        | Speaker       | Title | Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
 | 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) |
-| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [TBA](#lorin) | [Zoom]() |
+| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and
+Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) |
 | 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [TBA](#inbar) | [Zoom]() |
 | 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [TBA](#yi) | [Zoom]() |
 
@@ -257,3 +258,14 @@ The material in this talk is appears in following paper:
 Information-Theoretic Limits for the Matrix Tensor Product, 
 Galen Reeves
 https://arxiv.org/abs/2005.11273
+
+#### <a name="lorin"></a> Lorin Crawford (Microsoft Research \& Brown University): Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation
+
+
+The recent curation of large-scale databases with 3D surface scans of shapes has
+motivated the development of tools that better detect global-patterns in morphological variation. Studies which focus on identifying differences between shapes have been limited to simple pairwise comparisons and rely on pre-specified landmarks (that are often known). In this talk, we present SINATRA: a statistical pipeline for analyzing collections of shapes without requiring any correspondences. Our method takes in two classes of shapes and highlights the physical features that best describe the variation between them.
+
+The SINATRA pipeline implements four key steps. First, SINATRA summarizes the geometry of 3D shapes (represented as triangular meshes) by a collection of vectors (or curves) that encode changes in their topology. Second, a nonlinear Gaussian process model, with the topological summaries as input, classifies the shapes. Third, an effect size analog and corresponding association metric is computed for each topological feature used in the classification model. These quantities provide evidence that a given topological feature is associated with a particular class. Fourth, the pipeline iteratively maps the topological features back onto the original shapes (in rank order according to their association measures) via a reconstruction algorithm. This highlights the physical (spatial) locations that best explain the variation between the two groups. 
+
+We use a rigorous simulation framework to assess our approach, which themselves are a novel contribution to 3D image analysis. Lastly, as a case study, we use SINATRA to analyze mandibular molars from four different suborders of primates and demonstrate its ability recover known morphometric variation across phylogenies.
+
