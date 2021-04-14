@@ -27,7 +27,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | Date        | Speaker       | Title | Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
 | 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) |
-| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and
+| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and
 Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) |
 | 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [TBA](#inbar) | [Zoom]() |
 | 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [TBA](#yi) | [Zoom]() |
