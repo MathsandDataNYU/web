@@ -28,7 +28,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | ----------- |:-------------:|:-----------:|:-----------:|
 | 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) |
 | 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) |
-| 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [TBA](#inbar) | [Zoom]() |
+| 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [How well can we generalize in high dimension?](#inbar) | [Zoom](https://ethz.zoom.us/j/62510604617) |
 | 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [TBA](#yi) | [Zoom]() |
 | 5/28 11am EST | [Robert Nowak](https://nowak.ece.wisc.edu/) (University of Wisconsin-Madison) | [TBA](#yi) | [Zoom]() |
 
@@ -269,3 +269,8 @@ The SINATRA pipeline implements four key steps. First, SINATRA summarizes th
 
 We use a rigorous simulation framework to assess our approach, which themselves are a novel contribution to 3D image analysis. Lastly, as a case study, we use SINATRA to analyze mandibular molars from four different suborders of primates and demonstrate its ability recover known morphometric variation across phylogenies.
 
+
+#### <a name="inbar"></a> Dr. Inbar Seroussi (Weizmann Institute of Science): How well can we generalize in high dimension?
+
+
+	Deep learning algorithms operate in regimes that defy classical learning theory. Neural networks architectures often contain more parameters than training samples. Despite their huge complexity, the generalization error achieved on real data is small. In this talk, we aim to study generalization properties of algorithms in high dimension. Interestingly, we show that algorithms in high dimension require a small bias for good generalization. We show that this is indeed the case for deep neural networks in the overparametrized regime. In addition, we provide lower bounds on the generalization error in various settings for any algorithm. We calculate such bounds using random matrix theory (RMT). We will review the connection between deep neural network and RMT and existing results. These bounds are particularly useful when the analytic evaluation of standard performance bounds is not possible due to the complexity and nonlinearity of the model. The bounds can serve as a benchmark for testing performance and optimizing the design of actual learning algorithms. (Joint work with Prof. Ofer Zeitouni)
