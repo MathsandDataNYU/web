@@ -30,7 +30,7 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 | 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) |
 | 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [How well can we generalize in high dimension?](#inbar) | [Zoom](https://ethz.zoom.us/j/62510604617) |
 | 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [Deep (Convolution) Networks from First Principles](#yi) | [Zoom](https://nyu.zoom.us/j/92363858044) |
-| 5/28 11am EST | [Robert Nowak](https://nowak.ece.wisc.edu/) (University of Wisconsin-Madison) | [TBA](#yi) | [Zoom]() |
+| 5/28 11am EST | [Robert Nowak](https://nowak.ece.wisc.edu/) (University of Wisconsin-Madison) | [Banach Space Representer Theorems for Neural Networks](#nowak) | [Zoom]() |
 
 
 ### Fall 2020 Speakers
@@ -282,6 +282,12 @@ In this talk, we offer an entirely “white box’’ interpretation of deep (co
 
 This is joint work with students Yaodong Yu, Ryan Chan, Haozhi Qi of Berkeley, Dr. Chong You now at Google Research, and Professor John Wright of Columbia University.
 
+#### <a name="nowak"></a> Robert D. Nowak (University of Wisconsin-Madison): Banach Space Representer Theorems for Neural Networks
 
+This talk presents a variational framework to understand the properties of functions learned by neural networks fit to data. The framework is based on total variation semi-norms defined in the Radon domain, which is naturally suited to the analysis of neural activation functions (ridge functions). Finding a function that fits a dataset while having a small semi-norm is posed as an infinite dimensional variational optimization. We derive a representer theorem showing that finite-width neural networks are solutions to the variational problem. The representer theorem is reminiscent of the classical reproducing kernel Hilbert space representer theorem, but we show that neural networks are solutions in a non-Hilbertian Banach space. While the learning problems are posed in an infinite dimensional function space, similar to kernel methods, they can be recast as finite-dimensional neural network training problems. These neural network training problems have regularizers which are related to the well-known weight decay and path-norm regularizers. Thus, the results provide new insight into functional characteristics of overparameterized neural networks and also into the design neural network regularizers. Our results also provide new theoretical support for a number of empirical findings in deep learning architectures including the benefits of “skip connections”, sparsity, and low-rank structures.
+This is joint work with Rahul Parhi.
+
+
+Bio: Robert D. Nowak holds the Nosbusch Professorship in Engineering at the University of Wisconsin-Madison, where his research focuses on signal processing, machine learning, optimization, and statistics.
 
 
