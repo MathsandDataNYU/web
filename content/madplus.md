@@ -15,7 +15,7 @@ Description = ""
 +++
 
 We are excited to announce the MaD+ (math and data plus) seminar, jointly organized between NYU and [ETH](https://people.math.ethz.ch/~abandeira/). For the time being it is a virtual seminar series, and depending on logistics and interest potentially evolve to a multi-location seminar once the world returns to normal (with talks hosted in one of the locations, and streamed). The topics will be in line with the physical MaD seminar hosted at the Center for Data Science, which features leading specialists at the interface
-of Applied Mathematics, Statistics and Machine Learning. We took inspiration from the fantastic virtual seminar [TCS+](https://sites.google.com/site/plustcs/) from our friends in Theoretical Computer Science.  
+of Applied Mathematics, Statistics and Machine Learning. We took inspiration from the fantastic virtual seminar [TCS+](https://sites.google.com/site/plustcs/) from our friends in Theoretical Computer Science;  
 
 
 MaD seminars are recorded and streamed live. Links to the videos are available below.
