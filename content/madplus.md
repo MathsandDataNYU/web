@@ -26,8 +26,8 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 
 | Date        | Speaker       | Title | Stream | Video
 | ----------- |:-------------:|:-----------:|:-----------:|:-----------:|
-| 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) | [Video](...) |
-| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) | [Video]() |
+| 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) | [Video](https://www.youtube.com/watch?v=ZFP7mSj_ow4&list=UUHmajwTZztZlwyE322hpl7Q&index=2&ab_channel=MathandDataPlusMathandDataPlus) |
+| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) | [Video](https://www.youtube.com/watch?v=DmNMXYzBStk&list=UUHmajwTZztZlwyE322hpl7Q&index=1&ab_channel=MathandDataPlusMathandDataPlus) |
 | 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [How well can we generalize in high dimension?](#inbar) | [Zoom](https://ethz.zoom.us/j/62510604617) | [Video]() |
 | 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [Deep (Convolution) Networks from First Principles](#yi) | [Zoom](https://nyu.zoom.us/j/92363858044) | [Video]() |
 | 5/28 11....-am EST | [Robert Nowak](https://nowak.ece.wisc.edu/) (University of Wisconsin-Madison) | [Banach Space Representer Theorems for Neural Networks](#nowak) | [Zoom](https://ethz.zoom.us/j/63240061752) | [Video]() |
@@ -36,38 +36,38 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 ### Fall 2020 Speakers
 
 
-| Date        | Speaker       | Title | Stream
-| ----------- |:-------------:|:-----------:|:-----------:|
-| 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [Optimal bounds for approximate counting](#jelani) | [Zoom](https://nyu.zoom.us/j/95023666901) |
-| 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom](https://nyu.zoom.us/j/91890631547) |
-| 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom](https://nyu.zoom.us/j/95748226412) |
-| 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [Backward Feature Correction: How can Deep Learning perform Deep Learning?](#yuanzhi) | [Zoom](https://nyu.zoom.us/j/93914774854) |
-| 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [Equilibrium Computation and the Foundations of Deep Learning](#costis) | [Zoom](https://nyu.zoom.us/j/91500595179) |
-| 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models](#yury) | [Zoom](https://nyu.zoom.us/j/91304038454) |
-| 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [Algebraic methods in statistics and data analysis](#anna) | [Zoom](https://ethz.zoom.us/j/95125101132) |
-| 12/16 11.15am EST | [Amin Coja-Oghlan](https://scholar.google.com/citations?hl=en&user=1SdgKVAAAAAJ&view_op=list_works&sortby=pubdate) (Goethe University Frankfurt) | [Optimal group testing](#amin) | [Zoom](https://nyu.zoom.us/j/94850739266) |
+| Date        | Speaker       | Title | Stream | Video
+| ----------- |:-------------:|:-----------:|:-----------:|:-----------:|
+| 10/7 11.15am EST | [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) (UC Berkeley) | [Optimal bounds for approximate counting](#jelani) | [Zoom](https://nyu.zoom.us/j/95023666901) | [Video]() |
+| 10/14 11.15am EST | [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/contact.htm) (Pompeu Fabra University) | [On estimating the mean of a random vector](#gabor) | [Zoom](https://nyu.zoom.us/j/91890631547) | [Video](https://www.youtube.com/watch?v=_9vSreR4UoQ&list=UUHmajwTZztZlwyE322hpl7Q&index=7&ab_channel=MathandDataPlusMathandDataPlus) |
+| 10/21 11.15am EST | [Elizaveta (Liza) Levina](http://dept.stat.lsa.umich.edu/~elevina/) (University of Michigan) | [Hierarchical community detection by recursive partitioning](#liza) | [Zoom](https://nyu.zoom.us/j/95748226412) | [Video](https://www.youtube.com/watch?v=DwZg3j4G34o&list=UUHmajwTZztZlwyE322hpl7Q&index=6&ab_channel=MathandDataPlusMathandDataPlus) |
+| 11/11 11.15am EST | [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) (CMU) | [Backward Feature Correction: How can Deep Learning perform Deep Learning?](#yuanzhi) | [Zoom](https://nyu.zoom.us/j/93914774854) | [Video]() |
+| 11/25 11.15am EST | [Constantinos Daskalakis](http://people.csail.mit.edu/costis/) (MIT) | [Equilibrium Computation and the Foundations of Deep Learning](#costis) | [Zoom](https://nyu.zoom.us/j/91500595179) | [Video](https://www.youtube.com/watch?v=2l5OAEyF17o&list=UUHmajwTZztZlwyE322hpl7Q&index=3&ab_channel=MathandDataPlusMathandDataPlus) |
+| 12/2 11.15am EST | [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/) (MIT) | [Self-regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models](#yury) | [Zoom](https://nyu.zoom.us/j/91304038454) | [Video](https://www.youtube.com/watch?v=W8e2NQFknpE&list=UUHmajwTZztZlwyE322hpl7Q&index=4&ab_channel=MathandDataPlusMathandDataPlus) |
+| 12/9 11.15am EST | [Anna Seigal](https://people.maths.ox.ac.uk/seigal/) (University of Oxford) | [Algebraic methods in statistics and data analysis](#anna) | [Zoom](https://ethz.zoom.us/j/95125101132) | [Video]() |
+| 12/16 11.15am EST | [Amin Coja-Oghlan](https://scholar.google.com/citations?hl=en&user=1SdgKVAAAAAJ&view_op=list_works&sortby=pubdate) (Goethe University Frankfurt) | [Optimal group testing](#amin) | [Zoom](https://nyu.zoom.us/j/94850739266) | [Video]() |
 
 ### Past Speakers
 
 
-| Date        | Speaker       | Title | Stream
-| ----------- |:-------------:|:-----------:|:-----------:|
-| 3/25, 10am EST | [Jon Niles-Weed](https://www.jonathannilesweed.com) (NYU) | [Matrix Concetration for Products](#jon) | [Zoom Meeting](https://ethz.zoom.us/j/631698662) |
-| 4/1, 10am EST | [Weinan E](https://web.math.princeton.edu/~weinan/) (Princeton) | [A Mathematical Perspective of Machine Learning](#weinan) | [Zoom Meeting](https://ethz.zoom.us/j/776255333) |
-| 4/8, 10am EST | [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) |
-| 4/22, 10am EST | [David Gamarnik](http://www.mit.edu/~gamarnik/home.html) (MIT) | [Overlap Gap Property: a Provable Barrier to Fast Optimization in Probabilistic Combinatorial Structures](#gamarnick) | [Zoom Meeting]() | 
-| 4/29, 10am EST | [Sara Van de Geer](https://people.math.ethz.ch/~vsara/) (ETH Zurich) | [Total Variation Regularization](#sara) | [Zoom](https://ethz.zoom.us/j/96038993793) |
-| 5/13 2pm EST | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | [Reliable Predictions? Equitable Treatment? Some recent progress in predictive inference](#candes) |[Zoom](https://nyu.zoom.us/j/94831901604) |
+| Date        | Speaker       | Title | Stream | Video
+| ----------- |:-------------:|:-----------:|:-----------:|:-----------:|
+| 3/25, 10am EST | [Jon Niles-Weed](https://www.jonathannilesweed.com) (NYU) | [Matrix Concetration for Products](#jon) | [Zoom Meeting](https://ethz.zoom.us/j/631698662) | [Video]( https://www.youtube.com/watch?v=I7uRDN5yI9o&list=UUHmajwTZztZlwyE322hpl7Q&index=17&t=4s&ab_channel=MathandDataPlusMathandDataPlus) |
+| 4/1, 10am EST | [Weinan E](https://web.math.princeton.edu/~weinan/) (Princeton) | [A Mathematical Perspective of Machine Learning](#weinan) | [Zoom Meeting](https://ethz.zoom.us/j/776255333) | [Video]( https://www.youtube.com/watch?v=VkVa1K37fS8&list=UUHmajwTZztZlwyE322hpl7Q&index=16&ab_channel=MathandDataPlusMathandDataPlus) |
+| 4/8, 10am EST | [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) (MIT) | [Statistical and Computational aspects of Wasserstein Barycenters](#rigollet) | [Zoom Meeting](https://ethz.zoom.us/j/278020112) | [Video]( https://www.youtube.com/watch?v=MMlR-PeMsgg&list=UUHmajwTZztZlwyE322hpl7Q&index=15&ab_channel=MathandDataPlusMathandDataPlus) |
+| 4/22, 10am EST | [David Gamarnik](http://www.mit.edu/~gamarnik/home.html) (MIT) | [Overlap Gap Property: a Provable Barrier to Fast Optimization in Probabilistic Combinatorial Structures](#gamarnick) | [Zoom Meeting]() |  [Video]( https://www.youtube.com/watch?v=km1tjnc9fao&list=UUHmajwTZztZlwyE322hpl7Q&index=14&t=2518s&ab_channel=MathandDataPlusMathandDataPlus) |
+| 4/29, 10am EST | [Sara Van de Geer](https://people.math.ethz.ch/~vsara/) (ETH Zurich) | [Total Variation Regularization](#sara) | [Zoom](https://ethz.zoom.us/j/96038993793) | [Video](https://www.youtube.com/watch?v=PryHkpF9thc&list=UUHmajwTZztZlwyE322hpl7Q&index=12&ab_channel=MathandDataPlusMathandDataPlus) |
+| 5/13 2pm EST | [Emmanuel Candes](https://statweb.stanford.edu/~candes/) (Stanford) | [Reliable Predictions? Equitable Treatment? Some recent progress in predictive inference](#candes) |[Zoom](https://nyu.zoom.us/j/94831901604) | [Video](https://www.youtube.com/watch?v=djgxwpJQyAA&list=UUHmajwTZztZlwyE322hpl7Q&index=13&t=90s&ab_channel=MathandDataPlusMathandDataPlus) |
 | 5/20, 10am EST | [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA/ENS) | [On the Effectiveness of Richardson Extrapolation in Machine Learning](#francis) | [Zoom](https://nyu.zoom.us/j/92395523426) |
-| 5/27, 10am EST | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | [Understanding machine learning via exactly solvable statistical physics models](#lenka) | [Zoom](https://nyu.zoom.us/j/95581683443) |
-| 6/3, 2pm EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | [Diffusion Methods in Manifold and Fibre Bundle Learning](#ingrid) | [Zoom](https://nyu.zoom.us/j/99762313178) |
+| 5/27, 10am EST | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/index.htm) (CNRS) | [Understanding machine learning via exactly solvable statistical physics models](#lenka) | [Zoom](https://nyu.zoom.us/j/95581683443) | [Video]() |
+| 6/3, 2pm EST | [Ingrid Daubechies](https://math.duke.edu/people/ingrid-daubechies) (Duke) | [Diffusion Methods in Manifold and Fibre Bundle Learning](#ingrid) | [Zoom](https://nyu.zoom.us/j/99762313178) | [Video]() |
 | ~~6/10 10am EST~~ | [**BLACK LIVES MATTER**](#blm) | [**Strike for Black Lives**](#blm)  | |
-| 6/17 10am EST | [Aviv Regev](https://www.broadinstitute.org/regev-lab) (Broad Institute, MIT/Harvard) | Design for Inference and the Power of Random Experiments in Biology | [Zoom](https://ethz.zoom.us/j/91094549930) |
-| 6/24 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | [Zoom](https://ethz.zoom.us/j/98367366376) |
-| 7/8 10am EST | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC) | [Learning via early stopping and untrained neural nets ](#madhi) | [Zoom](https://ethz.zoom.us/j/97436035961) |
-| 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [Some Recent Insights on Transfer-Learning  ](#samory) | [Zoom](https://nyu.zoom.us/j/99169057215) |
-| 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom](https://nyu.zoom.us/j/99719088865) |
-| 7/29 10am EST | [Giulio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [On the benefit of over-parametrization and the origin of double descent curves in artificial neural networks](#giulio) | [Zoom](https://nyu.zoom.us/j/92418040904) |
+| 6/17 10am EST | [Aviv Regev](https://www.broadinstitute.org/regev-lab) (Broad Institute, MIT/Harvard) | Design for Inference and the Power of Random Experiments in Biology | [Zoom](https://ethz.zoom.us/j/91094549930) | [Video]() |
+| 6/24 10am EST | [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) | [The generalization error of overparametrized models: Insights from exact asymptotics](#andrea) | [Zoom](https://ethz.zoom.us/j/98367366376) | [Video](https://www.youtube.com/watch?v=eVzY8PA24Tc&list=UUHmajwTZztZlwyE322hpl7Q&index=10&ab_channel=MathandDataPlusMathandDataPlus) |
+| 7/8 10am EST | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC) | [Learning via early stopping and untrained neural nets ](#madhi) | [Zoom](https://ethz.zoom.us/j/97436035961) | [Video](https://www.youtube.com/watch?v=UuytJvbMMlE&list=UUHmajwTZztZlwyE322hpl7Q&index=11&ab_channel=MathandDataPlusMathandDataPlus) |
+| 7/15 10am EST | [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia) | [Some Recent Insights on Transfer-Learning  ](#samory) | [Zoom](https://nyu.zoom.us/j/99169057215) | [Video](https://www.youtube.com/watch?v=qKIdPsYSTAQ&list=UUHmajwTZztZlwyE322hpl7Q&index=5&ab_channel=MathandDataPlusMathandDataPlus) |
+| 7/22 2pm EST | [Ahmed El Alaoui](https://web.stanford.edu/~elalaoui/) (Stanford) | [Optimization of mean-field spin glass Hamiltonians](#ahmed) | [Zoom](https://nyu.zoom.us/j/99719088865) | [Video](https://www.youtube.com/watch?v=jGssll1pPfo&list=UUHmajwTZztZlwyE322hpl7Q&index=9&ab_channel=MathandDataPlusMathandDataPlus) |
+| 7/29 10am EST | [Giulio Biroli](https://scholar.google.fr/citations?user=BadZJUsAAAAJ&hl=en) (ENS Paris) | [On the benefit of over-parametrization and the origin of double descent curves in artificial neural networks](#giulio) | [Zoom](https://nyu.zoom.us/j/92418040904) | [Video](https://www.youtube.com/watch?v=UGYjuyvIgYE&list=UUHmajwTZztZlwyE322hpl7Q&index=8&ab_channel=MathandDataPlusMathandDataPlus) |
 
 
 
