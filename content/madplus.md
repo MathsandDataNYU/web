@@ -24,13 +24,13 @@ You can subscribe to a calendar [here](https://math.ethz.ch/s/math-and-data), an
 ### Spring 2021 Speakers
 
 
-| Date        | Speaker       | Title | Stream
-| ----------- |:-------------:|:-----------:|:-----------:|
-| 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) |
-| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) |
-| 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [How well can we generalize in high dimension?](#inbar) | [Zoom](https://ethz.zoom.us/j/62510604617) |
-| 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [Deep (Convolution) Networks from First Principles](#yi) | [Zoom](https://nyu.zoom.us/j/92363858044) |
-| 5/28 11....-am EST | [Robert Nowak](https://nowak.ece.wisc.edu/) (University of Wisconsin-Madison) | [Banach Space Representer Theorems for Neural Networks](#nowak) | [Zoom](https://ethz.zoom.us/j/63240061752) |
+| Date        | Speaker       | Title | Stream | Video
+| ----------- |:-------------:|:-----------:|:-----------:|:-----------:|
+| 4/16 11am EST | [Galen Reeves](http://reeves.ee.duke.edu/index.html) (Duke University) | [Statistical Limits for the Matrix Tensor Product](#galen) | [Zoom](https://nyu.zoom.us/j/92743997773) | [Video](...) |
+| 4/23 11am EST | [Lorin Crawford](http://www.lorincrawford.com/) (Microsoft Research & Brown University) | [Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation](#lorin) | [Zoom](https://nyu.zoom.us/j/99687145178) | [Video]() |
+| 5/7 11am EST | [Inbar Seroussi](https://scholar.google.co.il/citations?user=t_Qe0CMAAAAJ&hl=en) (Weizmann Institute of Science) | [How well can we generalize in high dimension?](#inbar) | [Zoom](https://ethz.zoom.us/j/62510604617) | [Video]() |
+| 5/14 11am EST | [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley) | [Deep (Convolution) Networks from First Principles](#yi) | [Zoom](https://nyu.zoom.us/j/92363858044) | [Video]() |
+| 5/28 11....-am EST | [Robert Nowak](https://nowak.ece.wisc.edu/) (University of Wisconsin-Madison) | [Banach Space Representer Theorems for Neural Networks](#nowak) | [Zoom](https://ethz.zoom.us/j/63240061752) | [Video]() |
 
 
 ### Fall 2020 Speakers
