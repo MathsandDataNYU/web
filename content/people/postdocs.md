@@ -22,7 +22,7 @@ date = "2016-12-22T14:48:45-05:00"
 #### [Yossi Arjevani](https://scholar.google.co.il/citations?user=mgVLJ8MAAAAJ&hl=en) (Sept 2019 - )
 Postdoc, Center for Data Science; optimization, machine learning.  
   
-
+<!--
 <img style="float: left;" src="../../img/leo.jpeg" height="90" style="border:4px solid white;"> 
 <br/> 
 
@@ -63,11 +63,4 @@ Moore-Sloan Research Fellow; optimization, probability, topology and data.
 
 #### [Alex Wein](https://cims.nyu.edu/~aw128/) (Sept 2018 - )
 Courant Instructor; theoretical computer science, high-dimensional statistics, statistical physics of inference.  
-
-<img style="float: left;" src="../../img/ilias.jpg" height="90" style="border:4px solid white;"> 
-<br/> 
-
-#### [Ilias Zadik](https://cims.nyu.edu/~iz368/) (Sept 2019 - )
-CDS Moore-Sloan Fellow; high dimensional statistics, probability.  
-  
-
+-->
