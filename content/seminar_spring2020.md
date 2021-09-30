@@ -7,9 +7,9 @@ Categories = [
   "Development",
   "GoLang",
 ]
-menu = "main"
+menu = ""
 date = "2016-12-22T14:45:56-05:00"
-title = "the MAD Seminar"
+title = "the MAD Seminar spring 2020"
 Description = ""
 
 +++
@@ -40,8 +40,6 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Mar 5 | Stefanie Jegelka (MIT) | [Representation and Learning in Graph Neural Networks](#jegelka) | [video](https://nyursc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ab8b5e-ff0d-425f-95c7-ab5a012d992d) |
 
 ---
-
-[Schedule Spring 2020](https://mathsanddatanyu.github.io/website/seminar_spring2020/)
 
 [Schedule Fall 2019](https://mathsanddatanyu.github.io/website/seminar_fall2019/)
 
