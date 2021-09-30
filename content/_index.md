@@ -1,7 +1,7 @@
 +++
-date = "2016-12-22T14:29:00-05:00"
-title = "About"
-menu = "main"
+date = ""
+title = "Math and Data"
+menu = ""
 +++
 
 The Math and Data group is part of New York University's [Center for Data Science](http://cds.nyu.edu), 
