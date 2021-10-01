@@ -108,31 +108,32 @@ date = "2016-12-22T14:48:45-05:00"
 <img style="float: left;" src="../../img/luca.jpg" height="90" style="border:4px solid white;"> 
 <br/>
 
-#### [Luca Venturi](https://cims.nyu.edu/~venturi/) (Sept 2017 - )  
+#### [Aaron Zweig](https://aaronzweig.github.io/) (Sept 2018 - )  
+<br/>
+
+<img style="float: left;" src="../../img/lei.jpg" height="90" style="border:4px solid white;"> 
+<br/>
+
+#### [Lei Chen](https://leichen2018.github.io/) (Sept 2019 - )  
 <br/>
 
 
-<img style="float: left;" src="../../img/francis.jpg" height="90" style="border:4px solid white;"> 
-<br/>
+---
+## Alumni
 
-#### [Francis Williams](https://www.fwilliams.info/) (Sept 2018 - )  
+#### [Francis Williams](https://www.fwilliams.info/) (Sept 2018 - 2021, now NVIDIA)  
 <br/>
 
 
 <img style="float: left;" src="../../img/aaron.jpg" height="90" style="border:4px solid white;"> 
 <br/>
 
-#### [Aaron Zweig](https://aaronzweig.github.io/) (Sept 2018 - )  
+
+#### [Luca Venturi](https://cims.nyu.edu/~venturi/) (Sept 2017 - 2021, now Facebook)  
 <br/>
 
----
-## MsC Students
 
-
-<img style="float: left;" src="../../img/lei.jpg" height="90" style="border:4px solid white;"> 
-<br/>
-
-#### [Lei Chen](https://leichen2018.github.io/) (Sept 2018 - )  
+<img style="float: left;" src="../../img/francis.jpg" height="90" style="border:4px solid white;"> 
 <br/>
 
 
