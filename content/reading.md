@@ -17,16 +17,17 @@ title = "Reading Groups"
 The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
 
 
-## Current (Spring 2020)
-
-We are running a general group meeting on the broad theme of "Information Theory, Old and New."
-
-- Information and schedule are available [here](https://docs.google.com/document/d/1ImY0mgDkimMS6C1YWE48LQNbC4lWxTAZ9p35rA3HclY/edit?usp=sharing).
-
 
 ---
 
 ## Previous
+
+#### Spring 2020
+
+We ran  general group meeting on the broad theme of "Information Theory, Old and New."
+
+- Information and schedule are available [here](https://docs.google.com/document/d/1ImY0mgDkimMS6C1YWE48LQNbC4lWxTAZ9p35rA3HclY/edit?usp=sharing).
+
 
 #### Fall 2019
 
