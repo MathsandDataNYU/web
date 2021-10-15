@@ -31,8 +31,8 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 
 | Date        | Speaker       | Title | Live Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
-| Oct 14 | Florentina Bunea (Cornell) |[Surprises in topic model estimation and  new Wasserstein document-distance calculations](#bunea)|[zoom](https://nyu.zoom.us/j/99417239264)|
-| Oct 21 | Tim Roughgarden (Columbia) |||
+| Oct 14 | Florentina Bunea (Cornell) |[Surprises in topic model estimation and  new Wasserstein document-distance calculations](#bunea)|[recording](https://nyu.zoom.us/rec/share/bUkMQLzr9q9Udm60GwhTJWukZ_8eAODKa54TSxiijukED7JatUQbAWs2XDI4X-JV.46u4Wg0wisfHD0mD?startTime=1634234470000)|
+| Oct 21 | Tim Roughgarden (Columbia) |[Smoothed Analysis of Online Learning](#roughgarden)||
 | Oct 28 | Gemma Moran (Columbia) |||
 | Nov 4| Yanjun Han (Simons Institute) |||
 | Nov 11| Alnur Ali (Stanford) |||
@@ -95,3 +95,9 @@ between alternative probabilistic document representations, at the word and topi
 respectively. The effectiveness of the proposed 1-Wasserstein distances, and contrast with
 the more commonly used WMD between empirical frequency estimates, is illustrated by
 an analysis of an IMDB movie reviews data set.
+
+#### <a name='roughgarden'></a> Tim Roughgarden: Smoothed Analysis of Online Learning
+
+We consider a smoothed model of online learning: at each time step the learning algorithm chooses a hypothesis h from a class H, an adversary then selects a point of the domain, and finally nature slightly perturbs the adversary's choice.  The goal of the learning algorithm is to minimize regret with respect to the best hypothesis of H in hindsight.  Without perturbations (i.e., with a worst-case adversary), the feasibility of achieving vanishing regret is controlled by the finiteness of the Littlestone dimension of H.  Unfortunately, even one-dimensional threshold functions have infinite Littlestone dimension.  We show that in our smoothed model, good regret guarantees are instead controlled by the VC dimension of the hypothesis class, a parameter historically associated with batch (non-online) learning that is generally much smaller than the Littlestone dimensions (e.g., the VC dimension of bounded-degree multivariate polynomial threshold functions is finite).  Our main technical tool is a novel coupling that, in effect, reduces the setting of a smoothed adaptive adversary to the much simpler setting of an oblivious adversary (with all data points distributions chosen in advance).
+
+Joint work with Nika Haghtalab and Abhishek Shetty, based on work appearing in NeurIPS '20 and FOCS '21.
