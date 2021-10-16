@@ -32,7 +32,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 | Date        | Speaker       | Title | Live Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Oct 14 | Florentina Bunea (Cornell) |[Surprises in topic model estimation and  new Wasserstein document-distance calculations](#bunea)|[recording](https://nyu.zoom.us/rec/share/bUkMQLzr9q9Udm60GwhTJWukZ_8eAODKa54TSxiijukED7JatUQbAWs2XDI4X-JV.46u4Wg0wisfHD0mD?startTime=1634234470000)|
-| Oct 21 | Tim Roughgarden (Columbia) |[Smoothed Analysis of Online Learning](#roughgarden)||
+| Oct 21 | Tim Roughgarden (Columbia) |[Smoothed Analysis of Online Learning](#roughgarden)| [zoom](https://nyu.zoom.us/j/91226308483)|
 | Oct 28 | Gemma Moran (Columbia) |||
 | Nov 4| Yanjun Han (Simons Institute) |||
 | Nov 11| Alnur Ali (Stanford) |||
