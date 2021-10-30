@@ -32,11 +32,11 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Date        | Speaker       | Title | Live Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Oct 14 | Florentina Bunea (Cornell) |[Surprises in topic model estimation and  new Wasserstein document-distance calculations](#bunea)|[recording](https://nyu.zoom.us/rec/share/bUkMQLzr9q9Udm60GwhTJWukZ_8eAODKa54TSxiijukED7JatUQbAWs2XDI4X-JV.46u4Wg0wisfHD0mD?startTime=1634234470000)|
-| Oct 21 | Tim Roughgarden (Columbia) |[Smoothed Analysis of Online Learning](#roughgarden)| [zoom](https://nyu.zoom.us/j/91226308483)|
-| Oct 28 | Gemma Moran (Columbia) |[Identifiable Variational Autoencoders via Sparse Decoding](#moran)|[zoom](https://nyu.zoom.us/j/93232052392)|
-| Nov 3 **Special time and location**| Anna Gilbert (Yale) |||
-| Nov 4| Yanjun Han (Simons Institute) |||
-| Nov 11| Alnur Ali (Stanford) |||
+| Oct 21 | Tim Roughgarden (Columbia) |[Smoothed Analysis of Online Learning](#roughgarden)| |
+| Oct 28 | Gemma Moran (Columbia) |[Identifiable Variational Autoencoders via Sparse Decoding](#moran)||
+| Nov 3 [*Special time and location*](#gilbert)| Anna Gilbert (Yale) | [Metric representations: Algorithms and Geometry](#gilbert)|[live stream](https://cimsnyu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aea530e7-bab5-4f76-8678-adcf015bccf5)|
+| Nov 4| Yanjun Han (Simons Institute) |[On the tight statistical analysis of a maximum likelihood estimator based on profiles](#han)|[zoom](https://nyu.zoom.us/j/97738796185)|
+| Nov 11| Alnur Ali (Stanford) |[Slice-Driven Continuous Monitoring of Statistical Models: Detection, Localization, and Retraining](#ali)|[zoom](https://nyu.zoom.us/j/93878731396)|
 
 ---
 
@@ -106,3 +106,25 @@ Joint work with Nika Haghtalab and Abhishek Shetty, based on work appearing in N
 #### <a name='moran'></a> Gemma Moran: Identifiable Variational Autoencoders via Sparse Decoding
 
 We develop the Sparse VAE, a deep generative model for unsupervised representation learning on high-dimensional data.  Given a dataset of observations, the Sparse VAE learns a set of latent factors that captures its distribution.  The model is sparse in the sense that each feature of the dataset (i.e., each dimension) depends on a small subset of the latent factors.  As examples, in ratings data each movie is only described by a few genres; in text data each word is only applicable to a few topics; in genomics, each gene is active in only a few biological processes.  We first show that the Sparse VAE is identifiable: given data drawn from the model, there exists a uniquely optimal set of factors.  (In contrast, most VAE-based models are not identifiable.)  The key assumption behind Sparse-VAE identifiability is the existence of ``anchor features", where for each factor there exists a feature that depends only on that factor. Importantly, the anchor features do not need to be known in advance. We then show how to fit the Sparse VAE with variational EM.  Finally, we empirically study the Sparse VAE with both simulated and real data.  We find that it recovers meaningful latent factors and has smaller heldout reconstruction error than related methods.
+
+#### <a name='gilbert'></a> Anna Gilbert: Metric representations: Algorithms and Geometry, *Wednesday, Nov 3, 4:30 pm, 7th Floor Open Space, 60 5th Avenue*
+
+Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we focus on 3 specific metric constrained problems, a class of optimization problems with metric constraints: metric nearness (Brickell et al. (2008)), weighted correlation clustering on general graphs (Bansal et al. (2004)), and metric learning (Bellet et al. (2013); Davis et al. (2007)). 
+
+Because of the large number of constraints in these problems, however, these and other researchers have been forced to restrict either the kinds of metrics learned or the size of the problem that can be solved. We provide an algorithm, PROJECT AND FORGET, that uses Bregman projections with cutting planes, to solve metric constrained problems with many (possibly exponentially) inequality constraints. We also prove that our algorithm converges to the global optimal solution. Additionally, we show that the optimality error decays asymptotically at an exponential rate. We show that using our method we can solve large problem instances of three types of metric constrained problems, out-performing all state of the art methods with respect to CPU times and problem sizes. 
+
+Finally, we discuss the adaptation of PROJECT AND FORGET to specific types of metric constraints, namely tree and hyperbolic metrics.
+
+#### <a name='han'></a> Yanjun Han: On the tight statistical analysis of a maximum likelihood estimator based on profiles
+
+The maximum likelihood estimator (MLE), dating back to Ronald Fisher in 1912, is arguably the most well-known statistical principle for parameter estimation over the years. Nevertheless, when the ordering of the unknown parameters is unimportant, the MLE may no longer be optimal for parameter estimation modulo permutation. To address this, in 2004 Orlitsky et al. proposed the concept of profiles which discard the ordering information in the samples, as well as a counterpart of MLE called the profile MLE (or PMLE) which maximizes the likelihood of observing a given profile. However, unlike the vast theoretical foundations of the MLE, a complete statistical analysis of the PMLE remained open, and a provable analogy between the MLE and PMLE was largely missing. 
+
+In this talk, we provide a tight statistical analysis of the PMLE under the discrete distribution model. First, we establish an analogy between the MLE and PMLE: the MLE is a minimax rate-optimal estimator of the unknown distribution, while the PMLE is a minimax rate-optimal estimator of the unknown distribution modulo permutation. Second, for estimating symmetric functionals of distributions, we show that plugging the same PMLE into different functionals universally attains their optimal sample complexities, provided that the target accuracy level exceeds a given threshold. Below this tight threshold, any adaptive approach (including the PMLE) fails to be universally optimal, and an exact penalty for adaptation is characterized. Finally, we generalize our analysis for discrete distribution models to Gaussian sequence models and others. 
+
+#### <a name='ali'></a> Alnur Ali: Slice-Driven Continuous Monitoring of Statistical Models: Detection, Localization, and Retraining
+
+Historically, the machine learning community has focused rather intensely on essentially one singular goal: improving sheer predictive accuracy.  However, as we increasingly deploy statistical models into mission-critical applications, there is growing recognition that the challenges related to the ongoing monitoring and maintenance of deployed models are equally important.  In this paper, we present inferential methodology for the localization and detection of interpretable subpopulations (i.e., "slices"), where deployed model performance has begun to degrade.  Naturally, these slices are useful for continuously monitoring model performance, as well as retraining to boost performance.  Theoretically, we prove several results showing that our methodology is optimal for recovering latent subpopulations, and for refitting models to improve accuracy (in a structured normal means setup).  We present empirical results with three real-world data sets -- including a time series involving forecasting the incidence of COVID-19 -- supporting these claims and emphasizing the importance of slice-driven model monitoring and maintenance.
+
+
+
+
