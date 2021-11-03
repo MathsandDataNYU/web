@@ -33,7 +33,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Oct 14 | Florentina Bunea (Cornell) |[Surprises in topic model estimation and  new Wasserstein document-distance calculations](#bunea)|[recording](https://nyu.zoom.us/rec/share/bUkMQLzr9q9Udm60GwhTJWukZ_8eAODKa54TSxiijukED7JatUQbAWs2XDI4X-JV.46u4Wg0wisfHD0mD?startTime=1634234470000)|
 | Oct 21 | Tim Roughgarden (Columbia) |[Smoothed Analysis of Online Learning](#roughgarden)| |
-| Oct 28 | Gemma Moran (Columbia) |[Identifiable Variational Autoencoders via Sparse Decoding](#moran)||
+| Oct 28 | Gemma Moran (Columbia) |[Identifiable Variational Autoencoders via Sparse Decoding](#moran)|[recording](https://nyu.zoom.us/rec/share/p7eDyogK-mkG8nM8Wez1Z8nm1Q3_MExcVu4sdBTzruBEEcNuXQavPW3AfNAi2JiV.CqoREt2s47LlWAEj?startTime=1635444074000)|
 | Nov 3 **Canceled**| ~~Anna Gilbert (Yale)~~ | ~~Metric representations: Algorithms and Geometry~~||
 | Nov 4| Yanjun Han (Simons Institute) |[On the tight statistical analysis of a maximum likelihood estimator based on profiles](#han)|[zoom](https://nyu.zoom.us/j/97738796185)|
 | Nov 11| Alnur Ali (Stanford) |[Slice-Driven Continuous Monitoring of Statistical Models: Detection, Localization, and Retraining](#ali)|[zoom](https://nyu.zoom.us/j/93878731396)|
