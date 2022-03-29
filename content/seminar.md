@@ -31,14 +31,13 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 | Date        | Speaker       | Title | Live Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
-| Oct 14 | Florentina Bunea (Cornell) |[Surprises in topic model estimation and  new Wasserstein document-distance calculations](#bunea)|[recording](https://nyu.zoom.us/rec/share/bUkMQLzr9q9Udm60GwhTJWukZ_8eAODKa54TSxiijukED7JatUQbAWs2XDI4X-JV.46u4Wg0wisfHD0mD?startTime=1634234470000)|
-| Oct 21 | Tim Roughgarden (Columbia) |[Smoothed Analysis of Online Learning](#roughgarden)| |
-| Oct 28 | Gemma Moran (Columbia) |[Identifiable Variational Autoencoders via Sparse Decoding](#moran)|[recording](https://nyu.zoom.us/rec/share/p7eDyogK-mkG8nM8Wez1Z8nm1Q3_MExcVu4sdBTzruBEEcNuXQavPW3AfNAi2JiV.CqoREt2s47LlWAEj?startTime=1635444074000)|
-| Nov 3 **Canceled**| ~~Anna Gilbert (Yale)~~ | ~~Metric representations: Algorithms and Geometry~~||
-| Nov 4| Yanjun Han (Simons Institute) |[On the tight statistical analysis of a maximum likelihood estimator based on profiles](#han)|[zoom](https://nyu.zoom.us/j/97738796185)|
-| Nov 11| Alnur Ali (Stanford) |[Slice-Driven Continuous Monitoring of Statistical Models: Detection, Localization, and Retraining](#ali)|[zoom](https://nyu.zoom.us/j/93878731396)|
-
+| Mar 31 | [Ronen Eldan (Weizmann Institute of Science)](https://www.wisdom.weizmann.ac.il/~ronene/) |[Localization schemes: A framework for the analysis of sampling algorithms](#eldan)| [zoom link](https://nyu.zoom.us/j/94332538693)|
+| Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Shortest Path Without a Map, but with an Entropic Regularization ](#bubeck)| |
+| Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[TBA](#barber)||
+| May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)|
 ---
+
+[Schedule Fall 2021](https://mathsanddatanyu.github.io/website/seminar_fall2021/)
 
 [Schedule Spring 2020](https://mathsanddatanyu.github.io/website/seminar_spring2020/)
 
@@ -55,77 +54,20 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 [Schedule Spring 2017](https://mathsanddatanyu.github.io/website/seminar_spring2017/)
 
 ### Abstracts
-#### <a name='bunea'></a> Florentina Bunea: Surprises in topic model estimation and  new Wasserstein document-distance calculations
+#### <a name='eldan'></a> Ronen Eldan: Localization schemes: A framework for the analysis of sampling algorithms
 
-Topic models have been and continue to be an important modeling tool for an ensemble of
-independent multinomial samples with shared commonality. Although applications of topic
-models span many disciplines, the jargon used to define them stems from text analysis.
-In keeping with the standard terminology, one has access to a corpus of n independent
-documents, each utilizing words from a given dictionary of size p. One draws N words
-from each document and records their respective count, thereby representing the corpus as
-a collection of n samples from independent, p-dimensional, multinomial distributions, each
-having a different, document specific, true word probability vector Π. The topic model
-assumption is that each Π is a mixture of K discrete distributions, that are common to
-the corpus, with document specific mixture weights. The corpus is assumed to cover K
-topics, that are not directly observable, and each of the K mixture components correspond
-to conditional probabilities of words, given a topic. The vector of the K mixture weights,
-per document, is viewed as a document specific topic distribution T, and is thus expected
-to be sparse, as most documents will only cover a few of the K topics of the corpus.
+Two recent and seemingly-unrelated techniques for proving mixing bounds for Markov chains are: (i) the framework of “Spectral Independence”, introduced by Anari, Liu and Oveis Gharan, and its numerous extensions, which have given rise to several breakthroughs in the analysis of mixing times of discrete Markov chains and (ii) the Stochastic Localization technique which has proven useful in establishing mixing and expansion bounds for both log-concave measures and for measures on the discrete hypercube. In this talk, I’ll present a framework which aims to both unify and extend those techniques, thus providing an approach that gives bounds for sampling algorithms in both discrete and continuous settings. In its center is the concept of a "localization scheme" which, to every probability measure on some space $\Omega$ (which will usually be either the discrete hypercube or R^n), assigns a martingale of probability measures which "localize" in space as time evolves. As it turns out, every such scheme can be associated with a Markov chain, and many chains of interest (such as Glauber dynamics) appear naturally in this framework. This viewpoint provides tools for deriving mixing bounds for the dynamics through the analysis of the corresponding localization process. Generalizations of the concept of Spectral Independence naturally arise from our definitions, and in particular we will show how to recover the main theorems in the spectral independence framework via simple martingale arguments (completely bypassing the need to use the theory of high-dimensional expanders). We demonstrate how to apply our machinery towards simple proofs to many mixing bounds in the recent literature. We will briefly discuss some applications, among which are obtaining the first $O(n \log n)$ bound for mixing time of the hardcore-model (of arbitrary degree) in the tree-uniqueness regime, under Glauber dynamics and to proving a KL-divergence decay bound for log-concave sampling via the Restricted Gaussian Oracle, which achieves optimal mixing under any $\exp(n)$-warm start. 
 
-Despite the large body of work on learning topic models, the estimation of sparse topic
-distributions, of unknown sparsity, especially when the mixture components are not known,
-and are estimated from the same corpus, is not well understood and will be the focus of
-this talk. We provide estimators of T, with sharp theoretical guarantees, valid in many
-practically relevant situations, including the scenario p >> N (short documents, sparse
-data) and unknown K. Moreover, the results are valid when dimensions p and K are
-allowed to grow with the sample sizes N and n.
+Based on a joint work with Yuansi Chen.
 
-When the mixture components are known, we propose MLE estimation of the sparse
-vector T, the analysis of which has been open until now. The surprising result, and a
-remarkable property of the MLE in these models, is that, under appropriate conditions, and
-without further regularization, it can be exactly sparse, and contain the true zero pattern
-of the target. When the mixture components are not known, we exhibit computationally
-fast and rate optimal estimators for them, and propose a quasi-MLE estimator of T, shown
-to retain the properties of the MLE. The practical implication of our sharp, finite-sample,
-rate analyses of the MLE and quasi-MLE reveal that having short documents can be
-compensated for, in terms of estimation precision, by having a large corpus.
+#### <a name='bubeck'></a> Sébastien Bubeck: Shortest Path Without a Map, but with an Entropic Regularization
 
-Our main application is to the estimation of 1-Wasserstein distances between document
-generating distributions. We propose, estimate and analyze new 1-Wasserstein distances
-between alternative probabilistic document representations, at the word and topic level,
-respectively. The effectiveness of the proposed 1-Wasserstein distances, and contrast with
-the more commonly used WMD between empirical frequency estimates, is illustrated by
-an analysis of an IMDB movie reviews data set.
+In 1989, a paper titled Shortest Path Without a Map, Papadimitriou and Yannakakis introduced a simple model of search under uncertainty: find the shortest path in an unknown​ graph that is being revealed sequentially (think of a robot exploring an unknown environment). Rather quickly it was shown that the competitive ratio for this problem is polynomial in the size k of the revealed neighborhoods. Namely, in 1993, Ramesh showed that the optimal competitive ratio is between k^2 and k^13. Progress on this problem stopped there, despite many advances in related questions in the last 3 decades (e.g., k-server, metrical task systems). In this talk I will present an optimal k^2 algorithm based on the mirror descent framework. At a high level the key technical innovation is the use of a time-evolving mirror map to represent the geometry of the space that is being discovered.
 
-#### <a name='roughgarden'></a> Tim Roughgarden: Smoothed Analysis of Online Learning
+Joint work with Christian Coester and Yuval Rabani.
 
-We consider a smoothed model of online learning: at each time step the learning algorithm chooses a hypothesis h from a class H, an adversary then selects a point of the domain, and finally nature slightly perturbs the adversary's choice.  The goal of the learning algorithm is to minimize regret with respect to the best hypothesis of H in hindsight.  Without perturbations (i.e., with a worst-case adversary), the feasibility of achieving vanishing regret is controlled by the finiteness of the Littlestone dimension of H.  Unfortunately, even one-dimensional threshold functions have infinite Littlestone dimension.  We show that in our smoothed model, good regret guarantees are instead controlled by the VC dimension of the hypothesis class, a parameter historically associated with batch (non-online) learning that is generally much smaller than the Littlestone dimensions (e.g., the VC dimension of bounded-degree multivariate polynomial threshold functions is finite).  Our main technical tool is a novel coupling that, in effect, reduces the setting of a smoothed adaptive adversary to the much simpler setting of an oblivious adversary (with all data points distributions chosen in advance).
+#### <a name='barber'></a> Rina Foygel Barber:  TBA
 
-Joint work with Nika Haghtalab and Abhishek Shetty, based on work appearing in NeurIPS '20 and FOCS '21.
-
-#### <a name='moran'></a> Gemma Moran: Identifiable Variational Autoencoders via Sparse Decoding
-
-We develop the Sparse VAE, a deep generative model for unsupervised representation learning on high-dimensional data.  Given a dataset of observations, the Sparse VAE learns a set of latent factors that captures its distribution.  The model is sparse in the sense that each feature of the dataset (i.e., each dimension) depends on a small subset of the latent factors.  As examples, in ratings data each movie is only described by a few genres; in text data each word is only applicable to a few topics; in genomics, each gene is active in only a few biological processes.  We first show that the Sparse VAE is identifiable: given data drawn from the model, there exists a uniquely optimal set of factors.  (In contrast, most VAE-based models are not identifiable.)  The key assumption behind Sparse-VAE identifiability is the existence of ``anchor features", where for each factor there exists a feature that depends only on that factor. Importantly, the anchor features do not need to be known in advance. We then show how to fit the Sparse VAE with variational EM.  Finally, we empirically study the Sparse VAE with both simulated and real data.  We find that it recovers meaningful latent factors and has smaller heldout reconstruction error than related methods.
-<!--
-#### <a name='gilbert'></a> Anna Gilbert: Metric representations: Algorithms and Geometry, *Wednesday, Nov 3, 4:30 pm, 7th Floor Open Space, 60 5th Avenue*
-
-Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we focus on 3 specific metric constrained problems, a class of optimization problems with metric constraints: metric nearness (Brickell et al. (2008)), weighted correlation clustering on general graphs (Bansal et al. (2004)), and metric learning (Bellet et al. (2013); Davis et al. (2007)). 
-
-Because of the large number of constraints in these problems, however, these and other researchers have been forced to restrict either the kinds of metrics learned or the size of the problem that can be solved. We provide an algorithm, PROJECT AND FORGET, that uses Bregman projections with cutting planes, to solve metric constrained problems with many (possibly exponentially) inequality constraints. We also prove that our algorithm converges to the global optimal solution. Additionally, we show that the optimality error decays asymptotically at an exponential rate. We show that using our method we can solve large problem instances of three types of metric constrained problems, out-performing all state of the art methods with respect to CPU times and problem sizes. 
-
-Finally, we discuss the adaptation of PROJECT AND FORGET to specific types of metric constraints, namely tree and hyperbolic metrics.
-
--->
-#### <a name='han'></a> Yanjun Han: On the tight statistical analysis of a maximum likelihood estimator based on profiles
-
-The maximum likelihood estimator (MLE), dating back to Ronald Fisher in 1912, is arguably the most well-known statistical principle for parameter estimation over the years. Nevertheless, when the ordering of the unknown parameters is unimportant, the MLE may no longer be optimal for parameter estimation modulo permutation. To address this, in 2004 Orlitsky et al. proposed the concept of profiles which discard the ordering information in the samples, as well as a counterpart of MLE called the profile MLE (or PMLE) which maximizes the likelihood of observing a given profile. However, unlike the vast theoretical foundations of the MLE, a complete statistical analysis of the PMLE remained open, and a provable analogy between the MLE and PMLE was largely missing. 
-
-In this talk, we provide a tight statistical analysis of the PMLE under the discrete distribution model. First, we establish an analogy between the MLE and PMLE: the MLE is a minimax rate-optimal estimator of the unknown distribution, while the PMLE is a minimax rate-optimal estimator of the unknown distribution modulo permutation. Second, for estimating symmetric functionals of distributions, we show that plugging the same PMLE into different functionals universally attains their optimal sample complexities, provided that the target accuracy level exceeds a given threshold. Below this tight threshold, any adaptive approach (including the PMLE) fails to be universally optimal, and an exact penalty for adaptation is characterized. Finally, we generalize our analysis for discrete distribution models to Gaussian sequence models and others. 
-
-#### <a name='ali'></a> Alnur Ali: Slice-Driven Continuous Monitoring of Statistical Models: Detection, Localization, and Retraining
-
-Historically, the machine learning community has focused rather intensely on essentially one singular goal: improving sheer predictive accuracy.  However, as we increasingly deploy statistical models into mission-critical applications, there is growing recognition that the challenges related to the ongoing monitoring and maintenance of deployed models are equally important.  In this paper, we present inferential methodology for the localization and detection of interpretable subpopulations (i.e., "slices"), where deployed model performance has begun to degrade.  Naturally, these slices are useful for continuously monitoring model performance, as well as retraining to boost performance.  Theoretically, we prove several results showing that our methodology is optimal for recovering latent subpopulations, and for refitting models to improve accuracy (in a structured normal means setup).  We present empirical results with three real-world data sets -- including a time series involving forecasting the incidence of COVID-19 -- supporting these claims and emphasizing the importance of slice-driven model monitoring and maintenance.
-
-
+#### <a name='sun'></a> Nike Sun:  TBA
 
 
