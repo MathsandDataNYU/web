@@ -16,6 +16,22 @@ menu = "main"
 
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
+### Schedule Spring 2022
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| March 7, 11am | [Marten Wegkamp](https://pi.math.cornell.edu/~marten/) (Cornell) | [Optimal Discriminant Analysis in High-Dimensional Latent Factor Models](#marten) | |
+| April 8, 3pm | [Lionel Riou-Durand](https://sites.google.com/view/lionel-riou-durand/about-me) (Warwick) | [Metropolis Adjusted Langevin Trajectories: a robust alternative to Hamiltonian Monte Carlo](#lionel) | Room 204, 60 Fifth Ave [zoom](https://mit.zoom.us/j/94074200978)|
+
+#### <a name="marten"></a> Marten Wegkamp: Optimal Discriminant Analysis in High-Dimensional Latent Factor Models
+
+In high-dimensional classification problems, a commonly used approach is to first project the high-dimensional features into a lower dimensional space, and base the classification on the resulting lower dimensional projections. In this talk, we formulate a latent-variable model with a hidden low-dimensional structure to justify this two-step procedure and to guide which projection to choose. We propose a computationally efficient classifier that takes certain principal components (PCs) of the observed features as projections, with the number of retained PCs selected in a data-driven way. A general theory is established for analyzing such two-step classifiers based on any low-dimensional projections. We derive explicit rates of convergence of the excess risk of the proposed PC-based classifier. The obtained rates are further shown to be optimal up to logarithmic factors in the minimax sense. Our theory allows, but does not require, the lower-dimension to grow with the sample size and is also valid even when the feature dimension exceeds the sample size. Extensive simulations corroborate our theoretical findings and the proposed method performs favorably relative to other existing discriminant methods on three real data examples.
+
+
+#### <a name="lionel"></a> Lionel Riou-Durand: Metropolis Adjusted Langevin Trajectories: a robust alternative to Hamiltonian Monte Carlo
+
+Hamiltonian Monte Carlo (HMC) is a widely used sampler, known for its efficiency on high dimensional distributions. Yet HMC remains quite sensitive to the choice of integration time. Randomizing the length of Hamiltonian trajectories (RHMC) has been suggested to smooth the Auto-Correlation Functions (ACF), ensuring robustness of tuning. We present the Langevin diffusion as an alternative to control these ACFs by inducing randomness in Hamiltonian trajectories through a continuous refreshment of the velocities. We connect and compare the two processes in terms of quantitative mixing rates for the 2-Wasserstein and L2 distances. The Langevin diffusion is presented as a limit of RHMC achieving the fastest mixing rate for strongly log-concave targets. We introduce a robust alternative to HMC built upon these dynamics, named Metropolis Adjusted Langevin Trajectories (MALT). Studying the scaling limit of MALT, we obtain optimal tuning guidelines similar to HMC, and recover the same scaling with respect to the dimension without additional assumptions. We illustrate numerically the efficiency of MALT compared to HMC and RHMC.
+
+
 
 ### Schedule Summer 2020
 

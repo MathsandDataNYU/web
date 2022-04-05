@@ -34,6 +34,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Mar 31 | [Ronen Eldan (Weizmann Institute of Science)](https://www.wisdom.weizmann.ac.il/~ronene/) |[Localization schemes: A framework for the analysis of sampling algorithms](#eldan)| [zoom link](https://nyu.zoom.us/j/94332538693)|
 | Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Shortest Path Without a Map, but with an Entropic Regularization ](#bubeck)| |
 | Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[TBA](#barber)||
+| April 28 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [TBA](#gilbert)||
 | May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)|
 ---
 
@@ -67,6 +68,9 @@ In 1989, a paper titled Shortest Path Without a Map, Papadimitriou and Yannakaki
 Joint work with Christian Coester and Yuval Rabani.
 
 #### <a name='barber'></a> Rina Foygel Barber:  TBA
+
+#### <a name='gilbert'></a> Anna Gilbert:  TBA
+
 
 #### <a name='sun'></a> Nike Sun:  TBA
 
