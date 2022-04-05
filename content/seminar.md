@@ -35,7 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Shortest Path Without a Map, but with an Entropic Regularization ](#bubeck)| |
 | Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[TBA](#barber)||
 | April 28 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [TBA](#gilbert)||
-| May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)|
+| May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)||
 ---
 
 [Schedule Fall 2021](https://mathsanddatanyu.github.io/website/seminar_fall2021/)
