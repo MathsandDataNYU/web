@@ -32,7 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Date        | Speaker       | Title | Live Stream
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Mar 31 | [Ronen Eldan (Weizmann Institute of Science)](https://www.wisdom.weizmann.ac.il/~ronene/) |[Localization schemes: A framework for the analysis of sampling algorithms](#eldan)| [zoom link](https://nyu.zoom.us/j/94332538693)|
-| Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Set Chasing, with an application to online shortest path](#bubeck)| |
+| Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Set Chasing, with an application to online shortest path](#bubeck)| [zoom link](https://nyu.zoom.us/j/92524207563) |
 | Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[TBA](#barber)||
 | April 28 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [TBA](#gilbert)||
 | May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)||
