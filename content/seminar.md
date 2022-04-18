@@ -33,7 +33,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | ----------- |:-------------:|:-----------:|:-----------:|
 | Mar 31 | [Ronen Eldan (Weizmann Institute of Science)](https://www.wisdom.weizmann.ac.il/~ronene/) |[Localization schemes: A framework for the analysis of sampling algorithms](#eldan)| [zoom link](https://nyu.zoom.us/j/94332538693)|
 | Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Set Chasing, with an application to online shortest path](#bubeck)| [zoom link](https://nyu.zoom.us/j/92524207563) |
-| Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[TBA](#barber)||
+| Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[Conformal prediction beyond exchangeability](#barber)| [link](https://cimsnyu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e24c08f7-17e8-45a9-bb0a-ae76014386d0)|
 | April 28 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [TBA](#gilbert)||
 | May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)||
 ---
@@ -65,7 +65,11 @@ Based on a joint work with Yuansi Chen.
 
 Since the late 19th century, mathematicians have realized the importance and generality of selection problems: given a collection of sets, select an element in each set, possibly in a ``nice” way. Of particular importance in computer science is the scenario where the ground set is a metric space, in which case it is natural to ask for *Lipschitz* selection (with Hausdorff distance between sets). In this talk I will describe a far-reaching extension of this classical Lipschitz selection problem to an *online* setting, where sets are streaming to the selector. I will show how Riemannian gradient descent (aka mirror descent) can be used to approach this type of problems. I will illustrate the power of the framework by solving a long-standing problem in online shortest path known as layered graph traversal (introduced by Papadimitriou and Yannakakis in 1989).
 
-#### <a name='barber'></a> Rina Foygel Barber:  TBA
+#### <a name='barber'></a> Rina Foygel Barber:  Conformal prediction beyond exchangeability
+
+Conformal prediction is a popular, modern technique for providing valid predictive inference for arbitrary machine learning models. Its validity relies on the assumptions of exchangeability of the data, and symmetry of the given model fitting algorithm as a function of the data. However, exchangeability is often violated when predictive models are deployed in practice. For example, if the data distribution drifts over time, then the data points are no longer exchangeable; moreover, in such settings, we might want to use an algorithm that treats recent observations as more relevant, which would violate the assumption that data points are treated symmetrically. This paper proposes new methodology to deal with both aspects: we use weighted quantiles to introduce robustness against distribution drift, and design a new technique to allow for algorithms that do not treat data points symmetrically, with theoretical results verifying coverage guarantees that are robust to violations of exchangeability.
+
+This work is joint with Emmanuel Candes, Aaditya Ramdas, and Ryan Tibshirani.
 
 #### <a name='gilbert'></a> Anna Gilbert:  TBA
 
