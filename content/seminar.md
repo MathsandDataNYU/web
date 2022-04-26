@@ -34,7 +34,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Mar 31 | [Ronen Eldan (Weizmann Institute of Science)](https://www.wisdom.weizmann.ac.il/~ronene/) |[Localization schemes: A framework for the analysis of sampling algorithms](#eldan)| [zoom link](https://nyu.zoom.us/j/94332538693)|
 | Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Set Chasing, with an application to online shortest path](#bubeck)| [zoom link](https://nyu.zoom.us/j/92524207563) |
 | Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[Conformal prediction beyond exchangeability](#barber)| [link](https://cimsnyu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e24c08f7-17e8-45a9-bb0a-ae76014386d0)|
-| April 28 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [TBA](#gilbert)||
+| April 28 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [Metric representations: Algorithms and Geometry](#gilbert)| [zoom link](https://nyu.zoom.us/j/95030203355)|
 | May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)||
 ---
 
@@ -71,7 +71,8 @@ Conformal prediction is a popular, modern technique for providing valid predicti
 
 This work is joint with Emmanuel Candes, Aaditya Ramdas, and Ryan Tibshirani.
 
-#### <a name='gilbert'></a> Anna Gilbert:  TBA
+#### <a name='gilbert'></a> Anna Gilbert:  Metric representations: Algorithms and Geometry
+Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we discuss a number of variants of this problem, from convex optimization problems with metric constraints to sparse metric repair.
 
 
 #### <a name='sun'></a> Nike Sun:  TBA
