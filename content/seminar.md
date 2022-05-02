@@ -35,7 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Apr 14 | [Sébastien Bubeck (MSR)](http://sbubeck.com/) |[Set Chasing, with an application to online shortest path](#bubeck)| [zoom link](https://nyu.zoom.us/j/92524207563) |
 | Apr 21 | [Rina Foygel Barber (U Chicago)](https://rinafb.github.io/) |[Conformal prediction beyond exchangeability](#barber)| [link](https://cimsnyu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e24c08f7-17e8-45a9-bb0a-ae76014386d0)|
 | April 28 **Canceled**| ~~[Anna Gilbert (Yale)](https://annacgilbert.github.io/)~~ | ~~[Metric representations: Algorithms and Geometry](#gilbert)~~ ||
-| May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[TBA](#sun)||
+| May 5| [Nike Sun (MIT)](https://math.mit.edu/~nsun/) |[On the Ising perceptron](#sun)|[zoom link](https://nyu.zoom.us/j/92830550229)|
 ---
 
 [Schedule Fall 2021](https://mathsanddatanyu.github.io/website/seminar_fall2021/)
@@ -75,6 +75,6 @@ This work is joint with Emmanuel Candes, Aaditya Ramdas, and Ryan Tibshirani.
 Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we discuss a number of variants of this problem, from convex optimization problems with metric constraints to sparse metric repair.
 
 
-#### <a name='sun'></a> Nike Sun:  TBA
-
-
+#### <a name='sun'></a> Nike Sun:  On the Ising perceptron
+The perceptron is a toy model of a single-layer neural network that "stores" a collection of given patterns. The model with N nodes and M=N*alpha random patterns is related to a natural problem in high-dimensional probability, concerning the intersection of M random half-spaces with the discrete cube or sphere in N dimensions. We also consider a more general version of the problem, defined by bounded activation functions, which was introduced and studied by Talagrand. We will present some new techniques and recent results on these models.
+Based on joint works with Jian Ding, Erwin Bolthausen, Shuta Nakajima, and Changji Xu.
