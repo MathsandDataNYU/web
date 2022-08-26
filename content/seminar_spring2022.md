@@ -7,9 +7,9 @@ Categories = [
   "Development",
   "GoLang",
 ]
-menu = "main"
+menu = ""
 date = "2016-12-22T14:45:56-05:00"
-title = "the MAD Seminar"
+title = "the MAD Seminar Spring 2022"
 Description = ""
 
 +++
