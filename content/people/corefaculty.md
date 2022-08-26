@@ -35,6 +35,13 @@ Assistant Professor, Department of Mathematics and Center for Data Science.
 
 #### [Julia Kempe](http://www.cims.nyu.edu/~kempe/)
 Professor, Department of Mathematics, Computer Science and Center for Data Science.    
+
+<img style="float: left;" src="../../img/qi.jpg" height="90" style="border:4px solid white;"> 
+<br/> 
+
+#### [Qi Lei](https://cecilialeiqi.github.io/)
+Assistant Professor, Department of Mathematics and Center for Data Science.    
+
    
 <img style="float: left;" src="../../img/jon.jpg" height="90" style="border:4px solid white;"> 
 <br/> 
