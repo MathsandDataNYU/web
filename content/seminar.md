@@ -30,8 +30,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 
 | Date        | Speaker       | Title | Live Stream
-| ----------- |:-------------:|:-----------:|:-----------:|
-|: TBA :|: TBA :|: TBA :|: TBA :|
+|:-----------:|:-------------:|:-----------:|:-----------:|
+| TBA | TBA | TBA | TBA |
 ---
 
 [Schedule Spring 2022](https://mathsanddatanyu.github.io/website/seminar_spring2022/)
