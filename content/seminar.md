@@ -32,7 +32,10 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Date        | Speaker       | Title | Recording
 |:-----------:|:-------------:|:-----------:|:-----------:|
 | September 15  | Jason Altschuler (NYU) | TBA | |
-| September 22 | Qi Lei (NYU) | TBA||
+| September 22 | Qi Lei (NYU) | TBA| |
+| September 28 **special date** | Nati Srebro (TTIC) | TBA | |
+| October 6 | Boris Hanin (Princeton) | TBA | |
+
 ---
 
 [Schedule Spring 2022](https://mathsanddatanyu.github.io/website/seminar_spring2022/)
