@@ -35,7 +35,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | September 22 | [Qi Lei (NYU)](https://cecilialeiqi.github.io/) | [Optimal Gradient-based Algorithms for Non-concave Bandit Optimization](#lei)| |
 | September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) | |
 | October 6 | Boris Hanin (Princeton) | TBA | |
+| October 13 | Quentin Berthet (Google) | TBA ||
 | November 3 | Anna Gilbert (Yale) | TBA | |
+| November 10| Arthur Jacot (NYU) | TBA ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
 
 ---
