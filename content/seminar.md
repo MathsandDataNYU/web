@@ -36,6 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) | |
 | October 6 | [Boris Hanin (Princeton)](https://hanin.princeton.edu/) | [Exact Solutions to Bayesian Interpolation with Deep Linear Networks](#boris) | |
 | October 13 | Quentin Berthet (Google) | TBA ||
+| October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
 | November 3 | Anna Gilbert (Yale) | TBA | |
 | November 10| Arthur Jacot (NYU) | TBA ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
@@ -83,3 +84,34 @@ Based on joint work with Lijia Zhou, Fred Koehler, Danica Sutherland and Pragya 
 
 This talk concerns Bayesian interpolation with an overparameterized linear neural networks (products of matrices) with quadratic log-likelihood and Gaussian prior on model parameters. I will present ongoing work, joint with Alexander Zlokapa (MIT Physics), in which we obtain an exact representation - in terms of special functions known as Meijer G-functions - for the posterior distribution of the predictor which holds for any fixed choice of input dimension, layer widths, depth, and number of training datapoints. Analyzing these expressions reveals that at finite depth, in the limit of infinite width and number of datapoints, networks are never Bayes optimal. However, in the triple scaling limit of large number of datapoint, width, and depththe posterior becomes independent of the prior and is the same as the Bayes optimal predictor at finite depth. In particular, at infinite depth, the prior does not need to be fine-tuned to achieve optimality, either in the Bayesian or the L_2-sense.
 
+#### <a name='xin'></a> Jack Xin: DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods
+
+Multiscale time dependent partial differential equations (PDE) are challenging to compute by traditional mesh based methods especially when their solutions develop large gradients or concentrations at unknown locations. Particle methods, based on microscopic aspects of the PDEs, are mesh free and self-adaptive, yet still expensive when a 
+long time or a resolved computation is necessary. 
+
+We present DeepParticle, an integrated deep learning, optimal transport (OT), and interacting particle (IP) approach, to speed up 
+generation and prediction of PDE dynamics of interest through two case studies. 
+ One is on large time front speeds of Fisher-Kolmogorov-Petrovsky-Piskunov equation (FKPP) modeling flames in fluid flows with chaotic streamlines; the other is 
+on a Keller-Segel (KS) chemotaxis system modeling bacteria evolution in fluid flows 
+in the presence of a chemical attractant. 
+
+
+Analysis of FKPP reduces the problem to a computation of principal eigenvalue of 
+an advection-diffusion operator. A normalized Feynman-Kac representation 
+makes possible a genetic IP algorithm that 
+evolves the initial uniform particle distribution to a large time invariant measure 
+from which to extract the front speeds. The invariant measure is parameterized 
+by a physical parameter (the Peclet number). We train a 
+light weight deep neural network with local and global skip connections to learn this family of invariant measures. The training data come from affordable IP computation in three dimensions at a few sample Peclet numbers. The training objective being minimized 
+is a discrete Wasserstein distance in OT theory. The trained network predicts a more concentrated invariant measure at a larger Peclet number 
+and also serves as a warm start to accelerate IP computation. 
+   
+
+The KS is formulated as a McKean-Vlasov equation (macroscopic limit) of 
+a stochastic IP system. The DeepParticle framework extends and 
+learns to generate finite time bacterial aggregation patterns 
+in three dimensional laminar and chaotic flows.
+  
+
+Joint work with Zhongjian Wang (University of Chicago) 
+and Zhiwen Zhang (University of Hong Kong).
