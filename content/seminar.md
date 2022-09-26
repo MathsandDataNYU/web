@@ -34,7 +34,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | September 15  | [Jason Altschuler (NYU)](https://www.mit.edu/~jasonalt/) | [Privacy of Noisy SGD](#altschuler) | |
 | September 22 | [Qi Lei (NYU)](https://cecilialeiqi.github.io/) | [Optimal Gradient-based Algorithms for Non-concave Bandit Optimization](#lei)| |
 | September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) | |
-| October 6 | Boris Hanin (Princeton) | TBA | |
+| October 6 | [Boris Hanin (Princeton)](https://hanin.princeton.edu/) | [Exact Solutions to Bayesian Interpolation with Deep Linear Networks](#boris) | |
 | October 13 | Quentin Berthet (Google) | TBA ||
 | November 3 | Anna Gilbert (Yale) | TBA | |
 | November 10| Arthur Jacot (NYU) | TBA ||
@@ -78,4 +78,8 @@ Bandit problems with linear or concave reward have been extensively studied, but
 The classic view of statistical learning tells us that we should balance model fit with model complexity instead of insisting on training error that's much lower than what we can expect to generalize to, or even lower than the noise level or Bayes error.  And that this balance, and control on model complexity ensures good generalization.  But in recent years we have seen that in many situations we can learn and generalize without such a balance, and despite (over?) fitting the training set well below the noise level.  This has caused us to rethink the basic principles underlying statistical learning theory.  In this talk I will discuss how much of our theory we can salvage and how much of it needs to be revised, focusing on the role of uniform convergence in understanding interpolation learning.
 
 Based on joint work with Lijia Zhou, Fred Koehler, Danica Sutherland and Pragya Sur
+
+#### <a name='boris'></a> Boris Hanin: Exact Solutions to Bayesian Interpolation with Deep Linear Networks
+
+This talk concerns Bayesian interpolation with an overparameterized linear neural networks (products of matrices) with quadratic log-likelihood and Gaussian prior on model parameters. I will present ongoing work, joint with Alexander Zlokapa (MIT Physics), in which we obtain an exact representation - in terms of special functions known as Meijer G-functions - for the posterior distribution of the predictor which holds for any fixed choice of input dimension, layer widths, depth, and number of training datapoints. Analyzing these expressions reveals that at finite depth, in the limit of infinite width and number of datapoints, networks are never Bayes optimal. However, in the triple scaling limit of large number of datapoint, width, and depththe posterior becomes independent of the prior and is the same as the Bayes optimal predictor at finite depth. In particular, at infinite depth, the prior does not need to be fine-tuned to achieve optimality, either in the Bayesian or the L_2-sense.
 
