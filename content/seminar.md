@@ -29,17 +29,17 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 ### Schedule with Confirmed Speakers
 
 
-| Date        | Speaker       | Title | Recording
-|:-----------:|:-------------:|:-----------:|:-----------:|
-| September 15  | [Jason Altschuler (NYU)](https://www.mit.edu/~jasonalt/) | [Privacy of Noisy SGD](#altschuler) | |
-| September 22 | [Qi Lei (NYU)](https://cecilialeiqi.github.io/) | [Optimal Gradient-based Algorithms for Non-concave Bandit Optimization](#lei)| |
-| September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) | |
-| October 6 | [Boris Hanin (Princeton)](https://hanin.princeton.edu/) | [Exact Solutions to Bayesian Interpolation with Deep Linear Networks](#boris) | |
-| October 13 | Quentin Berthet (Google) | TBA ||
-| October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
-| November 3 | Anna Gilbert (Yale) | TBA | |
-| November 10| Arthur Jacot (NYU) | TBA ||
-| December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
+| Date        | Speaker       | Title | Zoom | Recording
+|:-----------:|:-------------:|:-----------:|:-----------:|:-----------:|
+| September 15  | [Jason Altschuler (NYU)](https://www.mit.edu/~jasonalt/) | [Privacy of Noisy SGD](#altschuler) | | |
+| September 22 | [Qi Lei (NYU)](https://cecilialeiqi.github.io/) | [Optimal Gradient-based Algorithms for Non-concave Bandit Optimization](#lei)| | | 
+| September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) | [zoom](https://nyu.zoom.us/j/92095891372)  | |
+| October 6 | [Boris Hanin (Princeton)](https://hanin.princeton.edu/) | [Exact Solutions to Bayesian Interpolation with Deep Linear Networks](#boris) | | |
+| October 13 | Quentin Berthet (Google) | TBA || |
+| October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) || |
+| November 3 | Anna Gilbert (Yale) | TBA | | |
+| November 10| Arthur Jacot (NYU) | TBA || |
+| December 1 | Soledad Villar (Johns Hopkins University) | TBA | | |
 
 ---
 
