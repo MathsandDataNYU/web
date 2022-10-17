@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) |  |
 | October 6 | [Boris Hanin (Princeton)](https://hanin.princeton.edu/) | [Exact Solutions to Bayesian Interpolation with Deep Linear Networks](#boris) | |
 | October 13 | [Quentin Berthet (Google)](https://q-berthet.github.io/) |[Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm](#quentin)| |
-| October 20 | [Shipra Agrawal (Columbia)](http://www.columbia.edu/~sa3305/) |[Dynamic Pricing and Learning under the Bass Model](#quentin)| |
+| October 20 | [Shipra Agrawal (Columbia)](http://www.columbia.edu/~sa3305/) |[Dynamic Pricing and Learning under the Bass Model](#shipra)| |
 | October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
 | November 3 | Anna Gilbert (Yale) | TBA | |
 | November 10| Arthur Jacot (NYU) | TBA ||
