@@ -36,6 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) |  |
 | October 6 | [Boris Hanin (Princeton)](https://hanin.princeton.edu/) | [Exact Solutions to Bayesian Interpolation with Deep Linear Networks](#boris) | |
 | October 13 | [Quentin Berthet (Google)](https://q-berthet.github.io/) |[Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm](#quentin)| |
+| October 20 | [Shipra Agrawal (Columbia)](http://www.columbia.edu/~sa3305/) |[Dynamic Pricing and Learning under the Bass Model](#quentin)| |
 | October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
 | November 3 | Anna Gilbert (Yale) | TBA | |
 | November 10| Arthur Jacot (NYU) | TBA ||
@@ -89,6 +90,17 @@ This talk concerns Bayesian interpolation with an overparameterized linear neura
 We propose a systematic method to transform optimizers into operations that are differentiable and never locally constant. This expands the scope of learning problems that can be solved in an end-to-end fashion. Our approach relies on stochastically perturbed optimizers, and can be used readily together with existing solvers. Their derivatives can be evaluated efficiently, and smoothness tuned via the chosen noise amplitude. We also show how this framework can be connected to a family of losses developed in structured prediction, and give theoretical guarantees for their use in learning tasks.
 
 We show applications to the problem of minimizing the sum of two convex functions. In particular, we show that this algorithmic setup naturally leads to a variant of Frank-Wolfe achieving acceleration under parallelization. More precisely, when minimizing a smooth convex function on a bounded domain, we show that one can achieve an ε primal-dual gap (in expectation) in O(1/√ε) iterations, by only accessing gradients of the original function and a linear maximization oracle with O(1/√ε) computing units in parallel. We illustrate this fast convergence on synthetic numerical experiments.
+
+
+#### <a name='shipra'></a> Shipra Agrawal: Dynamic Pricing and Learning under the Bass Model
+
+In this talk, I will discuss a novel formulation of the dynamic pricing and demand learning problem, where the evolution of demand in response to posted prices is governed by a stochastic variant of the popular Bass model with parameters (α, β) that are linked to the so-called "innovation" and "imitation" effects. Unlike the more commonly used i.i.d. demand models, in this model the price posted not only affects the demand and the revenue in the current round but also the evolution of demand, and hence the fraction of market potential that can be captured, in future rounds. Finding a revenue-maximizing dynamic pricing policy in this model is non-trivial even when model parameters are known, and requires solving for the optimal non-stationary policy of a continuous-time, continuous-state MDP. In this work, we consider the problem of dynamic pricing in conjunction with learning the model parameters, with the objective of optimizing the cumulative revenues over a given selling horizon. Our main contribution is an algorithm with a regret guarantee of O (m^2/3), where m is the mnemonic for the (known) market size. Moreover, we show that no algorithm can incur smaller order of loss by deriving a matching lower bound. We observe that in this problem the market size m, and not the time horizon T, is the fundamental driver of the complexity; our lower bound in fact indicates that for any fixed α,β, most non-trivial instances of the problem have constant T and large m. This insight sets the problem setting considered here uniquely apart from the MAB-type formulations typically considered in the learning-to-price literature.
+
+Joint work with Steven Yin (Columbia) and
+Assaf Zeevi (Columbia)
+
+
+
 #### <a name='xin'></a> Jack Xin: DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods
 
 Multiscale time dependent partial differential equations (PDE) are challenging to compute by traditional mesh based methods especially when their solutions develop large gradients or concentrations at unknown locations. Particle methods, based on microscopic aspects of the PDEs, are mesh free and self-adaptive, yet still expensive when a 
