@@ -38,7 +38,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | October 13 | [Quentin Berthet (Google)](https://q-berthet.github.io/) |[Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm](#quentin)| |
 | October 20 | [Shipra Agrawal (Columbia)](http://www.columbia.edu/~sa3305/) |[Dynamic Pricing and Learning under the Bass Model](#shipra)|[Link](https://nyu.zoom.us/rec/share/KO_gn1AsmjFLDPOXCqI787YrrhtmvB1Jwta_v6UTEPX-T1pd2JYCleZaPbwzETEB.D6Qhr1ZG_2qmTYEk) Passcode: yG%*7ekY | 
 | October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
-| November 3 | Anna Gilbert (Yale) | TBA | |
+| November 3 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [Metric representations: Algorithms and Geometry](#anna)| |
 | November 10| Arthur Jacot (NYU) | TBA ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
 
@@ -132,3 +132,7 @@ in three dimensional laminar and chaotic flows.
 
 Joint work with Zhongjian Wang (University of Chicago) 
 and Zhiwen Zhang (University of Hong Kong).
+
+#### <a name='anna'></a> Anna Gilbert: Metric representations: Algorithms and Geometry
+
+Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we discuss a number of variants of this problem, from convex optimization problems with metric constraints to sparse metric repair.
