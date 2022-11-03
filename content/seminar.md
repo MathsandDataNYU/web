@@ -39,6 +39,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | October 20 | [Shipra Agrawal (Columbia)](http://www.columbia.edu/~sa3305/) |[Dynamic Pricing and Learning under the Bass Model](#shipra)|[Link](https://nyu.zoom.us/rec/share/KO_gn1AsmjFLDPOXCqI787YrrhtmvB1Jwta_v6UTEPX-T1pd2JYCleZaPbwzETEB.D6Qhr1ZG_2qmTYEk) Passcode: yG%*7ekY | 
 | October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
 | November 3 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [Metric representations: Algorithms and Geometry](#anna)| |
+| November 9 **special date**| [Pablo Parrilo (MIT)](https://www.mit.edu/~parrilo/) | [Shortest Paths in Graphs of Convex Sets, and their Applications](#pablo) ||
 | November 10| Arthur Jacot (NYU) | TBA ||
 | November 11 **special date**| [Theodor Misiakiewicz](https://misiakie.github.io/) (Stanford) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
@@ -137,6 +138,15 @@ and Zhiwen Zhang (University of Hong Kong).
 #### <a name='anna'></a> Anna Gilbert: Metric representations: Algorithms and Geometry
 
 Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we discuss a number of variants of this problem, from convex optimization problems with metric constraints to sparse metric repair.
+
+
+#### <a name='pablo'></a> Pablo Parrilo: Shortest Paths in Graphs of Convex Sets, and their Applications
+
+Given a graph, the shortest-path problem requires finding a sequence of edges of minimum cost connecting a source vertex to a target vertex. In this talk we introduce a generalization of this classical problem in which the position of each vertex in the graph is a continuous decision variable, constrained to lie in a corresponding convex set, and the cost of an edge is a convex function of the positions of the vertices it connects. Problems of this form arise naturally in motion planning of autonomous vehicles, robot navigation, and even optimal control of hybrid dynamical systems. The price for such a wide applicability is the complexity of this problem, which is easily seen to be NP-hard. We discuss this novel formulation along with different solution approaches, including a strong mixed-integer convex formulation based on perspective functions. This formulation has a very tight convex relaxation and makes it possible to efficiently find globally-optimal paths in large graphs and in high-dimensional spaces.
+
+Based on joint work with Tobia Marcucci, Jack Umenberger and Russ Tedrake (MIT).
+
+
 
 
 #### <a name='theodor'></a> Theodor Misiakiewicz: Learning sparse functions with SGD on neural networks in high-dimension
