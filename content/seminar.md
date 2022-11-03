@@ -40,6 +40,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
 | November 3 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [Metric representations: Algorithms and Geometry](#anna)| |
 | November 10| Arthur Jacot (NYU) | TBA ||
+| November 11 **special date**| [Theodor Misiakiewicz](https://misiakie.github.io/) (Stanford) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
 
 ---
@@ -136,3 +137,15 @@ and Zhiwen Zhang (University of Hong Kong).
 #### <a name='anna'></a> Anna Gilbert: Metric representations: Algorithms and Geometry
 
 Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we discuss a number of variants of this problem, from convex optimization problems with metric constraints to sparse metric repair.
+
+
+#### <a name='theodor'></a> Theodor Misiakiewicz: Learning sparse functions with SGD on neural networks in high-dimension
+
+Abstract: Major research activity has recently been devoted to understanding what function classes can be learned by SGD on neural networks. Two extreme parametrizations are relatively well understood: neural networks in the linear regime, and neural networks with no structural constraints. However, for the main parametrization of interest —non-linear but regular networks— no general characterization has yet been achieved. Such networks are known to go beyond linear learning and seem to exploit structure of the target functions in order to efficiently build their features.
+
+In this talk, we take a step in this direction by considering learning sparse functions (a function that depends on a latent low-dimensional subspace) with SGD on two-layer neural networks. We identify a structural property —small-leap staircase—  which allows for efficient learning in this setting, and provide evidence for its necessity and sufficiency. For small-leap staircases, SGD sequentially learns the sparse support, using low-degree monomials to reach higher-degree monomials. We characterize tightly the number of SGD steps to align to each new monomial, and show how a saddle-to-saddle dynamics emerges naturally in this setting. In particular, this work illustrates how non-linear training of neural networks can perform hierarchical learning and vastly outperform fixed-feature methods.
+
+This talk is based on joint works with Emmanuel Abbe, Enric Boix-Adsera, Hong Hu and Yue M. Lu.
+
+
+
