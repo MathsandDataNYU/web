@@ -41,7 +41,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | November 3 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [Metric representations: Algorithms and Geometry](#anna)| |
 | November 9 **special date**| [Pablo Parrilo (MIT)](https://www.mit.edu/~parrilo/) | [Shortest Paths in Graphs of Convex Sets, and their Applications](#pablo) ||
 | November 10| Arthur Jacot (NYU) | TBA ||
-| November 11 **special date**| [Theodor Misiakiewicz](https://misiakie.github.io/) (Stanford) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
+| November 11 **special date**| [Theodor Misiakiewicz (Stanford)](https://misiakie.github.io/) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
 
 ---
