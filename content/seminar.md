@@ -39,7 +39,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | October 20 | [Shipra Agrawal (Columbia)](http://www.columbia.edu/~sa3305/) |[Dynamic Pricing and Learning under the Bass Model](#shipra)|[Link](https://nyu.zoom.us/rec/share/KO_gn1AsmjFLDPOXCqI787YrrhtmvB1Jwta_v6UTEPX-T1pd2JYCleZaPbwzETEB.D6Qhr1ZG_2qmTYEk) Passcode: yG%*7ekY | 
 | October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
 | November 3 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [Metric representations: Algorithms and Geometry](#anna)| |
-| November 9 **special date**| [Pablo Parrilo (MIT)](https://www.mit.edu/~parrilo/) | [Shortest Paths in Graphs of Convex Sets, and their Applications](#pablo) ||
+| November 9 **special date and time 4pm**| [Pablo Parrilo (MIT)](https://www.mit.edu/~parrilo/) | [Shortest Paths in Graphs of Convex Sets, and their Applications](#pablo) ||
 | November 10| Arthur Jacot (NYU) | TBA ||
 | November 11 **special date and time 11am**| [Theodor Misiakiewicz (Stanford)](https://misiakie.github.io/) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
