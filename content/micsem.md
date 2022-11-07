@@ -16,6 +16,49 @@ menu = "main"
 
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
+### Schedule Fall 2022
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| November 14, 2pm | [Subhro Ghosh](https://subhro-ghosh.github.io/) (National University of Singapore) | [The unreasonable effectiveness of determinantal processes](#ghosh) | Room 150, 60 Fifth Avenue|
+| October 3, 2pm | [Ilias Zadik](https://iliaszadik.github.io/) (MIT) | [On the second Kahn-Kalai conjecture and inference connections](#zadik) |Room 150, 60 Fifth Avenue |
+
+#### <a name="ghosh"></a> Subhro Ghosh: The unreasonable effectiveness of determinantal processes
+
+In 1960, Wigner published an article famously titled "The
+Unreasonable Effectiveness of Mathematics in the Natural Sciences”. In
+this talk we will, in a small way, follow the spirit of Wigner’s
+coinage, and explore the unreasonable effectiveness of determinantal
+processes (a.k.a. DPPs) far beyond their context of origin. DPPs
+originated in quantum and statistical physics, but have emerged in
+recent years to be a powerful toolbox for many fundamental learning
+problems. In this talk, we aim to  explore the breadth and depth of
+these applications. On one hand, we will explore a class of Gaussian
+DPPs and the novel  stochastic geometry of their parameter modulation,
+and their applications to the study of directionality in data and
+dimension reduction. At the other end, we will consider the
+fundamental paradigm of stochastic gradient descent, where we leverage
+connections with  orthogonal polynomials to design a minibatch
+sampling technique based on data-sensitive DPPs ; with provable
+guarantees for a faster convergence exponent compared to traditional
+sampling. Based on the following works.
+
+[1] Gaussian determinantal processes: A new model for directionality
+in data, with P. Rigollet, Proceedings of the National Academy of
+Sciences, vol. 117, no. 24 (2020), pp. 13207--13213 (PNAS Direct
+Submission)
+[2] Determinantal point processes based on orthogonal polynomials for
+sampling minibatches in SGD, with R. Bardenet and M. Lin
+Advances in Neural Information Processing Systems 34 (Spotlight at NeurIPS 2021)
+
+#### <a name="zadik"></a> Ilias Zadik: On the second Kahn-Kalai conjecture and inference connections
+
+For a given graph H we are interested in the critical threshold p so that a sample from the Erdos-Renyi random graph contains a copy of H with high probability. Kahn and Kalai in 2006 conjectured that it should be given (up to a logarithm) by the minimum p so that in expectation all subgraphs H’ of H appear in the random graph.
+
+In this work, we will present a proof of a modified version of this conjecture. Our proof is based on a powerful “spread lemma”, which played a key role in recent breakthroughs, for example on the Erdos-Rado sunflower conjecture (which enjoys many TCS applications). Time permitting, we will also discuss a new proof of the spread lemma using Bayesian inference tools.
+
+
+Joint work with Elchanan Mossel, Jonathan Niles-Weed and Nike Sun.
+
 ### Schedule Spring 2022
 | Date    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
