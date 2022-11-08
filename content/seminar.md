@@ -40,7 +40,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | October 27 | [Jack Xin (UCI)](https://www.math.uci.edu/~jxin/) | [DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods](#xin) ||
 | November 3 | [Anna Gilbert (Yale)](https://annacgilbert.github.io/) | [Metric representations: Algorithms and Geometry](#anna)| |
 | November 9 **special date and time 4pm**| [Pablo Parrilo (MIT)](https://www.mit.edu/~parrilo/) | [Shortest Paths in Graphs of Convex Sets, and their Applications](#pablo) ||
-| November 10| Arthur Jacot (NYU) | TBA ||
+| November 10| [Arthur Jacot (NYU)](https://sites.google.com/view/arthurjacot/) | [Implicit Bias of Large Depth Networks: the Bottleneck Rank](#arthur) ||
 | November 11 **special date and time 11am**| [Theodor Misiakiewicz (Stanford)](https://misiakie.github.io/) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
 
@@ -147,6 +147,18 @@ Given a graph, the shortest-path problem requires finding a sequence of edges of
 Based on joint work with Tobia Marcucci, Jack Umenberger and Russ Tedrake (MIT).
 
 
+#### <a name='arthur'></a> Arthur Jacot (NYU) Implicit Bias of Large Depth Networks: the Bottleneck Rank
+
+
+Several neural network models are known to be biased towards some notion of sparsity: minimizing rank in linear networks or minimizing the effective number of neurons in the hidden layer of a shallow neural network. I will argue that the correct notion of sparsity for large depth DNNs is the so-called Bottleneck (BN) rank of a (piecewise linear) function $f$, which is the smallest integer $k$ such that there is a factorization $f=g\circ h$ with inner dimension $k$.
+
+
+
+First, the representation cost of DNNs converges as the depth goes to infinity to the BN rank over a large family of functions. Second, for sufficiently large depths, the global minima of the $L_{2}$-regularized loss of DNNs are approximately BN-rank 1, in the sense that there is a hidden layer whose representation of the data is approximately one dimensional. When fitting a true function with BN-rank $k$, the global minimizers recover the true rank if $k=1$. If $k>1$ results suggest that the true rank is recovered for intermediate depths.
+
+
+
+BN-rank recovery implies that autoencoders are naturally denoising, and that the class boundaries of a DNN classifier have certain topological properties (such as the absence of tripoints when $k=1$). Both of these phenomena are observed empirically in large depths networks.
 
 
 #### <a name='theodor'></a> Theodor Misiakiewicz: Learning sparse functions with SGD on neural networks in high-dimension
