@@ -42,6 +42,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | November 9 **special date and time 4pm**| [Pablo Parrilo (MIT)](https://www.mit.edu/~parrilo/) | [Shortest Paths in Graphs of Convex Sets, and their Applications](#pablo) ||
 | November 10| [Arthur Jacot (NYU)](https://sites.google.com/view/arthurjacot/) | [Implicit Bias of Large Depth Networks: the Bottleneck Rank](#arthur) ||
 | November 11 **special date and time 11am**| [Theodor Misiakiewicz (Stanford)](https://misiakie.github.io/) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
+| November 17| [Bharath Sriperumbudur (Penn State)](http://www.personal.psu.edu/bks18/) | [Regularized Stein Variational Gradient Flow](#bharath) ||
 | December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
 
 ---
@@ -168,6 +169,14 @@ Abstract: Major research activity has recently been devoted to understanding wha
 In this talk, we take a step in this direction by considering learning sparse functions (a function that depends on a latent low-dimensional subspace) with SGD on two-layer neural networks. We identify a structural property —small-leap staircase—  which allows for efficient learning in this setting, and provide evidence for its necessity and sufficiency. For small-leap staircases, SGD sequentially learns the sparse support, using low-degree monomials to reach higher-degree monomials. We characterize tightly the number of SGD steps to align to each new monomial, and show how a saddle-to-saddle dynamics emerges naturally in this setting. In particular, this work illustrates how non-linear training of neural networks can perform hierarchical learning and vastly outperform fixed-feature methods.
 
 This talk is based on joint works with Emmanuel Abbe, Enric Boix-Adsera, Hong Hu and Yue M. Lu.
+
+
+#### <a name='bharath'></a> Bharath Sriperumbudur: Regularized Stein Variational Gradient Flow
+
+The Stein Variational Gradient Descent (SVGD) algorithm is a deterministic particle method for sampling. However, a mean-field analysis reveals that the gradient flow corresponding to the SVGD algorithm (i.e., the Stein Variational Gradient Flow) only provides a constant-order approximation to the Wasserstein Gradient Flow corresponding to the KL-divergence minimization. In this talk, we propose the Regularized Stein Variational Gradient Flow which interpolates between the Stein Variational Gradient Flow and the Wasserstein Gradient Flow. We establish various theoretical properties of the  Regularized Stein Variational Gradient Flow (and its time-discretization) including convergence to equilibrium, existence and uniqueness of weak solutions, and stability of the solutions. We provide preliminary numerical evidence of the improved performance offered by the regularization.
+
+Joint work with Ye He (UC Davis), Krishnakumar Balasubramanian (UC Davis) and Jianfeng Lu (Duke)
+
 
 
 
