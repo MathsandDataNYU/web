@@ -21,6 +21,11 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | ----------- |:-------------:|:-----------:|:------| 
 | November 14, 2pm | [Subhro Ghosh](https://subhro-ghosh.github.io/) (National University of Singapore) | [The unreasonable effectiveness of determinantal processes](#ghosh) | Room 150, 60 Fifth Avenue|
 | October 3, 2pm | [Ilias Zadik](https://iliaszadik.github.io/) (MIT) | [On the second Kahn-Kalai conjecture and inference connections](#zadik) |Room 150, 60 Fifth Avenue |
+| Nov 28, 2pm | [Nicolas Flammarion](https://www.epfl.ch/labs/tml/) (EPFL) | [TBA](#flammarion) |Room 150, 60 Fifth Avenue |
+
+#### <a name="flammarion"></a> Nicolas Flammarion: TBA
+
+
 
 #### <a name="ghosh"></a> Subhro Ghosh: The unreasonable effectiveness of determinantal processes
 
