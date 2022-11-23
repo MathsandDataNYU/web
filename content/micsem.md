@@ -21,9 +21,12 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 | ----------- |:-------------:|:-----------:|:------| 
 | October 3, 2pm | [Ilias Zadik](https://iliaszadik.github.io/) (MIT) | [On the second Kahn-Kalai conjecture and inference connections](#zadik) |Room 150, 60 Fifth Avenue |
 | November 14, 2pm | [Subhro Ghosh](https://subhro-ghosh.github.io/) (National University of Singapore) | [The unreasonable effectiveness of determinantal processes](#ghosh) | Room 150, 60 Fifth Avenue|
-| Nov 28, 2pm | [Nicolas Flammarion](https://www.epfl.ch/labs/tml/) (EPFL) | [TBA](#flammarion) |Room 150, 60 Fifth Avenue |
+| Nov 28, 2pm | [Nicolas Flammarion](https://www.epfl.ch/labs/tml/) (EPFL) | [Towards Understanding Sharpness-Aware Minimization](#flammarion) |Room 150, 60 Fifth Avenue |
 
-#### <a name="flammarion"></a> Nicolas Flammarion: TBA
+#### <a name="flammarion"></a> Nicolas Flammarion: Title: Towards understanding sharpness-aware minimization
+
+
+Abstract: Sharpness-Aware Minimization (SAM) is a recent training method that relies on worst-case weight perturbations which significantly improves generalization in various settings. In this talk, we theoretically analyze its implicit bias for diagonal linear networks. We prove that SAM always chooses a solution that enjoys better generalization properties than standard gradient descent for a certain class of problems, and that this effect is amplified when using m-sharpness. We further study the properties of the implicit bias on non-linear networks empirically. Finally, we provide convergence results of SAM for non-convex objectives when used with stochastic gradients. We illustrate these results empirically for deep networks and discuss their relation to the generalization behavior of SAM. 
 
 
 
