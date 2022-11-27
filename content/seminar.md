@@ -32,7 +32,6 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | Date        | Speaker       | Title | Recording
 |:-----------:|:-------------:|:-----------:|:-----------:|
 | September 15  | [Jason Altschuler (NYU)](https://www.mit.edu/~jasonalt/) | [Privacy of Noisy SGD](#altschuler) | |
-| September 22 | [Qi Lei (NYU)](https://cecilialeiqi.github.io/) | [Optimal Gradient-based Algorithms for Non-concave Bandit Optimization](#lei)| | 
 | September 28 **special date** | [Nati Srebro (TTIC)](https://nati.ttic.edu/) | [Learning by Overfitting: A Statistical Learning View on Benign Overfitting](#nati) |  |
 | October 6 | [Boris Hanin (Princeton)](https://hanin.princeton.edu/) | [Exact Solutions to Bayesian Interpolation with Deep Linear Networks](#boris) | |
 | October 13 | [Quentin Berthet (Google)](https://q-berthet.github.io/) |[Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm](#quentin)| |
@@ -44,6 +43,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | November 11 **special date and time 11am**| [Theodor Misiakiewicz (Stanford)](https://misiakie.github.io/) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
 | November 17| [Bharath Sriperumbudur (Penn State)](http://www.personal.psu.edu/bks18/) | [Regularized Stein Variational Gradient Flow](#bharath) ||
 | December 1 | [Soledad Villar (Johns Hopkins University)](https://www.ams.jhu.edu/villar/) | [Random graph models and graph neural networks](#svillar) | |
+| December 8 | [Qi Lei (NYU)](https://cecilialeiqi.github.io/) | [Reconstructing Training Data from Model Gradient, Provably](#qlei) | |
+
+
 
 ---
 
@@ -184,4 +186,8 @@ Joint work with Ye He (UC Davis), Krishnakumar Balasubramanian (UC Davis) and Ji
 We consider learning problems on different random graph models. For some of these problems, such as community detection in dense graphs, spectral methods provide consistent estimators. However, their performance deteriorates as the graphs become sparser. In this talk we consider a random graph model that can produce graphs at different levels of sparsity, and we show that graph neural networks can outperform spectral methods on sparse graphs. In particular we introduce a graph neural network that can interpolate between spectral methods and message passing, avoiding the so-called over-smoothing phenomenon.
 
 
+#### <a name='qlei'></a> Qi Lei: Reconstructing Training Data from Model Gradient, Provably
+
+Understanding when and how much a model gradient leaks information about the training sample is an important question in privacy. In this talk, we present a surprising result: even without training or memorizing the data, we can fully reconstruct the training samples from a single gradient query at a randomly chosen parameter value.
+We prove the identifiability of the training data under mild conditions: with shallow or deep neural networks and a wide range of activation functions. We also present a statistically and computationally efficient algorithm based on low-rank tensor decomposition to reconstruct the training data. As a provable attack that reveals sensitive training data, our findings suggest potential severe threats to privacy, especially in federated learning.  
 
