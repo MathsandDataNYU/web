@@ -43,7 +43,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | November 10| [Arthur Jacot (NYU)](https://sites.google.com/view/arthurjacot/) | [Implicit Bias of Large Depth Networks: the Bottleneck Rank](#arthur) ||
 | November 11 **special date and time 11am**| [Theodor Misiakiewicz (Stanford)](https://misiakie.github.io/) | [Learning sparse functions with SGD on neural networks in high-dimension](#theodor) ||
 | November 17| [Bharath Sriperumbudur (Penn State)](http://www.personal.psu.edu/bks18/) | [Regularized Stein Variational Gradient Flow](#bharath) ||
-| December 1 | Soledad Villar (Johns Hopkins University) | TBA | |
+| December 1 | [Soledad Villar (Johns Hopkins University)](https://www.ams.jhu.edu/villar/) | [Random graph models and graph neural networks](#svillar) | |
 
 ---
 
@@ -177,6 +177,11 @@ The Stein Variational Gradient Descent (SVGD) algorithm is a deterministic parti
 
 Joint work with Ye He (UC Davis), Krishnakumar Balasubramanian (UC Davis) and Jianfeng Lu (Duke)
 
+
+
+#### <a name='svillar'></a> Soledad Villar: Random graph models and graph neural networks
+
+We consider learning problems on different random graph models. For some of these problems, such as community detection in dense graphs, spectral methods provide consistent estimators. However, their performance deteriorates as the graphs become sparser. In this talk we consider a random graph model that can produce graphs at different levels of sparsity, and we show that graph neural networks can outperform spectral methods on sparse graphs. In particular we introduce a graph neural network that can interpolate between spectral methods and message passing, avoiding the so-called over-smoothing phenomenon.
 
 
 
