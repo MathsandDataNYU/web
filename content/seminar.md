@@ -32,12 +32,12 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | February 9  | [Cynthia Rush (Columbia)](http://www.columbia.edu/~cgr2130/) |  [Exact Asymptotics with Approximate Message Passing and a Study of the Type 1-Type 2 Error Trade-off for SLOPE](#rush) | 
 | February 16  | [Sarah Dean (Cornell)](https://sdean.website/)  | [Participation Dynamics in Learning Systems](#sarah)  | 
 | February 23  | [Brice Ménard (JHU)](https://menard.pha.jhu.edu/) | [Opening the neural network black box](#brice)  | 
-|March 2	|Andre Wibisono | |
 |March 16	|Maxim Raginski | |
 |March 23	|Jose Blanchet | |
 |March 30	| Jason Lee | |
 |April 6	|Surbhi Goel | |
 |April 13	|Lenka Zdeborova | |
+|April 20	|Andre Wibisono | |
 |April 27 |Jean Ponce | |
 
 
