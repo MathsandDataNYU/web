@@ -32,7 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | February 9  | [Cynthia Rush (Columbia)](http://www.columbia.edu/~cgr2130/) |  [Exact Asymptotics with Approximate Message Passing and a Study of the Type 1-Type 2 Error Trade-off for SLOPE](#rush) | 
 | February 16  | [Sarah Dean (Cornell)](https://sdean.website/)  | [Participation Dynamics in Learning Systems](#sarah)  | 
 | February 23  | [Brice Ménard (JHU)](https://menard.pha.jhu.edu/) | [Opening the neural network black box](#brice)  | 
-|March 16	|Maxim Raginski | |
+|March 16	|[Maxim Raginsky (UIUC)](https://maxim.ece.illinois.edu/) | [Variational Principles for Mirror Descent and Mirror Langevin Dynamics](#maxim) |
 |March 23	|Jose Blanchet | |
 |March 30	| Jason Lee | |
 |April 6	|Surbhi Goel | |
@@ -76,5 +76,10 @@ The choice to participate in a data-driven system, often made on the basis of th
 
 I will present a simple point of view allowing us to make sense of the weights in a trained neural network. I will show how to characterize what has been learned, extract quasi-sufficient summary statistics, and use them to generate new networks performing well without any training. I will show that the symmetry group of neural networks are layer-based rotations. When taken into account network weights always converge to the same solution. I will illustrate these results using standard classification tasks on CIFAR-10 and ImageNet and I will introduce a model that captures all these properties. Finally, I will show that most of the stochasticity inherent to neural networks and their training is largely negligible. Collaborators: F. Guth, S. Mallat & G. Rochette.
 
- 
+
+#### <a name='maxim'></a> Maxim Raginsky: Variational Principles for Mirror Descent and Mirror Langevin Dynamics
+
+Mirror descent, introduced by Nemirovsky and Yudin in the 1970s, is a primal-dual convex optimization method that can be tailored to the geometry of the optimization problem at hand through the choice of a strongly convex distance-generating potential function. It arises as a basic primitive in a variety of applications, including large-scale optimization, machine learning, and control. In this talk, based on joint work with Belinda Tzen, Anant Raj, and Francis Bach, I will discuss a variational formulation of mirror descent and of its stochastic variant, mirror Langevin dynamics. The main idea, inspired by classic work of Brezis and Ekeland, is to show that mirror descent emerges as a closed-loop solution for a certain optimal control problem, and the Bellman value function is given by the dual-space Bregman divergence between the initial condition and the global minimizer of the objective function. This formulation has several interesting corollaries and implications, including a form of implicit regularization, which I will discuss.
+
+
 
