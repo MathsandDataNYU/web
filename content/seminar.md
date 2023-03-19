@@ -33,7 +33,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 | February 16  | [Sarah Dean (Cornell)](https://sdean.website/)  | [Participation Dynamics in Learning Systems](#sarah)  | 
 | February 23  | [Brice Ménard (JHU)](https://menard.pha.jhu.edu/) | [Opening the neural network black box](#brice)  | 
 |March 16	|[Maxim Raginsky (UIUC)](https://maxim.ece.illinois.edu/) | [Variational Principles for Mirror Descent and Mirror Langevin Dynamics](#maxim) |
-|March 23	|Jose Blanchet | |
+|March 23	|[Jose Blanchet (Stanford)](https://web.stanford.edu/~jblanche/) | [A Unified View of Distributional Robust Decision Making](#jose)|
 |March 30	| Jason Lee | |
 |April 6	|Surbhi Goel | |
 |April 13	|Lenka Zdeborova | |
@@ -83,3 +83,8 @@ Mirror descent, introduced by Nemirovsky and Yudin in the 1970s, is a primal-dua
 
 
 
+#### <a name='jose'></a> Jose Blanchet: A Unified View of Distributional Robust Decision Making
+
+The goal of distributionally robust decision-making is to make reasonably good decisions under uncertainty when (in machine learning language) the “training” environment is different from the deployment environment. This is common in situations involving highly non-stationary environments or situations in which training needs to be done in a simulated environment due to various costs or limited information. DRO formulations are based on min-max games in which the manager plays a game against a fictitious adversary that is introduced to perform a disciplined “what-if-my-model-is-wrong” analysis. This approach has a rich tradition in the economics and control literature. Basically, there are two types of ways in which a probabilistic model can be wrong: a) the likelihoods are incorrect, or b) the actual outcomes are misspecified (or both). These types of models of misspecification have traditionally been treated separately (since the 80s) leading to various divergence formulations, contamination models and, more recently, optimal transport perturbations. The talk focuses on studying all of these from a unified standpoint via the theory of optimal transport with martingale constraints. We recover most forms of DRO formulations (and introduce new ones) using this approach, including some of the statistical analysis done in data-driven DRO. Further implications for dynamic decision-making under uncertainty are also explored.
+
+This talk is based on joint work with Nick Bambos, Daniel Kuhn, Jiajin Li, Sirui Lin, Kyriakos Lotidis, and Bahar Tahksen.
