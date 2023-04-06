@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 |March 23	|[Jose Blanchet (Stanford)](https://web.stanford.edu/~jblanche/) | [A Unified View of Distributional Robust Decision Making](#jose)|
 |March 30	| [Jason Lee (Princeton)](https://jasondlee88.github.io/) |[Feature Learning with SGD](#jdl)|
 |April 6	|Surbhi Goel | |
-|April 13	|Lenka Zdeborova | |
+|April 13	|[Lenka Zdeborova (EPFL)](https://www.epfl.ch/labs/spoc/) |[Analysis of algorithms in high-dimensions: When proofs inspire physics](#lenka) |
 |April 20	|Andre Wibisono | |
 |April 27 |Jean Ponce | |
 
@@ -98,3 +98,7 @@ I will present two recent works on analyzing feature learning for SGD. The first
 Next, we turn to the problem of learning multi index models f(x) = g(Ux), where U encodes a latent representation of low dimension. Significant prior work has established that neural networks trained by gradient descent behave like kernel methods, despite significantly worse empirical performance of kernel methods. However, in this work we demonstrate that for this large class of functions that there is a large gap between kernel methods and gradient descent on a two-layer neural network, by showing that gradient descent learns representations relevant to the target task. We also demonstrate that these representations allow for efficient transfer learning, which is impossible in the kernel regime. Specifically, we consider the problem of learning polynomials which depend on only a few relevant directions, i.e. of the form f*(x)=g(Ux) where U is d by r. When the degree of f* is p, it is known that n≍d^p samples are necessary to learn f* in the kernel regime. Our primary result is that gradient descent learns a representation of the data which depends only on the directions relevant to f*. This results in an improved sample complexity of n≍d^2r+drp. Furthermore, in a transfer learning setup where the data distributions in the source and target domain share the same representation U but have different polynomial heads we show that a popular heuristic for transfer learning has a target sample complexity independent of d.
 
 This is joint work with Alex Damian, Rong Ge,  Eshaan Nichani, and Mahdi Soltanolkotabi.
+
+#### <a name="lenka"></a> Lenka Zdeborova: Analysis of algorithms in high-dimensions: When proofs inspire physics.
+
+I will overview the development around message passing algorithms, their analysis, and examples of applications. On the way, I will show cases where rigorous results inspired a new understanding of physics. I will discuss how widely used and studied algorithms such as Monte Carlo sampling, gradient descent of Langevin algorithm compare to message passing in some prototypical problems of high-dimensional problems. I will end up with some examples from my recent works where message passing algorithms give access to quantities that are hard to access otherwise, e.g. variances of the posterior, optimal spectral methods or estimators relying on priors coming from generative neural networks. 
