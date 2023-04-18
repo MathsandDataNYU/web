@@ -35,9 +35,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 |March 16	|[Maxim Raginsky (UIUC)](https://maxim.ece.illinois.edu/) | [Variational Principles for Mirror Descent and Mirror Langevin Dynamics](#maxim) |
 |March 23	|[Jose Blanchet (Stanford)](https://web.stanford.edu/~jblanche/) | [A Unified View of Distributional Robust Decision Making](#jose)|
 |March 30	| [Jason Lee (Princeton)](https://jasondlee88.github.io/) |[Feature Learning with SGD](#jdl)|
-|April 6	|Surbhi Goel | |
+|April 6	|[Surbhi Goel (UPenn)](https://www.surbhigoel.com/) |[Thinking Fast with Transformers: Algorithmic Reasoning via Shortcuts](#sgoel) |
 |April 13	|[Lenka Zdeborova (EPFL)](https://www.epfl.ch/labs/spoc/) |[Analysis of algorithms in high-dimensions: When proofs inspire physics](#lenka) |
-|April 20	|Andre Wibisono | |
+|April 20	|[Andre Wibisono (Yale)](http://www.cs.yale.edu/homes/wibisono/) |[Convergence Analysis of Langevin Algorithms for Sampling in Continuous and Discrete Times](#andre) |
 |April 27 |Jean Ponce | |
 
 
@@ -99,6 +99,17 @@ Next, we turn to the problem of learning multi index models f(x) = g(Ux), where 
 
 This is joint work with Alex Damian, Rong Ge,  Eshaan Nichani, and Mahdi Soltanolkotabi.
 
+#### <a name="sgoel"></a> Surbhi Goel: Thinking Fast with Transformers: Algorithmic Reasoning via Shortcuts
+
+In this new era of deep learning, the emergent algorithmic reasoning capabilities of Transformer models have lead to significant advancements in natural language processing, program synthesis, and theorem proving. Despite their widespread success, the underlying reasons for their efficacy and the nature of their internal representations remain elusive. In this talk, we take the lens of learning the dynamics of finite-state machines (automata) as the underlying algorithmic reasoning task and shed light on how shallow, non-recurrent Transformer models emulate these recurrent dynamics. By employing tools from circuit complexity and semigroup theory, we characterize “shortcut” solutions that allow a shallow Transformer to precisely replicate $T$ computational steps of an automaton with only $o(T)$ layers. We show that Transformers are efficiently able to represent these “shortcuts” using their parameter-efficient ability to compute sparse functions and averages. Furthermore, through synthetic experiments, we confirm that standard training successfully discovers these shortcuts. We conclude with highlighting the brittleness of these “shortcuts” in out-of-distribution scenarios.
+This talk is based on joint work with Bingbin Liu, Jordan T. Ash, Akshay Krishnamurthy, and Cyril Zhang.
+
 #### <a name="lenka"></a> Lenka Zdeborova: Analysis of algorithms in high-dimensions: When proofs inspire physics.
 
 I will overview the development around message passing algorithms, their analysis, and examples of applications. On the way, I will show cases where rigorous results inspired a new understanding of physics. I will discuss how widely used and studied algorithms such as Monte Carlo sampling, gradient descent of Langevin algorithm compare to message passing in some prototypical problems of high-dimensional problems. I will end up with some examples from my recent works where message passing algorithms give access to quantities that are hard to access otherwise, e.g. variances of the posterior, optimal spectral methods or estimators relying on priors coming from generative neural networks. 
+
+#### <a name="andre"></a> Andre Wibisono: Convergence Analysis of Langevin Algorithms for Sampling in Continuous and Discrete Times
+
+Sampling is a fundamental algorithmic task with intricate connections to optimization. Many sampling algorithms can be interpreted as implementing optimization principles in the space of distributions. For instance, the Langevin dynamics, a natural dynamics for sampling, can be viewed as the gradient flow for minimizing KL divergence. In this talk, we will review the convergence guarantees of Langevin dynamics in KL and Rényi divergences under structural conditions such as log-concavity or isoperimetry for the target distribution. In discrete time, we will focus on the Unadjusted Langevin Algorithm (ULA) and the Proximal Sampler (PS) algorithm. We will survey the biased convergence guarantees of ULA and the unbiased convergence guarantees of PS under isoperimetry and smoothness conditions. We will emphasize the various proof techniques and their connections to optimization and information theory. Furthermore, we will explore how the Proximal Sampler can be considered a proximal discretization of the Langevin dynamics. 
+
+This is joint work with Santosh Vempala, Yongxin Chen, Sinho Chewi, and Adil Salim.
