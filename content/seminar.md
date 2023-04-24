@@ -38,7 +38,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 |April 6	|[Surbhi Goel (UPenn)](https://www.surbhigoel.com/) |[Thinking Fast with Transformers: Algorithmic Reasoning via Shortcuts](#sgoel) |
 |April 13	|[Lenka Zdeborova (EPFL)](https://www.epfl.ch/labs/spoc/) |[Analysis of algorithms in high-dimensions: When proofs inspire physics](#lenka) |
 |April 20	|[Andre Wibisono (Yale)](http://www.cs.yale.edu/homes/wibisono/) |[Convergence Analysis of Langevin Algorithms for Sampling in Continuous and Discrete Times](#andre) |
-|April 27 |Jean Ponce | |
+|April 27 |[Jean Ponce (Inria/NYU)](https://www.di.ens.fr/~ponce/) | [Beyond the Computer Vision Comfort Zone](#jean)|
 
 
 
@@ -113,3 +113,7 @@ I will overview the development around message passing algorithms, their analysi
 Sampling is a fundamental algorithmic task with intricate connections to optimization. Many sampling algorithms can be interpreted as implementing optimization principles in the space of distributions. For instance, the Langevin dynamics, a natural dynamics for sampling, can be viewed as the gradient flow for minimizing KL divergence. In this talk, we will review the convergence guarantees of Langevin dynamics in KL and Rényi divergences under structural conditions such as log-concavity or isoperimetry for the target distribution. In discrete time, we will focus on the Unadjusted Langevin Algorithm (ULA) and the Proximal Sampler (PS) algorithm. We will survey the biased convergence guarantees of ULA and the unbiased convergence guarantees of PS under isoperimetry and smoothness conditions. We will emphasize the various proof techniques and their connections to optimization and information theory. Furthermore, we will explore how the Proximal Sampler can be considered a proximal discretization of the Langevin dynamics. 
 
 This is joint work with Santosh Vempala, Yongxin Chen, Sinho Chewi, and Adil Salim.
+
+#### <a name="jean"></a> Jean Ponce: Beyond the Computer Vision Comfort Zone
+
+Spectacular progress has been achieved in computer vision in the past dozen years, in large part thanks to black-box deep learning models trained in a supervised manner on manually annotated data, sometimes unrelated to any real task. I propose instead to give back to accurate physical models of image formation their rightful place next to machine learning in the overall processing and interpretation pipeline, and will discuss applications to two real engineering and scientific tasks, namely super-resolution and high-dynamic range imaging from photographic bursts acquired by handheld smartphones, and exoplanet detection and characterization in direct imaging at high contrast. In this context, realistic synthetic data are easy to generate without any manual intervention, but real ground truth is typically missing. I will also discuss new approaches to video prediction where real data is readily available, and training can be achieved in a self-supervised manner using temporal consistency. I will conclude by discussing potential real applications to this admittedly somewhat artifical problem.
