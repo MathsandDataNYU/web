@@ -29,7 +29,14 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 | Date        | Speaker       | Title | 
 |:-----------:|:-------------:|:-----------:|
-
+| September 21  | Yanjun Han |  | 
+| October 5  | Emmanuel Abbe |  |
+| October 12  | Yuting Wei |  |  
+| October 19  | Florent Krzakala |  |  
+| October 26 | Philippe Rigollet | |
+|November 9| Qing Qu| |
+|November 16| Dana Yang||
+|November 30| Weijie Su||
 
 ---
 [Schedule Spring 2023](https://mathsanddatanyu.github.io/website/seminar_spring2023/)
