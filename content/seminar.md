@@ -29,7 +29,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 | Date        | Speaker       | Title | 
 |:-----------:|:-------------:|:-----------:|
-| September 21  | Yanjun Han |  | 
+| September 21  | [Yanjun Han (NYU)](https://yanjunhan2021.github.io/) | [Two recent lower bounds for interactive decision making](#han) | 
 | October 5  | Emmanuel Abbe |  |
 | October 12  | Yuting Wei |  |  
 | October 19  | Florent Krzakala |  |  
@@ -38,7 +38,17 @@ of Applied Mathematics, Statistics and Machine Learning.
 |November 16| Dana Yang||
 |November 30| Weijie Su||
 
----
+### Abstracts
+#### <a name="han"> Yanjun Han: Two recent lower bounds for interactive decision making</a>
+
+A fundamental problem in interactive decision making, ranging from bandit problems to reinforcement learning, is to understand what modeling assumptions lead to sample-efficient learning guarantees, and what algorithm design principles achieve optimal sample complexity. While both questions are well understood for classical problems of statistical estimation and learning, there are relatively fewer tools to analyze the fundamental limits for the interactive counterparts. 
+
+In this talk I will present two general lower bound techniques for interactive decision making. First, we introduce a complexity measure, called the Constrained Decision-Estimation Coefficient, which is an interactive counterpart of the Donoho-Liu type modulus of continuity in statistical estimation. This complexity measure provides a lower bound of the optimal regret for general interactive problems, as well as a matching upper bound up to an online estimation error. Second, we attempt to close this gap via a generalization of the Fano type arguments, using a suitable notion of information for interactive problems. In a special class of problems called ridge bandits, our new tool leads to lower bounds on the entire learning trajectory via differential equations. We also provide upper bounds that evolve with similar differential equations, and thereby showcase the complication of finding a unified complexity measure in general. 
+
+Based on recent work https://arxiv.org/abs/2301.08215 and https://arxiv.org/abs/2302.06025, jointly with Dylan Foster, Noah Golowich, Jiantao Jiao, Nived Rajaraman, and Kannan Ramchandran. 
+
+----
+### Archive 
 [Schedule Spring 2023](https://mathsanddatanyu.github.io/website/seminar_spring2023/)
 
 [Schedule Fall 2022](https://mathsanddatanyu.github.io/website/seminar_fall2022/)
@@ -60,5 +70,3 @@ of Applied Mathematics, Statistics and Machine Learning.
 [Schedule Fall 2017](https://mathsanddatanyu.github.io/website/seminar_fall2017/)
 
 [Schedule Spring 2017](https://mathsanddatanyu.github.io/website/seminar_spring2017/)
-
-### Abstracts
