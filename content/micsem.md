@@ -16,6 +16,19 @@ menu = "main"
 
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 
+### Schedule Fall 2023
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| October 3, 2pm | [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/) (Weierstrass Institute) | [Bayesian inference using mixed Laplace approximation with applications to error-in-operator models.](#spokoiny) |Room 650, 60 Fifth Avenue |
+
+#### <a name="spokoiny"></a> Vladimir Spokoiny: Title: Bayesian inference using mixed Laplace approximation with applications to error-in-operator models
+
+Abstract: Many statistical problems can be viewed as an error-in-operator model when a linear operator is not known precisely. Examples include random design regression, stochastic diffusion, error-in-variables regression, instrumental variable regression, functional data analysis, Markov chain prediction, interacting particle systems, among many others.
+We consider the Bayesian inference problem for such models in a unified way. The key step of the analysis is a mixed Laplace approximation which states an approximation of a high dimensional posterior by a mixture of Gaussians. We also provide sufficient conditions in terms of effective parameter dimension when the mixture of Gaussian can be replaced by one Gaussian distribution.
+The results will be illustrated for the case of high dimensional random design regression.
+
+
+
 ### Schedule Fall 2022
 | Date    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
