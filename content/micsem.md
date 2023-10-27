@@ -19,7 +19,7 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 ### Schedule Fall 2023
 | Date    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
-| November 2, 3pm | [Hadi Daneshmand](https://www.mit.edu/~hdanesh/index.html) (MIT) | [Algorithmic view on neural information processing](#daneshmand) | Room 650, 60 Fifth Avenue |
+| November 1, 3pm | [Hadi Daneshmand](https://www.mit.edu/~hdanesh/index.html) (MIT) | [Algorithmic view on neural information processing](#daneshmand) | Room 650, 60 Fifth Avenue |
 | October 3, 2pm | [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/) (Weierstrass Institute) | [Bayesian inference using mixed Laplace approximation with applications to error-in-operator models.](#spokoiny) |Room 650, 60 Fifth Avenue |
 
 #### <a name="daneshmand"></a> Hadi Daneshmand: Algorithmic view on neural information processing
