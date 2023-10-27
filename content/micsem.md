@@ -19,9 +19,16 @@ The Mathematics, Information and Computation (MIC) Seminar runs at irregular int
 ### Schedule Fall 2023
 | Date    | Speaker       | Title | Room |
 | ----------- |:-------------:|:-----------:|:------| 
+| November 2, 3pm | [Hadi Daneshmand](https://www.mit.edu/~hdanesh/index.html) (MIT) | [Algorithmic view on neural information processing](#daneshmand) | Room 650, 60 Fifth Avenue |
 | October 3, 2pm | [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/) (Weierstrass Institute) | [Bayesian inference using mixed Laplace approximation with applications to error-in-operator models.](#spokoiny) |Room 650, 60 Fifth Avenue |
 
-#### <a name="spokoiny"></a> Vladimir Spokoiny: Title: Bayesian inference using mixed Laplace approximation with applications to error-in-operator models
+#### <a name="daneshmand"></a> Hadi Daneshmand: Algorithmic view on neural information processing
+Abstract: Deep neural networks are powerful tools for processing data, but their data processing mechanism remains enigmatic. Recent research has shed light on their inner workings: Their compositional structure enables them to implement iterative optimization methods. In this talk, I will explore this new perspective that links neural networks to optimization methods.
+To begin, I will review experimental studies. I will delve into the "iterative inference" hypothesis, suggesting that neural networks use a form of gradient descent to process data, even if they don't explicitly compute gradients. I will present observations for such inference in convolutional nets and large language models.
+Next, I will discuss the theoretical studies on the "iterative inference" hypothesis. These studies prove large language models are expressive to implement first-order optimization algorithms for certain function classes. While fascinating, expressive results have limitations in explaining the outcome of training. I will show how to overcome the limitations via the landscape analysis of training loss. Such analysis can characterize the adaptation of information processing to data distribution for "in-context learning" of linear functions.
+This talk is based on a joint work with Kwangjun Ahn, Xiang Cheng, and Suvrit Sra titled “Transformers learn to implement preconditioned gradient descent for in-context learning” and will be presented in NeurIPs 23. (edited) 
+
+#### <a name="spokoiny"></a> Vladimir Spokoiny: Bayesian inference using mixed Laplace approximation with applications to error-in-operator models
 
 Abstract: Many statistical problems can be viewed as an error-in-operator model when a linear operator is not known precisely. Examples include random design regression, stochastic diffusion, error-in-variables regression, instrumental variable regression, functional data analysis, Markov chain prediction, interacting particle systems, among many others.
 We consider the Bayesian inference problem for such models in a unified way. The key step of the analysis is a mixed Laplace approximation which states an approximation of a high dimensional posterior by a mixture of Gaussians. We also provide sufficient conditions in terms of effective parameter dimension when the mixture of Gaussian can be replaced by one Gaussian distribution.
