@@ -34,8 +34,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 | October 12  | [Yuting Wei (UPenn)](https://yutingwei.github.io) | [Approximate message passing: A non-asymptotic framework and beyond](#wei) |  
 | October 19  | [Florent Krzakala (EPFL)](https://florentkrzakala.com) | [How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time](#krzakala) |  
 | October 26 | [Philippe Rigollet (MIT)](https://math.mit.edu/~rigollet/) | [A mathematical perspective on transformers](#rigollet) |
-|November 2| [Weijie Su (UPenn)](http://stat.wharton.upenn.edu/~suw/) |[On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks] |(#QingQu)
-|November 9| [Qing Qu (UMich)](https://qingqu.engin.umich.edu) | |
+|November 2| [Weijie Su (UPenn)](http://stat.wharton.upenn.edu/~suw/) |  | 
+|November 9| [Qing Qu (UMich)](https://qingqu.engin.umich.edu) | [On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks](#QingQu) |
 |November 16| [Dana Yang (Cornell)](https://danayang.github.io) | |
 |December 7| [Arian Maleki (Columbia)](https://sites.google.com/site/malekiarian/) | |
 
