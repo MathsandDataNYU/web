@@ -35,7 +35,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | October 19  | [Florent Krzakala (EPFL)](https://florentkrzakala.com) | [How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time](#krzakala) |  
 | October 26 | [Philippe Rigollet (MIT)](https://math.mit.edu/~rigollet/) | [A mathematical perspective on transformers](#rigollet) |
 |November 2| [Weijie Su (UPenn)](http://stat.wharton.upenn.edu/~suw/) |  | 
-|November 9| [Qing Qu (UMich)](https://qingqu.engin.umich.edu) | [On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks](#QingQu) |
+|November 9| [Qing Qu (UMich)](https://qingqu.engin.umich.edu) | [On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks](#qingqu) |
 |November 16| [Dana Yang (Cornell)](https://danayang.github.io) | |
 |December 7| [Arian Maleki (Columbia)](https://sites.google.com/site/malekiarian/) | |
 
@@ -65,7 +65,7 @@ How do two-layer neural networks learn complex functions from data over time? In
 
 In just five years since their introduction, Transformers have revolutionized large language models and the broader field of deep learning. Central to this transformative success is the groundbreaking self-attention mechanism. In this presentation, I'll introduce a mathematical framework that casts this mechanism as a mean-field interacting particle system, revealing a desirable long-time clustering behavior. This perspective leads to a trove of fascinating questions with unexpected connections to Kuramoto oscillators, sphere packing, and Wasserstein gradient flows.
 
-#### <a name="#QingQu"> Qing Qu: On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks </a>
+#### <a name="qingqu"> Qing Qu: On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks </a>
 
 Over the past few years, an extensively studied phenomenon in training deep networks is the implicit bias of gradient descent towards parsimonious solutions. In this work, we first investigate this phenomenon by narrowing our focus to deep linear networks. Through our analysis, we reveal a surprising "law of parsimony"; in the learning dynamics when the data possesses low-dimensional structures. Specifically, we show that the evolution of gradient descent starting from orthogonal initialization only affects a minimal portion of singular vector spaces across all weight matrices. In other words, the learning process happens only within a small invariant subspace of each weight matrix, even though all weight parameters are updated throughout training. This simplicity in learning dynamics could have significant implications for both efficient training and a better understanding of deep networks. First, the analysis enables us to considerably improve training efficiency by taking advantage of the low-dimensional structure in learning dynamics. We can construct smaller, equivalent deep linear networks without sacrificing the benefits associated with the wider counterparts. Moreover, we demonstrate the potential implications for efficient training deep nonlinear networks.
 Second, it allows us to better understand deep representation learning by elucidating the progressive feature compression and discrimination from shallow to deep layers. The study paves the foundation for understanding hierarchical representations in deep nonlinear networks.
