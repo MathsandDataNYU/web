@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | October 26 | [Philippe Rigollet (MIT)](https://math.mit.edu/~rigollet/) | [A mathematical perspective on transformers](#rigollet) |
 |November 2| [Weijie Su (UPenn)](http://stat.wharton.upenn.edu/~suw/) |  | 
 |November 9| [Qing Qu (UMich)](https://qingqu.engin.umich.edu) | [On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks](#qingqu) |
-|November 16| [Dana Yang (Cornell)](https://danayang.github.io) | |
+|November 16| [Dana Yang (Cornell)](https://danayang.github.io) | [Is it easier to count communities than find them?](#yang)|
 |December 7| [Arian Maleki (Columbia)](https://sites.google.com/site/malekiarian/) | |
 
 
@@ -69,6 +69,10 @@ In just five years since their introduction, Transformers have revolutionized la
 
 Over the past few years, an extensively studied phenomenon in training deep networks is the implicit bias of gradient descent towards parsimonious solutions. In this work, we first investigate this phenomenon by narrowing our focus to deep linear networks. Through our analysis, we reveal a surprising "law of parsimony"; in the learning dynamics when the data possesses low-dimensional structures. Specifically, we show that the evolution of gradient descent starting from orthogonal initialization only affects a minimal portion of singular vector spaces across all weight matrices. In other words, the learning process happens only within a small invariant subspace of each weight matrix, even though all weight parameters are updated throughout training. This simplicity in learning dynamics could have significant implications for both efficient training and a better understanding of deep networks. First, the analysis enables us to considerably improve training efficiency by taking advantage of the low-dimensional structure in learning dynamics. We can construct smaller, equivalent deep linear networks without sacrificing the benefits associated with the wider counterparts. Moreover, we demonstrate the potential implications for efficient training deep nonlinear networks.
 Second, it allows us to better understand deep representation learning by elucidating the progressive feature compression and discrimination from shallow to deep layers. The study paves the foundation for understanding hierarchical representations in deep nonlinear networks.
+
+
+#### <a name="yang"> Dana Yang: Is it easier to count communities than find them? </a>
+Random graph models with community structure have been studied extensively in the literature. For both the problems of detecting and recovering community structure, an interesting landscape of statistical and computational phase transitions has emerged. A natural unanswered question is: might it be possible to infer properties of the community structure (for instance, the number and sizes of communities) even in situations where actually finding those communities is believed to be computationally hard? We show the answer is no. In particular, we consider certain hypothesis testing problems between models with different community structures, and we show (in the low-degree polynomial framework) that testing between two options is as hard as finding the communities.
 
 ----
 ### Archive 
