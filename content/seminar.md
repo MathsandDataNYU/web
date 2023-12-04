@@ -34,9 +34,10 @@ of Applied Mathematics, Statistics and Machine Learning.
 | October 12  | [Yuting Wei (UPenn)](https://yutingwei.github.io) | [Approximate message passing: A non-asymptotic framework and beyond](#wei) |  
 | October 19  | [Florent Krzakala (EPFL)](https://florentkrzakala.com) | [How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time](#krzakala) |  
 | October 26 | [Philippe Rigollet (MIT)](https://math.mit.edu/~rigollet/) | [A mathematical perspective on transformers](#rigollet) |
-|November 2| [Weijie Su (UPenn)](http://stat.wharton.upenn.edu/~suw/) |  | 
+|November 2| [Weijie Su (UPenn)](http://stat.wharton.upenn.edu/~suw/) | [An (Empirical) Law of Data Separation in Deep Learning](#su) | 
 |November 9| [Qing Qu (UMich)](https://qingqu.engin.umich.edu) | [On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks](#qingqu) |
 |November 16| [Dana Yang (Cornell)](https://danayang.github.io) | [Is it easier to count communities than find them?](#yang)|
+|November 30| [Ahmed El Alaoui (Cornell)](https://elalaoui.stat.cornell.edu) | [Sampling, spectral gaps and stochastic localization](#elalaoui)|
 |December 7| [Arian Maleki (Columbia)](https://sites.google.com/site/malekiarian/) | |
 
 
@@ -65,14 +66,24 @@ How do two-layer neural networks learn complex functions from data over time? In
 
 In just five years since their introduction, Transformers have revolutionized large language models and the broader field of deep learning. Central to this transformative success is the groundbreaking self-attention mechanism. In this presentation, I'll introduce a mathematical framework that casts this mechanism as a mean-field interacting particle system, revealing a desirable long-time clustering behavior. This perspective leads to a trove of fascinating questions with unexpected connections to Kuramoto oscillators, sphere packing, and Wasserstein gradient flows.
 
+#### <a name="su"> Weijie Su: An (Empirical) Law of Data Separation in Deep Learning </a>
+
+The law of equi-separation is a pervasive empirical phenomenon that describes how data are separated according to their class membership from the bottom to the top layer in a well-trained neural network. We will show that, through extensive computational experiments, neural networks improve data separation through layers in a simple exponential manner. This law leads to roughly equal ratios of separation that a single layer is able to improve, thereby showing that all layers are created equal. We will conclude the talk by discussing the implications of this law on the interpretation, robustness, and generalization of deep learning, as well as on the inadequacy of some existing approaches toward demystifying deep learning. This is based on joint work with Hangfeng He (arXiv:2210.17020).
+
 #### <a name="qingqu"> Qing Qu: On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks </a>
 
 Over the past few years, an extensively studied phenomenon in training deep networks is the implicit bias of gradient descent towards parsimonious solutions. In this work, we first investigate this phenomenon by narrowing our focus to deep linear networks. Through our analysis, we reveal a surprising "law of parsimony"; in the learning dynamics when the data possesses low-dimensional structures. Specifically, we show that the evolution of gradient descent starting from orthogonal initialization only affects a minimal portion of singular vector spaces across all weight matrices. In other words, the learning process happens only within a small invariant subspace of each weight matrix, even though all weight parameters are updated throughout training. This simplicity in learning dynamics could have significant implications for both efficient training and a better understanding of deep networks. First, the analysis enables us to considerably improve training efficiency by taking advantage of the low-dimensional structure in learning dynamics. We can construct smaller, equivalent deep linear networks without sacrificing the benefits associated with the wider counterparts. Moreover, we demonstrate the potential implications for efficient training deep nonlinear networks.
 Second, it allows us to better understand deep representation learning by elucidating the progressive feature compression and discrimination from shallow to deep layers. The study paves the foundation for understanding hierarchical representations in deep nonlinear networks.
 
-
 #### <a name="yang"> Dana Yang: Is it easier to count communities than find them? </a>
 Random graph models with community structure have been studied extensively in the literature. For both the problems of detecting and recovering community structure, an interesting landscape of statistical and computational phase transitions has emerged. A natural unanswered question is: might it be possible to infer properties of the community structure (for instance, the number and sizes of communities) even in situations where actually finding those communities is believed to be computationally hard? We show the answer is no. In particular, we consider certain hypothesis testing problems between models with different community structures, and we show (in the low-degree polynomial framework) that testing between two options is as hard as finding the communities.
+
+#### <a name="elalaoui"> Ahmed el Alaoui: Sampling, spectral gaps and stochastic localization </a>
+In this talk I will present techniques for efficiently sampling form a high-dimensional probability distribution. The stochastic localization process will take center stage. I will discuss ways of making the process algorithmic, with applications to sampling from mean-field spin glass Gibbs measures, and ways of proving spectral gaps, fast mixing of Markov chains, and related functional inequalities in situations where traditional methods fail. I will take the random field Ising model as an example to illustrate the difficulties.
+
+This talk is partly based on the following papers:
+https://arxiv.org/abs/2310.08912
+https://arxiv.org/abs/2311.06171
 
 ----
 ### Archive 
