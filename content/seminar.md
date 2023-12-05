@@ -38,7 +38,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 |November 9| [Qing Qu (UMich)](https://qingqu.engin.umich.edu) | [On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks](#qingqu) |
 |November 16| [Dana Yang (Cornell)](https://danayang.github.io) | [Is it easier to count communities than find them?](#yang)|
 |November 30| [Ahmed El Alaoui (Cornell)](https://elalaoui.stat.cornell.edu) | [Sampling, spectral gaps and stochastic localization](#elalaoui)|
-|December 7| [Arian Maleki (Columbia)](https://sites.google.com/site/malekiarian/) | |
+|December 7| [Arian Maleki (Columbia)](https://sites.google.com/site/malekiarian/) | [Accurate and efficient data-point removal for high-dimensional settings](#maleki) |
 
 
 ### Abstracts
@@ -84,6 +84,13 @@ In this talk I will present techniques for efficiently sampling form a high-dime
 This talk is partly based on the following papers:
 https://arxiv.org/abs/2310.08912
 https://arxiv.org/abs/2311.06171
+
+#### <a name="maleki"> Arian Maleki: Accurate and efficient data-point removal for high-dimensional settings </a>
+Consider a model trained with $p$ parameters from $n$ independent and identically distributed observations. To assess a data point’s impact on the model, we remove it from the dataset and aim to understand the model’s behavior when trained on the remaining data. This scenario is relevant in various classical and modern applications, including risk estimation, outlier detection, machine unlearning, and data valuation.
+
+Conventional approaches involve training the model on the remaining data, but these can be computationally demanding. Consequently, researchers often resort to approximate methods. This talk highlights that in high-dimensional settings, where $p$ is either larger than $n$ or at the same order, many approximation methods may prove ineffective. We will present and analyze an accurate approximation method tailored for high-dimensional regimes, elucidating the conditions for its accuracy.
+
+In the concluding part of the presentation, time permitting, we will briefly discuss some of the unresolved issues in this domain.
 
 ----
 ### Archive 
