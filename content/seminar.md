@@ -46,9 +46,11 @@ First, we propose a simple method for simulating a general class of non-unitary 
 
 References:
 
-[1] Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost. Physical Review Letters, 131(15):150603 (2023)  .
+[1] Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost. Physical Review Letters, 131(15):150603 (2023).
+
 [2] Efficient quantum algorithm for dissipative nonlinear differential equations. Proceedings of the National Academy of Science 118, 35 (2021).
-[3] Towards provably efficient quantum algorithms for large-scale machine learning models. Nature Communications 15, 434 (2024)
+
+[3] Towards provably efficient quantum algorithms for large-scale machine learning models. Nature Communications 15, 434 (2024).
 
 ----
 ### Archive 
