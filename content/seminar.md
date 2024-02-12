@@ -30,7 +30,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | Date        | Speaker       | Title | 
 |:-----------:|:-------------:|:-----------:|
 | February 8  | [Jin-Peng Liu (MIT)](https://www.jin-peng-liu.me/) | [Quantum for Science: Efficient Quantum Algorithms for Linear and Nonlinear Dynamics](#liu) | 
-| February 15 | [Yaqi duan (NYU)](https://duanyq22.github.io/) | [](#duan) |
+| February 15 | [Yaqi duan (NYU)](https://duanyq22.github.io/) | [Taming “data-hungry” reinforcement learning? Stability in continuous state-action spaces](#duan) |
 | February 22  | [Cun-Hui Zhang (Rutgers)](https://statweb.rutgers.edu/cunhui/) | [](#zhang) |  
 | March 28  | [Zach Izzo (NEC Labs)](https://zleizzo.github.io/) | [](#izzo) |  
 | April 18 | [Tristan Buckmaster (NYU)](https://cims.nyu.edu/~tristanb/) | [](#buckmaster) |
@@ -52,9 +52,13 @@ References:
 
 [3] Towards provably efficient quantum algorithms for large-scale machine learning models. Nature Communications 15, 434 (2024).
 
+#### <a name="duan"> Yaqi Duan: Taming “data-hungry” reinforcement learning? Stability in continuous state-action spaces</a>
+
+We introduce a novel framework for analyzing reinforcement learning (RL) in continuous state-action spaces, and use it to prove fast rates of convergence in both off-line and on-line settings. Our analysis highlights two key stability properties, relating to how changes in value functions and/or policies affect the Bellman operator and occupation measures. We argue that these properties are satisfied in many continuous state-action Markov decision processes, and demonstrate how they arise naturally when using linear function approximation methods. Our analysis offers fresh perspectives on the roles of pessimism and optimism in off-line and on-line RL, and highlights the connection between off-line RL and transfer learning.
+
 ----
 ### Archive 
-[Schedule Spring 2023](https://mathsanddatanyu.github.io/website/seminar_fall2023/)
+[Schedule Fall 2023](https://mathsanddatanyu.github.io/website/seminar_fall2023/)
 
 [Schedule Spring 2023](https://mathsanddatanyu.github.io/website/seminar_spring2023/)
 
