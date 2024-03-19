@@ -60,8 +60,6 @@ We introduce a novel framework for analyzing reinforcement learning (RL) in cont
 
 Sequential data collection has emerged as a widely adopted technique for enhancing the efficiency of data gathering processes. Despite its advantages, such data collection mechanism often introduces complexities to the statistical inference procedure. For instance, the ordinary least squares estimator in an adaptive linear regression model can exhibit non-normal asymptotic behavior, posing challenges for accurate inference and interpretation. We propose a general method for constructing debiased estimator which remedies this issue. The idea is to make use of adaptive linear estimating equations. We establish theoretical guarantees of asymptotic normality, supplemented by discussions on achieving near-optimal asymptotic variance. This talk is based on joint work with Mufang Ying and Koulik Khamaru.
 
-
-
 ----
 ### Archive 
 [Schedule Fall 2023](https://mathsanddatanyu.github.io/website/seminar_fall2023/)

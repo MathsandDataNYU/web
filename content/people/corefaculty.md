@@ -30,6 +30,12 @@ Associate Professor, Department of Computer Science, Center for Data Science and
 #### [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/)
 Associate Professor, Department of Mathematics and Center for Data Science.    
    
+<img style="float: left;" src="../../img/yanjun.jpg" height="90" style="border:4px solid white;"> 
+<br/> 
+
+#### [Yanjun Han](https://yanjunhan2021.github.io/)
+Assistant Professor, Department of Mathematics and Center for Data Science.    
+   
 <img style="float: left;" src="../../img/julia.jpg" height="90" style="border:4px solid white;"> 
 <br/> 
 
