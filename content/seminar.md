@@ -32,7 +32,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | February 8  | [Jin-Peng Liu (MIT)](https://www.jin-peng-liu.me/) | [Quantum for Science: Efficient Quantum Algorithms for Linear and Nonlinear Dynamics](#liu) | 
 | February 15 | [Yaqi duan (NYU)](https://duanyq22.github.io/) | [Taming “data-hungry” reinforcement learning? Stability in continuous state-action spaces](#duan) |
 | February 22  | [Cun-Hui Zhang (Rutgers)](https://statweb.rutgers.edu/cunhui/) | [Adaptive Inference in Sequential Experiments](#zhang) |  
-| March 28  | [Zach Izzo (NEC Labs)](https://zleizzo.github.io/) | [](#izzo) |  
+| March 28  | [Zach Izzo (NEC Labs)](https://zleizzo.github.io/) | [Data-driven Subgroup Identification](#izzo) |  
 | April 18 | [Tristan Buckmaster (NYU)](https://cims.nyu.edu/~tristanb/) | [](#buckmaster) |
 | May 9 | [Guy Bresler (MIT)](https://www.mit.edu/~gbresler/) | [](#bresler) | 
 
@@ -59,6 +59,10 @@ We introduce a novel framework for analyzing reinforcement learning (RL) in cont
 #### <a name="zhang"> Cun-Hui Zhang: Adaptive Inference in Sequential Experiments</a>
 
 Sequential data collection has emerged as a widely adopted technique for enhancing the efficiency of data gathering processes. Despite its advantages, such data collection mechanism often introduces complexities to the statistical inference procedure. For instance, the ordinary least squares estimator in an adaptive linear regression model can exhibit non-normal asymptotic behavior, posing challenges for accurate inference and interpretation. We propose a general method for constructing debiased estimator which remedies this issue. The idea is to make use of adaptive linear estimating equations. We establish theoretical guarantees of asymptotic normality, supplemented by discussions on achieving near-optimal asymptotic variance. This talk is based on joint work with Mufang Ying and Koulik Khamaru.
+
+#### <a name="izzo"> Zach Izzo: Data-driven Subgroup Identification</a>
+
+Medical studies frequently require to extract the relationship between each covariate and the outcome with statistical confidence measures. To do this, simple parametric models are frequently used (e.g. coefficients of linear regression) but usually fitted on the whole dataset. However, it is common that the covariates may not have a uniform effect over the whole population and thus a unified simple model can miss the heterogeneous signal. For example, a linear model may be able to explain a subset of the data but fail on the rest due to the nonlinearity and heterogeneity in the data. In this talk, I will discuss DDGroup (data-driven subgroup discovery), a data-driven method to effectively identify subgroups in the data with a uniform linear relationship between the features and the label. DDGroup outputs an interpretable region in which the linear model is expected to hold. It is simple to implement and computationally tractable for use. It also comes with statistical guarantees: given a large enough sample, DDGroup recovers a region where a single linear model with low variance is well-specified (if one exists), and experiments on real-world medical datasets confirm that it can discover regions where a local linear model has improved performance. Our experiments also show that DDGroup can uncover subgroups with qualitatively different relationships which are missed by simply applying parametric approaches to the whole dataset. Time permitting, I will also discuss the challenges of extending DDGroup to other models. 
 
 ----
 ### Archive 
