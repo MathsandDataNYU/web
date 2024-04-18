@@ -1,4 +1,4 @@
-﻿+++
++++
 date = "2017-03-15T22:37:44-04:00"
 title = "the MIC Seminar"
 Description = ""
@@ -15,6 +15,16 @@ menu = "main"
 +++
 
 The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
+
+### Schedule Spring 2024
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| April 24, 2pm | [Clément Hongler](https://www.hongler.org) (EPFL) | [Arrows of Time for Large Language Models](#hongler) | 7th Floor Open Space, 60 Fifth Avenue |
+| April 30, 4:30pm | [Shuyang Ling](https://cims.nyu.edu/~sling/) (NYU Shanghai) | | |
+
+#### <a name="hongler"></a> Clément Hongler: Arrows of Time for Large Language Models
+
+Abstract: We study the probabilistic modeling performed by Autoregressive Large Language Models through the angle of time directionality. We empirically find a time asymmetry exhibited by such models in their ability to model natural language: a difference in the average log-perplexity when trying to predict the next token versus when trying to predict the previous one. This difference is at the same time subtle and very consistent across various modalities (language, model size, training time, ...). Theoretically, this is surprising: from an information-theoretic point of view, there should be no such difference. We provide a theoretical framework to explain how such an asymmetry can appear from sparsity and computational complexity considerations, and outline a number of perspectives opened by our results.
 
 ### Schedule Fall 2023
 | Date    | Speaker       | Title | Room |
