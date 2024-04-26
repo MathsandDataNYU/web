@@ -36,7 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | April 11 | [Gabriel Peyré (CNRS/ENS Paris)](http://www.gpeyre.com/) | [Conservation Laws for Gradient Flows](#peyre) | 
 | April 18 | [Tristan Buckmaster (NYU)](https://cims.nyu.edu/~tristanb/) | [Singularities in fluid: Self-similar analysis, computer assisted proofs and neural networks](#buckmaster) |
 | April 25 | [Matus Telgarsky (NYU)](https://cims.nyu.edu/~matus/) | [Feature learning and margin maximization via mirror descent](#telgarsky) |
-|May 02 } [Zhuoran Yang (Yale)(https://zhuoranyang.github.io/) | [Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality](#zhuoran) |
+|May 02 | [Zhuoran Yang (Yale)(https://zhuoranyang.github.io/) | [Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality](#zhuoran) |
 | May 9 | [Guy Bresler (MIT)](https://www.mit.edu/~gbresler/) | [](#bresler) | 
 
 
