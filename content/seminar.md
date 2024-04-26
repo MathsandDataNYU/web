@@ -36,6 +36,7 @@ of Applied Mathematics, Statistics and Machine Learning.
 | April 11 | [Gabriel Peyré (CNRS/ENS Paris)](http://www.gpeyre.com/) | [Conservation Laws for Gradient Flows](#peyre) | 
 | April 18 | [Tristan Buckmaster (NYU)](https://cims.nyu.edu/~tristanb/) | [Singularities in fluid: Self-similar analysis, computer assisted proofs and neural networks](#buckmaster) |
 | April 25 | [Matus Telgarsky (NYU)](https://cims.nyu.edu/~matus/) | [Feature learning and margin maximization via mirror descent](#telgarsky) |
+|May 02 } [Zhuoran Yang (Yale)(https://zhuoranyang.github.io/) | [Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality](#zhuoran) |
 | May 9 | [Guy Bresler (MIT)](https://www.mit.edu/~gbresler/) | [](#bresler) | 
 
 
@@ -79,6 +80,11 @@ In this presentation, I will provide an overview of how techniques involving sel
 This whiteboard talk will motivate and describe the margin maximization problem in neural networks, and show how it can be solved via a simple refinement of the standard mirror descent analysis.  In detail, the first part of the talk will explain how margin maximization is an approach to establishing feature learning; as an example, it can achieve sample complexities better than any kernel (e.g., the NTK).  The talk will then show how standard gradient descent can be analyzed via an alternative implicit mirror descent, and leads to margin maximization.  Time permitting, the talk will also show other consequences of this refined mirror descent, for instance into the study of arbitrarily large steps sizes with logistic regression.
 
 The main content is joint work with Danny Son, and will appear on arXiv in May.  The “time permitting” part is joint work with Jingfeng Wu, Peter Bartlett, and Bin Yu, and can be found at https://arxiv.org/abs/2402.15926.
+
+#### <a name="zhuoran"> Zhuoran Yang: Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality</a>
+
+I this talk, we will examine the dynamics of gradient flow for training a multi-head softmax attention model for in-context learning of multi-task linear regression. We establish the global convergence of gradient flow under suitable choices of initialization. In addition, we prove that an interesting "task allocation" phenomenon emerges during the gradient flow dynamics, where each attention head focuses on solving a single task of the multi-task model. Specifically, we prove that the gradient flow dynamics can be split into three phases -- a warm-up phase where the loss decreases rather slowly and the attention heads gradually build up their inclination towards individual tasks, an emergence phase where each head selects a single task and the loss rapidly decreases, and a convergence phase where the attention parameters converge to a limit. Furthermore, we prove the optimality of gradient flow in the sense that the limiting model learned by gradient flow is on par with the best possible multi-head softmax attention model up to a constant factor. Our analysis also delineates a strict separation in terms of the prediction accuracy of ICL between single-head and multi-head attention models. The key technique for our convergence analysis is to map the gradient flow dynamics in the parameter space to a set of ordinary differential equations in the spectral domain, where the relative magnitudes of the semi-singular values of the attention weights determines task allocation. To our best knowledge, our work provides the first convergence result for the multi-head softmax attention model. This is joint work with Siyu Chen, Heejune Sheen, Tianhao Wang. 
+
 
 ----
 ### Archive 
