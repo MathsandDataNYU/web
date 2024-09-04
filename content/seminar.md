@@ -29,11 +29,19 @@ of Applied Mathematics, Statistics and Machine Learning.
 
 | Date        | Speaker       | Title | 
 |:-----------:|:-------------:|:-----------:|
-|   |  |  | 
+|  September 12 |[Joel A. Tropp (Caltech)](https://tropp.caltech.edu/) | [Randomly Pivoted Cholesky](#tropp) | 
 
 
 ### Abstracts
+#### <a name="tropp"> Joel A. Tropp: Randomly pivoted Cholesky </a>
 
+André-Louis Cholesky entered École Polytechnique as a student in 1895. Before 1910, during his work as a surveyer for the French army, Cholesky invented a technique for solving positive-definite systems of linear equations. Cholesky's method can also be used to approximate a positive-semidefinite (psd) matrix using a small number of columns, called "pivots". A longstanding question is how to choose the pivot columns to achieve the best possible approximation.
+
+This talk describes a simple but powerful randomized procedure for adaptively picking the pivot columns. This algorithm, randomly pivoted Cholesky (RPC), provably achieves near-optimal approximation guarantees. Moreover, in experiments, RPC matches or improves on the performance of alternative algorithms for low-rank psd approximation.
+
+Cholesky died in 1918 from wounds suffered in battle. In 1924, Cholesky's colleague, Commandant Benoit, published his manuscript. One century later, a modern adaptation of Cholesky's method still yields state-of-the-art performance for problems in scientific machine learning.
+
+Joint work with Yifan Chen, Ethan Epperly, and Rob Webber. Available at arXiv:2207.06503.
 
 
 ----
