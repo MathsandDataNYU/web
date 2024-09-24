@@ -14,7 +14,18 @@ menu = "main"
 
 +++
 
-The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
+The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied math, information theory and theory of computation.
+
+### Schedule Fall 2024
+| Date    | Speaker       | Title | Room |
+| ----------- |:-------------:|:-----------:|:------| 
+| Sept 30, 12pm | [Anya Katsevich](https://anyakatsevich.github.io/) (MIT) | [Laplace asymptotics in high-dimensional Bayesian inference](#katsevich) | Room 650, 60 Fifth Avenue|
+
+
+
+#### <a name="katsevich"></a> Anya Katsevich: Laplace asymptotics in high-dimensional Bayesian inference
+
+Computing integrals against a high-dimensional posterior distribution is the major computational bottleneck in Bayesian inference. A popular technique to make this computation cheaper is to use the Laplace approximation (LA), a Gaussian distribution, in place of the true posterior. Yet the accuracy of this approximation is not fully understood in high dimensions. We derive a new, leading order asymptotic decomposition of the LA error in high dimensions. This leads to lower bounds which resolve the question of the dimension dependence of the LA. It also leads to a simple modification to the LA which yields a higher-order accurate posterior approximation. Finally, we derive the high-dimensional analogue of the classical asymptotic expansion of Laplace-type integrals. This opens the door to approximating the partition function (aka the posterior normalizing constant), of use in high-dimensional model selection and many other applications beyond statistics.
 
 ### Schedule Spring 2024
 | Date    | Speaker       | Title | Room |
