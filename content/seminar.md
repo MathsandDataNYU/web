@@ -31,6 +31,8 @@ of Applied Mathematics, Statistics and Machine Learning.
 |:-----------:|:-------------:|:-----------:|
 |  September 12 |[Joel A. Tropp (Caltech)](https://tropp.caltech.edu/) | [Randomly Pivoted Cholesky](#tropp) | 
 | September 19| [Cyril Letrouit (Orsay)](https://www.imo.universite-paris-saclay.fr/~cyril.letrouit/)| [Stability of optimal transport: old and new](#letrouit) |
+| October 10 |[Nikita Zhivotovskiy (UC Berkeley)](https://sites.google.com/view/nikitazhivotovskiy/) | [Mean and covariance estimation of anisotropic distributions in the presence of adversarial outliers](#zhivotovskiy) | 
+
 
 
 ### Abstracts
@@ -50,6 +52,9 @@ Optimal transport consists in sending a given source probability measure to a gi
 The question we will discuss is the following: how does this optimal transport map change if we perturb the target measure? For instance, if instead of the target measure we only have access to samples of it, how much does the optimal transport map change? This question, motivated by numerical aspects of optimal transport, has started to receive partial answers only recently, under quite restrictive assumptions on the source measure. We will review these answers and show how to handle much more general cases.
 
 This is a joint work with Quentin Mérigot.
+
+#### <a name="zhivotovskiy"> Nikita Zhivotovskiy: Mean and covariance estimation of anisotropic distributions in the presence of adversarial outliers </a>
+Suppose we are observing a sample of independent random vectors with unknown general covariance structure, knowing that the original distribution was contaminated, so that a fraction of observations came from a different distribution. How to estimate the mean and the covariance matrix of the original distribution in this case? In this talk, we discuss some recent estimators that achieve the optimal non-asymptotic, dimension-free rate of convergence under the model where the adversary can corrupt a fraction of the samples arbitrarily. The discussion will cover a wide range of distributions including heavy-tailed, sub-Gaussian, and specifically Gaussian distributions.
 
 ----
 ### Archive 
